@@ -1,0 +1,438 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+School of Biological Sciences
+Molecular Biology and Biochemistry
+  Mol Bio   200C     NEUROCHEMISTRY
+	    
+
+10005, Res, A, 2-12, ASWAD, D.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     PAPILLOMAVIRUS/CANC
+	    
+
+10010, Res, B, 2-12, BERNARD, H.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     YEAST MOL GENETICS
+	    
+
+10015, Res, C, 2-12, CUMSKY, M.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     TOPIC:COMPUT BIOCHE
+	    
+
+10020, Res, D, 2-12, LUO, R.,       TBA, TBA,     TBA, 999, 2, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     PHAGE DISPLAY
+	    
+
+10024, Res, E, 2-12, WEISS, G.,       TBA, TBA,     TBA, 999, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     TUMOR VIROLOGY
+	    
+
+10030, Res, G, 2-12, FAN, H.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     IMMUNO/CELL BIOLOGY
+	    
+
+10032, Res, H, 2-12, FRUMAN, D.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     SURFACE CELL BIOCH
+	    
+
+10035, Res, I, 2-12, GLABE, C.,       TBA, TBA,     TBA, 999, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     MOLEC BIO/MALARIA
+	    
+
+10055, Res, K, 2-12, JAMES, A.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     MACROMOL STRUCTURE
+	    
+
+10065, Res, M, 2-12, MCPHERSON, A.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     TUMOR IMMUNOLOGY
+	    
+
+10067, Res, N, 2-12, NELSON, E.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     PROTEIN CRYSTALLOG
+	    
+
+10075, Res, P, 2-12, POULOS, T.,       TBA, TBA,     TBA, 999, 4, n/a, 4, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     PROT/DNA REG ASSEMB
+	    
+
+10080, Res, Q, 2-12, SENEAR, D.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     MOLECULAR VIROL/IMM
+	    
+
+10085, Res, R, 2-12, LANE, T.,       TBA, TBA,     TBA, 999, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     LEUKOCYTE RECEPTORS
+	    
+
+10090, Res, S, 2-12, TENNER, A.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     IMMUNOLOGY
+	    
+
+10100, Res, T, 2-12, WALSH, C.,       TBA, TBA,     TBA, 999, 4, n/a, 5, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     VIRAL GENE CONTROL
+	    
+
+10105, Res, U, 2-12, VILLARREAL, L.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     ORYZALIN RES MUTS
+	    
+
+10115, Res, X, 2-12, MORRISSETTE, N.,       TBA, TBA,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     PROTEIN BIOCHEM
+	    
+
+10118, Res, Y, 2-12, RIBBE, M.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     MRNA MODIFICATION
+	    
+
+10119, Res, Z, 2-12, GERSHON, P.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     IMMUNOLOGY
+	    
+
+10120, Res, AA, 2-12, HUGHES, C.,       TBA, TBA,     TBA, 10, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     TB STRUCT GENOMICS
+	    
+
+10122, Res, BB, 2-12, GOULDING, C.,       TBA, TBA,     TBA, 10, 4, n/a, 4, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     PROTEIN CRYSTALLOG
+	    
+
+10125, Res, CC, 2-12, LUECKE, H.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     BIOMOLECULAR NMR
+	    
+
+10128, Res, DD, 2-12, COCCO, M.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     IG GENE EXPRESSION
+	    
+
+10130, Res, EE, 2-12, CASALI, P.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     SOLID STATE NMR
+	    
+
+10133, Res, GG, 2-12, MARTIN, R.,       TBA, NS1 1403,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     STRUCT &DRUG DESIGN
+	    
+
+10134, Res, HH, 2-12, TSAI, S.,       TBA, TBA,     TBA, 10, 5, n/a, 5, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     MOL NEUROPHARM
+	    
+
+10136, Res, II, 2-12, REINSCHEID, R.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     VIRAL PATHOGENSIS
+	    
+
+10138, Res, JJ, 2-12, BUCHMEIER, M.,       TBA, TBA,     TBA, 10, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     RNA MOL BIO
+	    
+
+10140, Res, KK, 2-12, LUPTAK, A.,       TBA, TBA,     TBA, 10, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     PARASITE IMMUNITY
+	    
+
+10145, Res, LL, 2-12, LODOEN, M.,       TBA, TBA,     TBA, 10, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     RESEARCH
+	    
+
+10146, Res, MM, 2-12, PRESCHER, J.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     MIRS & DISEASE
+	    
+
+10147, Res, NN, 2-12, PEDERSEN, I.,       TBA, TBA,     TBA, 10, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   200C     NEURAL STEM CELL
+	    
+
+10148, Res, OO, 2-12, FLANAGAN-MONUK, L.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   200R     FIRST YEAR RESEARCH
+	    
+
+10200, Lab, A, 2-12, ASWAD, D.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10204, Lab, C, 2-12, CUMSKY, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10206, Lab, D, 2-12, CASALI, P.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+10208, Lab, E, 2-12, COCCO, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10210, Lab, F, 2-12, FRUMAN, D.,       TBA, TBA,     TBA, 10, 1, n/a, 2, S, Bookstore,  , OPEN
+10212, Lab, G, 2-12, FAN, H.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10214, Lab, H, 2-12, BERNARD, H.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10216, Lab, I, 2-12, GLABE, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10218, Lab, J, 2-12, GOULDING, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10220, Lab, K, 2-12, GERSHON, P.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10224, Lab, M, 2-12, HUGHES, C.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+10226, Lab, N, 2-12, JAMES, A.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10228, Lab, O, 2-12, LANE, T.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10230, Lab, P, 2-12, LUECKE, H.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10232, Lab, Q, 2-12, LUO, R.,       TBA, TBA,     TBA, 10, 2, n/a, 2, S, Bookstore,  , OPEN
+10234, Lab, R, 2-12, MARTIN, R.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10236, Lab, S, 2-12, MCPHERSON, A.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10238, Lab, T, 2-12, MORRISSETTE, N.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10240, Lab, U, 2-12, NELSON, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10244, Lab, W, 2-12, POULOS, T.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10246, Lab, X, 2-12, REINSCHEID, R.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10248, Lab, Y, 2-12, RIBBE, M.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+10252, Lab, AA, 2-12, SENEAR, D.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10254, Lab, BB, 2-12, TENNER, A.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10256, Lab, CC, 2-12, TSAI, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10258, Lab, DD, 2-12, VILLARREAL, L.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10260, Lab, EE, 2-12, WALSH, C.,       TBA, TBA,     TBA, 10, 0, n/a, 1, S, Bookstore,  , OPEN
+10262, Lab, FF, 2-12, WEISS, G.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10264, Lab, GG, 2-12, BUCHMEIER, M.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+10266, Lab, HH, 2-12, LUPTAK, A.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10268, Lab, II, 2-12, LODOEN, M.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+10269, Lab, JJ, 2-12, PEDERSEN, I.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+10270, Lab, KK, 2-12, PRESCHER, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, S, Bookstore,  , OPEN
+10271, Lab, LL, 2-12, KWON, Y.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+10272, Lab, MM, 2-12, BOIKO, A.,       TBA, TBA,     TBA, 10, 2, n/a, 2, S, Bookstore,  , OPEN
+10273, Lab, NN, 2-12, RAZORENOVA, O.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+10275, Lab, OO, 2-12, BENMOHAMED, L.,       TBA, TBA,     TBA, 10, 1, n/a, 1, S, Bookstore,  , OPEN
+
+  Mol Bio   201C     SEM MOL BIO
+	    
+
+10300, Sem, A, 2, COCCO, M., F   11:30- 1:50p, SH 174,     TBA, 78, 51, n/a, 53, K and S, Bookstore,  , OPEN
+10302, Sem, B, 2, GERSHON, P.CAMERINI, D., Tu    4:00- 5:20p, MH 1246,     TBA, 15, 8, n/a, 9, S, Bookstore,  , OPEN
+
+  Mol Bio   202C     PAPILLOMAVIRUS/CANC
+	    
+
+10400, Tut, 1, 2, BERNARD, H.,       TBA, TBA,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     NEUROCHEMISTRY
+	    
+
+10402, Tut, A, 2, ASWAD, D.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     YEAST MOL GENETICS
+	    
+
+10404, Tut, B, 2, CUMSKY, M.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     IMMUNOLOGY
+	    
+
+10406, Tut, C, 2, HUGHES, C., F   10:00-11:50 , TBA,     TBA, 999, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     TOPIC:COMPUT BIOCHE
+	    
+
+10408, Tut, D, 2, LUO, R.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     TUMOR VIROLOGY
+	    
+
+10410, Tut, E, 2, FAN, H.,       TBA, TBA,     TBA, 999, 1, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     IMMUNO/CELL BIO
+	    
+
+10412, Tut, F, 2, FRUMAN, D.,       TBA, TBA,     TBA, 999, 1, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     TB STRUCT GENOMICS
+	    
+
+10414, Tut, G, 2, GOULDING, C.,       TBA, TBA,     TBA, 20, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     SURFACE CELL BIOCH
+	    
+
+10416, Tut, H, 2, GLABE, C.,       TBA, TBA,     TBA, 999, 4, n/a, 4, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     MOLEC BIO/MALARIA
+	    
+
+10418, Tut, I, 2, JAMES, A.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     MACROMOL STRUCTURE
+	    
+
+10420, Tut, J, 2, MCPHERSON, A.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     TUMOR IMMUNOLOGY
+	    
+
+10422, Tut, K, 2, NELSON, E.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     PROTEIN CRYSTALLOG
+	    
+
+10424, Tut, M, 2, POULOS, T.,       TBA, TBA,     TBA, 999, 4, n/a, 4, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     PROT/DNA REG ASSEMB
+	    
+
+10426, Tut, N, 2, SENEAR, D.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     PROTEIN CRYSTALLOG
+	    
+
+10428, Tut, O, 2, LUECKE, H.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     LEUKOCYTE RECEPTORS
+	    
+
+10430, Tut, P, 2, TENNER, A.,       TBA, TBA,     TBA, 999, 1, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     BIOMOLECULAR NMR
+	    
+
+10432, Tut, Q, 2, COCCO, M.,       TBA, TBA,     TBA, 999, 1, n/a, 1, A, Bookstore,  , OPEN
+
+  Mol Bio   202C     STRUCT &DRUG DESIGN
+	    
+
+10434, Tut, S, 2, TSAI, S.,       TBA, TBA,     TBA, 999, 4, n/a, 4, A, Bookstore,  , OPEN
+
+  Mol Bio   202C     VIRAL GENE CONTROL
+	    
+
+10436, Tut, T, 2, VILLARREAL, L.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     IMMUNOLOGY
+	    
+
+10438, Tut, U, 2, WALSH, C.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     IG GENE EXPRESSION
+	    
+
+10440, Tut, V, 2, CASALI, P.,       TBA, TBA,     TBA, 999, 2, n/a, 2, A, Bookstore,  , OPEN
+
+  Mol Bio   202C     ORYZALIN RES MUT
+	    
+
+10442, Tut, X, 2, MORRISSETTE, N.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     PROTEIN BIOCHEM
+	    
+
+10444, Tut, Y, 2, RIBBE, M.,       TBA, TBA,     TBA, 999, 2, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     MRNA MODIFICATION
+	    
+
+10446, Tut, Z, 2, GERSHON, P.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     MOLECULAR VIROL/IMM
+	    
+
+10448, Tut, AA, 2, LANE, T.,       TBA, TBA,     TBA, 999, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     PHAGE DISPLAY
+	    
+
+10450, Tut, BB, 2, WEISS, G.,       TBA, TBA,     TBA, 999, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     MOL NEUROPHARM
+	    
+
+10452, Tut, CC, 2, REINSCHEID, R.,       TBA, TBA,     TBA, 10, 0, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     SOLID STATE NMR
+	    
+
+10454, Tut, DD, 2, MARTIN, R.,       TBA, TBA,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     VIRAL PATHOGENSIS
+	    
+
+10456, Tut, EE, 2, BUCHMEIER, M.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     RNA MOL BIO
+	    
+
+10458, Tut, FF, 2, LUPTAK, A.,       TBA, TBA,     TBA, 10, 4, n/a, 4, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     PARASITE IMMUNITY
+	    
+
+10460, Tut, GG, 2, LODOEN, M.,       TBA, TBA,     TBA, 10, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     RESEARCH
+	    
+
+10461, Tut, HH, 2, PRESCHER, J.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   202C     MIRS & DISEASE
+	    
+
+10462, Tut, II, 2, PEDERSEN, I.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Mol Bio   227     IMMUNOL JOURNL CLUB
+	    
+
+10560, Sem, A, 2, CASALI, P.WALSH, C., W   12:00-12:50p, MH 3248,     TBA, 20, 10 / 16, n/a, 11, A and S, Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 92727 M&MG 227, Lec A)
+			
+		    , 
+			        (same as 92727 M&MG 227, Lec A)
+			,  ,  
+
+			        (same as 92727 M&MG 227, Lec A)
+			
+
+  Mol Bio   227L     VIROL & IMMUN LAB
+	    
+
+10570, Lab, A, 5, BERNARD, H.WALSH, C., Th    1:00- 4:50p, SH 156,     TBA, 16, 11, n/a, 11, K, Bookstore, Web, OPEN
+10571, Lec, A1, 0, BERNARD, H.WALSH, C., M   12:00-12:50p, RH 192,  , 20, 10, n/a, 10, A, Bookstore, Web, OPEN
+
+  Mol Bio   229     RESEARCH IN PROG
+	    
+
+10635, Sem, A, 1, HUGHES, C., Tu   12:00-12:50p, NS2 4201, Mon, Jun 10, 1:30-3:30pm, 80, 51, n/a, 53, K and S, Bookstore,  , OPEN
+
+  Mol Bio   292C     SCIENTIFIC COMMUNCN
+	    
+
+10800, Sem, A, 2, ASWAD, D.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+10801, Sem, B, 2, LANE, T.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+10802, Sem, C, 2, GOULDING, C.,       TBA, TBA,     TBA, 40, 2, n/a, 3, K and S, Bookstore,  , OPEN
+10803, Sem, D, 2, MORRISSETTE, N.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+10804, Sem, E, 2, COCCO, M.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+10805, Sem, F, 2, BUCHMEIER, M.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+10806, Sem, G, 2, POULOS, T.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K and S, Bookstore,  , OPEN
+10808, Sem, H, 2, RIBBE, M.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+10810, Sem, I, 2, VILLARREAL, L.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+10812, Sem, J, 2, WALSH, C.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+10813, Sem, K, 2, LUO, R.,       TBA, TBA,     TBA, 40, 2, n/a, 2, K and S, Bookstore,  , OPEN
+10814, Sem, L, 2, LODOEN, M.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K and S, Bookstore,  , OPEN
+10815, Sem, M, 2, PEDERSEN, I.,       TBA, TBA,     TBA, 40, 2, n/a, 2, K and S, Bookstore,  , OPEN
+
+  Mol Bio   293C     CANCER BIO JNL CLUB
+	    
+
+10850, Sem, A, 1, SUETTERLIN, C., M   12:00- 1:20p, SPH 105, Wed, Jun 12, 4:00-6:00pm, 20, 5, n/a, 5, S, Bookstore,  , OPEN
+
+  Mol Bio   399     UNIVERSITY TEACHING
+	    
+
+10990, Tut, A, 4, CUMSKY, M.,       TBA, TBA,     TBA, 999, 28, n/a, 28, A, Bookstore,  , OPEN
+

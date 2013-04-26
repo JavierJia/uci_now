@@ -1,0 +1,311 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+School of Physical Sciences
+Earth System Science
+  EarthSS   5     THE ATMOSPHERE
+	    
+
+42000, Lec, A, 4, FERGUSON, J., TuTh    2:00- 3:20p, BS3 1200, Thu, Jun 13, 1:30-3:30pm, 391, 391, n/a, 679,  , Bookstore, Web, FULL
+42001, Dis, 1, 0, YANG, H.FERGUSON, J., M    9:00- 9:50 , RH 184,  , 45, 45, n/a, 64,  , Bookstore, Web, FULL
+42002, Dis, 2, 0, YANG, H.FERGUSON, J., M   10:00-10:50 , RH 184,  , 45, 48, n/a, 56,  , Bookstore, Web, FULL
+42003, Dis, 3, 0, LAWRENCE, C.FERGUSON, J., W   11:00-11:50 , RH 184,  , 45, 43, n/a, 66,  , Bookstore,  , OPEN
+42004, Dis, 4, 0, LAWRENCE, C.FERGUSON, J., W   12:00-12:50p, RH 184,  , 45, 45, n/a, 61,  , Bookstore,  , FULL
+42005, Dis, 5, 0, CHANDANPURKAR, H.FERGUSON, J., W    1:00- 1:50p, RH 184,  , 45, 44, n/a, 68,  , Bookstore,  , OPEN
+42006, Dis, 6, 0, SHERMAN, E.FERGUSON, J., F    9:00- 9:50 , RH 184,  , 44, 44, n/a, 54,  , Bookstore, Web, FULL
+42007, Dis, 7, 0, CHANDANPURKAR, H.FERGUSON, J., F   10:00-10:50 , RH 184,  , 44, 44, n/a, 53,  , Bookstore,  , FULL
+42008, Dis, 8, 0, SHERMAN, E.FERGUSON, J., F   12:00-12:50p, RH 184,  , 39, 40, n/a, 66,  , Bookstore, Web, FULL
+42009, Dis, 9, 0, CHANDANPURKAR, H.FERGUSON, J., F    2:00- 2:50p, RH 184,  , 39, 39, n/a, 55,  , Bookstore,  , FULL
+
+  EarthSS   15     CLIMATE CHANGE
+	    
+
+42020, Lec, A, 4, VELICOGNA, I., TuTh   12:30- 1:50p, DBH 1100, Mon, Jun 10, 1:30-3:30pm, 246, 244, n/a, 441, B, Bookstore, Web, OPEN
+42021, Dis, 1, 0, STAFFVELICOGNA, I., M    1:00- 1:50p, RH 184,  , 41, 42, n/a, 64,  , Bookstore,  , FULL
+42022, Dis, 2, 0, STAFFVELICOGNA, I., M    2:00- 2:50p, RH 184,  , 41, 40, n/a, 62,  , Bookstore,  , OPEN
+42023, Dis, 3, 0, STAFFVELICOGNA, I., W    9:00- 9:50 , RH 184,  , 41, 41, n/a, 50,  , Bookstore,  , FULL
+42024, Dis, 4, 0, STAFFVELICOGNA, I., W   10:00-10:50 , RH 184,  , 41, 40, n/a, 57,  , Bookstore,  , OPEN
+42025, Dis, 5, 0, STAFFVELICOGNA, I., W    2:00- 2:50p, RH 184,  , 41, 41, n/a, 64,  , Bookstore,  , FULL
+42026, Dis, 6, 0, STAFFVELICOGNA, I., F   11:00-11:50 , RH 184,  , 41, 40, n/a, 57,  , Bookstore,  , OPEN
+
+  EarthSS   19     MODELING THE EARTH
+	    
+
+42040, Lec, A, 4, FERGUSON, J., MWF   11:00-11:50 , MSTB 226, Tue, Jun 11, 1:30-3:30pm, 46, 44, n/a, 120, B, Bookstore, Web, OPEN
+42041, Lab, 1, 0, AN, L.FERGUSON, J., M    1:00- 2:50p, MSTB 226,  , 46, 44, n/a, 83,  , Bookstore,  , OPEN
+
+  EarthSS   55     EARTH'S ATMOSPHERE      (Prerequisites)
+	    
+
+42060, Lec, A, 4, MAGNUSDOTTIR, G., TuTh   11:00-12:20p, RH 104, Tue, Jun 11, 10:30-12:30pm, 66, 67, n/a, 147, A and L, Bookstore, Web, FULL
+42061, Dis, 1, 0, ZOU, Y.MAGNUSDOTTIR, G., M   12:00-12:50p, RH 184,  , 38, 38, n/a, 39,  , Bookstore,  , FULL
+42062, Dis, 2, 0, ZOU, Y.MAGNUSDOTTIR, G., Tu    2:00- 2:50p, RH 184,  , 12, 11, n/a, 7,  , Bookstore,  , OPEN
+42063, Dis, 3, 0, ZOU, Y.MAGNUSDOTTIR, G., F    1:00- 1:50p, RH 184,  , 16, 18, n/a, 14,  , Bookstore,  , FULL
+
+  EarthSS   60C     GLOBAL ENV ISSUES
+	    
+
+42080, Lec, A, 4, RANDERSON, J., TuTh   12:30- 1:50p, RH 184, Mon, Jun 10, 1:30-3:30pm, 45, 46, n/a, 59,  , Bookstore, Web, FULL
+42081, Dis, 1, 0, DELMAN, E.RANDERSON, J., M   11:00-11:50 , RH 184,  , 45, 46, n/a, 48,  , Bookstore,  , FULL
+
+  EarthSS   110     ENVIRON CONTROVERSY      (Prerequisites)
+	    
+
+42100, Lec, A, 4, ZENDER, C., TuTh    9:30-10:50 , RH 184, Thu, Jun 13, 8:00-10:00am, 45, 8, n/a, 26, A and B, Bookstore, Web, OPEN
+
+  EarthSS   114     ESS FIELD METHODS      (Prerequisites)
+	    
+
+42120, Lec, A, 4, GOULDEN, M., Tu    2:00- 3:20p, MSTB 120, Thu, Jun 13, 1:30-3:30pm, 72, 73, n/a, 84, A and L, Bookstore, Web, FULL
+42121, Lab, 1, 0, STAFFGOULDEN, M., W   11:00- 1:50p, RH 204,  , 18, 19, n/a, 21,  , Bookstore,  , FULL
+42122, Lab, 2, 0, STAFFGOULDEN, M., W    2:00- 4:50p, RH 204,  , 18, 18, n/a, 20,  , Bookstore,  , FULL
+42123, Lab, 3, 0, STAFFGOULDEN, M., Th   12:30- 3:20p, RH 204,  , 18, 18, n/a, 18,  , Bookstore,  , FULL
+42124, Lab, 4, 0, STAFFGOULDEN, M., F    1:00- 3:50p, RH 204,  , 18, 18, n/a, 19,  , Bookstore,  , FULL
+
+  EarthSS   138     REMOTE SENSING      (Prerequisites)
+	    
+
+42130, Lec, A, 4, RIGNOT, E., TuTh   11:00-12:20p, RH 184, Tue, Jun 11, 10:30-12:30pm, 45, 15, n/a, 31, A, Bookstore, Web, OPEN
+42131, Lab, 1, 0, RIGNOT, E., M    3:00- 5:50p, MSTB 210,  , 45, 15, n/a, 25,  , Bookstore,  , OPEN
+
+  EarthSS   144     MARINE GEOCHEMISTRY      (Prerequisites)
+	    
+
+42140, Lec, A, 4, DRUFFEL, E., TuTh   12:30- 1:50p, CRH 3101, Mon, Jun 10, 1:30-3:30pm, 45, 39, n/a, 49, A and B, Bookstore, Web, OPEN
+
+  EarthSS   172     SCI COMM & OUTREACH      (Prerequisites)
+	    
+
+42145, Sem, A, 2, ZENDER, C., Th    2:00- 3:20p, CRH 3101,     TBA, 40, 10, n/a, 13, A and D, Bookstore, Web, OPEN
+
+  EarthSS   178     ENGY-CARBON-CLIMATE      (Prerequisites)
+	    
+
+42150, Lec, A, 4, DAVIS, S., TuTh    8:00- 9:20 , PCB 1200, Tue, Jun 11, 8:00-10:00am, 56, 16, n/a, 28, A and B, Bookstore, Web, OPEN
+
+  EarthSS   182     SUSTAINABILITY II
+	    
+
+42160, Lec, A, 4, MATTHEW, R., W    7:00- 9:50p, ELH 100, Wed, Jun 12, 7:00-9:00pm, 200, 88 / 194, n/a, 107,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 54140 PP&D 132, Lec A)
+			
+		    , 
+			        (same as 54140 PP&D 132, Lec A)
+			,  ,  
+
+			        (same as 54140 PP&D 132, Lec A)
+			
+
+  EarthSS   190CW     GLOBAL SUSTAINABLTY
+	    
+
+42180, Sem, A, 4, BOWLER, P., Th   10:30- 1:20p, HSLH 200,     TBA, 40, 24 / 44, n/a, 55, B and J, Bookstore, Web/P, FULL
+ ,  , 
+		
+			        (same as 06075 Bio Sci 191CW, Sem A;   and 50150 SocEcol 186CW, Sem A)
+			
+		    , 
+			        (same as 06075 Bio Sci 191CW, Sem A;   and 50150 SocEcol 186CW, Sem A)
+			,  ,  
+
+			        (same as 06075 Bio Sci 191CW, Sem A;   and 50150 SocEcol 186CW, Sem A)
+			
+
+  EarthSS   197     INDEPENDENT STUDY
+	    
+
+42190, Fld, A, 1-4, FERGUSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 2, B and D, Bookstore,  , OPEN
+
+  EarthSS   198     ESS SENIOR THESIS
+	    
+
+42200, Lec, A, 4, ALLISON, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42202, Lec, B, 4, CZIMCZIK, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42204, Lec, C, 4, DAVIS, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42206, Lec, D, 4, DRUFFEL, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42208, Lec, E, 4, DUPONT, T.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42210, Lec, F, 4, FAMIGLIETTI, J.,       TBA, TBA,     TBA, 10, 0, n/a, 1, B, Bookstore,  , OPEN
+42212, Lec, G, 4, FERGUSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42214, Lec, H, 4, GOULDEN, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42216, Lec, I, 4, JOHNSON, K.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42218, Lec, J, 4, KIM, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42220, Lec, K, 4, MAGNUSDOTTIR, G.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42222, Lec, L, 4, MARTINY, A.,       TBA, TBA,     TBA, 10, 0, n/a, 1, B, Bookstore,  , OPEN
+42224, Lec, M, 4, MOORE, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42226, Lec, N, 4, PRATHER, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42228, Lec, O, 4, PRIMEAU, F.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42230, Lec, P, 4, PRITCHARD, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42232, Lec, Q, 4, RANDERSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42234, Lec, R, 4, RIGNOT, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42236, Lec, S, 4, SALTZMAN, E.,       TBA, TBA,     TBA, 10, 0, n/a, 1, B, Bookstore,  , OPEN
+42238, Lec, T, 4, SOUTHON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42240, Lec, U, 4, TRUMBORE, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42242, Lec, V, 4, VELICOGNA, I.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42244, Lec, W, 4, YU, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42246, Lec, X, 4, ZENDER, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+
+  EarthSS   H198     HONORS THESIS
+	    
+
+42300, Lec, A, 4, ALLISON, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42302, Lec, B, 4, CZIMCZIK, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42304, Lec, C, 4, DAVIS, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42306, Lec, D, 4, DRUFFEL, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42308, Lec, E, 4, DUPONT, T.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42310, Lec, F, 4, FAMIGLIETTI, J.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42312, Lec, G, 4, FERGUSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42314, Lec, H, 4, GOULDEN, M.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42316, Lec, I, 4, JOHNSON, K.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42318, Lec, J, 4, KIM, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42320, Lec, K, 4, MAGNUSDOTTIR, G.,       TBA, TBA,     TBA, 10, 0, n/a, 1, B, Bookstore,  , OPEN
+42322, Lec, L, 4, MARTINY, A.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42324, Lec, M, 4, MOORE, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42326, Lec, N, 4, PRATHER, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42328, Lec, O, 4, PRIMEAU, F.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42330, Lec, P, 4, PRITCHARD, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42332, Lec, Q, 4, RANDERSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42334, Lec, R, 4, RIGNOT, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42336, Lec, S, 4, SALTZMAN, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42338, Lec, T, 4, SOUTHON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42340, Lec, U, 4, TRUMBORE, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42342, Lec, V, 4, VELICOGNA, I.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42344, Lec, W, 4, YU, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42346, Lec, X, 4, ZENDER, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+
+  EarthSS   199     UNDERGRAD RES
+	    
+
+42400, Res, A, 1-4, ALLISON, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42402, Res, B, 1-4, CZIMCZIK, C.,       TBA, TBA,     TBA, 10, 2, n/a, 1, B, Bookstore,  , OPEN
+42404, Res, C, 1-4, DAVIS, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42406, Res, D, 1-4, DRUFFEL, E.,       TBA, TBA,     TBA, 10, 1, n/a, 0, B, Bookstore,  , OPEN
+42408, Res, E, 1-4, DUPONT, T.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42410, Res, F, 1-4, FAMIGLIETTI, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42412, Res, G, 1-4, FERGUSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42414, Res, H, 1-4, GOULDEN, M.,       TBA, TBA,     TBA, 10, 4, n/a, 3, B, Bookstore,  , OPEN
+42416, Res, I, 1-4, JOHNSON, K.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42418, Res, J, 1-4, KIM, S.,       TBA, TBA,     TBA, 10, 2, n/a, 2, B, Bookstore,  , OPEN
+42420, Res, K, 1-4, MAGNUSDOTTIR, G.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42422, Res, L, 1-4, MARTINY, A.,       TBA, TBA,     TBA, 10, 2, n/a, 2, B, Bookstore,  , OPEN
+42424, Res, M, 1-4, MOORE, J.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42426, Res, N, 1-4, PRATHER, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42428, Res, O, 1-4, PRIMEAU, F.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42430, Res, P, 1-4, PRITCHARD, M.,       TBA, TBA,     TBA, 10, 3, n/a, 3, B, Bookstore,  , OPEN
+42432, Res, Q, 1-4, RANDERSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42434, Res, R, 1-4, RIGNOT, E.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42436, Res, S, 1-4, SALTZMAN, E.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42438, Res, T, 1-4, SOUTHON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42440, Res, U, 1-4, TRUMBORE, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42442, Res, V, 1-4, VELICOGNA, I.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42444, Res, W, 1-4, YU, J.,       TBA, TBA,     TBA, 10, 1, n/a, 0, B, Bookstore,  , OPEN
+42446, Res, X, 1-4, ZENDER, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+
+  EarthSS   H199C     HONORS RESEARCH
+	    
+
+42500, Res, A, 4, ALLISON, S.,       TBA, TBA,     TBA, 10, 1, n/a, 0, B, Bookstore,  , OPEN
+42502, Res, B, 4, CZIMCZIK, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42504, Res, C, 4, DAVIS, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42506, Res, D, 4, DRUFFEL, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42508, Res, E, 4, DUPONT, T.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42510, Res, F, 4, FAMIGLIETTI, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42512, Res, G, 4, FERGUSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42514, Res, H, 4, GOULDEN, M.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42516, Res, I, 4, JOHNSON, K.,       TBA, TBA,     TBA, 10, 0, n/a, 1, B, Bookstore,  , OPEN
+42518, Res, J, 4, KIM, S.,       TBA, TBA,     TBA, 10, 0, n/a, 1, B, Bookstore,  , OPEN
+42520, Res, K, 4, MAGNUSDOTTIR, G.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42522, Res, L, 4, MARTINY, A.,       TBA, TBA,     TBA, 10, 1, n/a, 1, B, Bookstore,  , OPEN
+42524, Res, M, 4, MOORE, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42526, Res, N, 4, PRATHER, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42528, Res, O, 4, PRIMEAU, F.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42530, Res, P, 4, PRITCHARD, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42532, Res, Q, 4, RANDERSON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42534, Res, R, 4, RIGNOT, E.,       TBA, TBA,     TBA, 10, 0, n/a, 1, B, Bookstore,  , OPEN
+42536, Res, S, 4, SALTZMAN, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42538, Res, T, 4, SOUTHON, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42540, Res, U, 4, TRUMBORE, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42542, Res, V, 4, VELICOGNA, I.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42544, Res, W, 4, YU, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+42546, Res, X, 4, ZENDER, C.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B, Bookstore,  , OPEN
+
+  EarthSS   202     CLIMATE CHANGE
+	    
+
+42600, Lec, A, 4, PRATHER, M., TuTh    9:30-10:50 , CRH 1103, Thu, Jun 13, 8:00-10:00am, 10, 11, n/a, 20, L and B, Bookstore, Web, FULL
+
+  EarthSS   226     LAND SURFACE PROCES
+	    
+
+42620, Lec, A, 4, JOHNSON, K.CZIMCZIK, C., Th    2:00- 4:50p, CRH 1103,     TBA, 10, 10, n/a, 11, L and K, Bookstore, Web, FULL
+
+  EarthSS   272     SCI COMM & OUTREACH
+	    
+
+42700, Sem, A, 2, ZENDER, C., Th    2:00- 3:20p, CRH 3101,     TBA, 10, 5, n/a, 12, B and S, Bookstore, Web, OPEN
+
+  EarthSS   280C     CRYOSPHERE TOPICS
+	    
+
+42755, Sem, A, 1, RIGNOT, E.VELICOGNA, I.,       TBA, TBA,     TBA, 10, 9, n/a, 10, L and K, Bookstore,  , OPEN
+
+  EarthSS   280C     GRAVITY TOPICS
+	    
+
+42760, Sem, A, 1, VELICOGNA, I.,       TBA, TBA,     TBA, 10, 3, n/a, 3, L and K, Bookstore,  , OPEN
+
+  EarthSS   282C     TOPICS IN CLIMATE
+	    
+
+42765, Sem, A, 1, ZENDER, C., M   10:00-10:50 , TBA, Mon, Jun 10, 10:30-12:30pm, 10, 1, n/a, 1, L and K, Bookstore,  , OPEN
+
+  EarthSS   286A     BIOGEOCHEM TOPICS
+	    
+
+42780, Sem, A, 2, DRUFFEL, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, L and K, Bookstore,  , OPEN
+
+  EarthSS   290     SEMINAR
+	    
+
+42790, Sem, A, 1, ZENDER, C., W    2:00- 2:50p, CRH 3101,     TBA, 48, 10, n/a, 10, L and S, Bookstore,  , OPEN
+
+  EarthSS   298     PRACTICUM
+	    
+
+42799, Lec, A, 4, ZENDER, C., TuTh   11:00-12:20p, CRH 1103, Tue, Jun 11, 10:30-12:30pm, 10, 10, n/a, 10, L and K, Bookstore, Web, FULL
+
+  EarthSS   299     RESEARCH
+	    
+
+42800, Res, A, 2-12, ALLISON, S.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+42802, Res, B, 2-12, CZIMCZIK, C.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+42804, Res, C, 2-12, DAVIS, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+42806, Res, D, 2-12, DRUFFEL, E.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+42808, Res, E, 2-12, DUPONT, T.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+42810, Res, F, 2-12, FAMIGLIETTI, J.,       TBA, TBA,     TBA, 15, 9, n/a, 9, K, Bookstore,  , OPEN
+42812, Res, G, 2-12, GOULDEN, M.,       TBA, TBA,     TBA, 15, 2, n/a, 2, K, Bookstore,  , OPEN
+42814, Res, H, 2-12, JOHNSON, K.,       TBA, TBA,     TBA, 15, 2, n/a, 2, K, Bookstore,  , OPEN
+42816, Res, I, 2-12, KIM, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+42818, Res, J, 2-12, MAGNUSDOTTIR, G.,       TBA, TBA,     TBA, 15, 3, n/a, 3, K, Bookstore,  , OPEN
+42820, Res, K, 2-12, MARTINY, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+42822, Res, L, 2-12, MOORE, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+42824, Res, M, 2-12, PRATHER, M.,       TBA, TBA,     TBA, 15, 4, n/a, 4, K, Bookstore,  , OPEN
+42826, Res, N, 2-12, PRIMEAU, F.,       TBA, TBA,     TBA, 15, 2, n/a, 2, K, Bookstore,  , OPEN
+42828, Res, O, 2-12, PRITCHARD, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+42830, Res, P, 2-12, RANDERSON, J.,       TBA, TBA,     TBA, 15, 4, n/a, 4, K, Bookstore,  , OPEN
+42832, Res, Q, 2-12, RIGNOT, E.,       TBA, TBA,     TBA, 15, 3, n/a, 3, K, Bookstore,  , OPEN
+42834, Res, R, 2-12, SALTZMAN, E.,       TBA, TBA,     TBA, 15, 2, n/a, 2, K, Bookstore,  , OPEN
+42836, Res, S, 2-12, SOUTHON, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+42838, Res, T, 2-12, TRUMBORE, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+42840, Res, U, 2-12, VELICOGNA, I.,       TBA, TBA,     TBA, 15, 2, n/a, 2, K, Bookstore,  , OPEN
+42842, Res, V, 2-12, YU, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+42844, Res, W, 2-12, ZENDER, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  EarthSS   399     UNIVERSITY TEACHING
+	    
+
+42990, Tut, A, 4, FERGUSON, J.,       TBA, TBA,     TBA, 15, 4, n/a, 4, K and S, Bookstore,  , OPEN
+42991, Tut, B, 4, GOULDEN, M.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K and S, Bookstore,  , OPEN
+42992, Tut, C, 4, MAGNUSDOTTIR, G.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K and S, Bookstore,  , OPEN
+42993, Tut, D, 4, RANDERSON, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K and S, Bookstore,  , OPEN
+42994, Tut, E, 4, VELICOGNA, I.,       TBA, TBA,     TBA, 15, 3, n/a, 4, K and S, Bookstore,  , OPEN
+

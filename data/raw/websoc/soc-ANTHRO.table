@@ -1,0 +1,706 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+School of Social Sciences
+Anthropology
+  Anthro   2A     INTR SOCIOCULT ANTH
+	    
+
+60000, Lec, A, 4, BERNAL, V., TuTh    2:00- 3:20p, PSLH 100, Thu, Jun 13, 1:30-3:30pm, 448, 445, n/a, 732,  , Bookstore, Web, OPEN
+60001, Dis, 1, 0, BERNAL, V.GOVINDAN, P., Th    9:00- 9:50 , SSTR 100,  , 30, 29, n/a, 38,  , Bookstore, Web, OPEN
+60002, Dis, 2, 0, BERNAL, V.GOVINDAN, P., Th   11:00-11:50 , DBH 1420,  , 30, 29, n/a, 43,  , Bookstore, Web, OPEN
+60003, Dis, 3, 0, BERNAL, V.VICK, J., M   11:00-11:50 , SSL 117,  , 30, 30, n/a, 43,  , Bookstore, Web, FULL
+60004, Dis, 4, 0, BERNAL, V.NAKANO, D., M   12:00-12:50p, SSPA 1165,  , 30, 30, n/a, 46,  , Bookstore,  , FULL
+60005, Dis, 5, 0, BERNAL, V.NAKANO, D., M    1:00- 1:50p, SSL 155,  , 30, 30, n/a, 51,  , Bookstore,  , FULL
+60006, Dis, 6, 0, BERNAL, V.VICK, J., Tu   11:00-11:50 , SSL 159,  , 30, 30, n/a, 34,  , Bookstore, Web, FULL
+60007, Dis, 7, 0, BERNAL, V.NAKANO, D., Tu   12:00-12:50p, SSL 159,  , 30, 30, n/a, 39,  , Bookstore,  , FULL
+60008, Dis, 8, 0, BERNAL, V.WILLIAMS, T., W   11:00-11:50 , SSL 171,  , 30, 30, n/a, 43,  , Bookstore,  , FULL
+60009, Dis, 9, 0, BERNAL, V.WILLIAMS, T., W   12:00-12:50p, SSL 145,  , 30, 30, n/a, 36,  , Bookstore,  , FULL
+60010, Dis, 10, 0, BERNAL, V.WILLIAMS, T., W    1:00- 1:50p, SSL 105,  , 30, 30, n/a, 44,  , Bookstore,  , FULL
+60011, Dis, 11, 0, BERNAL, V.VICK, J., Tu   10:00-10:50 , SSL 105,  , 30, 30, n/a, 31,  , Bookstore, Web, FULL
+60012, Dis, 12, 0, BERNAL, V.GOVINDAN, P., Th    1:00- 1:50p, SSTR 101,  , 30, 29, n/a, 39,  , Bookstore, Web, OPEN
+60013, Dis, 13, 0, BERNAL, V.THOMAS, H., F   11:00-11:50 , SSL 105,  , 30, 30, n/a, 35,  , Bookstore,  , FULL
+60014, Dis, 14, 0, BERNAL, V.THOMAS, H., F   12:00-12:50p, SSL 105,  , 29, 29, n/a, 41,  , Bookstore,  , FULL
+60015, Dis, 15, 0, BERNAL, V.THOMAS, H., F    1:00- 1:50p, SSL 105,  , 29, 29, n/a, 33,  , Bookstore,  , FULL
+60030, Lec, B, 4, EGAN, J., MWF    9:00- 9:50 , SSLH 100, Wed, Jun 12, 8:00-10:00am, 399, 362, n/a, 558,  , Bookstore,  , OPEN
+60032, Dis, 2, 0, EGAN, J.ZIA, A., M    5:00- 5:50p, SSTR 101,  , 27, 27, n/a, 48,  , Bookstore,  , FULL
+60033, Dis, 3, 0, EGAN, J.WANG, C., Th    3:00- 3:50p, SSL 159,  , 27, 26, n/a, 50,  , Bookstore,  , OPEN
+60034, Dis, 4, 0, EGAN, J.ZAIDI, S., W   11:00-11:50 , SSTR 101,  , 27, 27, n/a, 55,  , Bookstore,  , FULL
+60035, Dis, 5, 0, EGAN, J.ZAIDI, S., Th    9:00- 9:50 , SSL 159,  , 27, 20, n/a, 41,  , Bookstore,  , OPEN
+60037, Dis, 7, 0, EGAN, J.ZAIDI, S., Th   10:00-10:50 , SSL 159,  , 27, 26, n/a, 37,  , Bookstore,  , OPEN
+60039, Dis, 9, 0, EGAN, J.PHILLIPS, N., Tu   12:00-12:50p, SSL 105,  , 27, 27, n/a, 38,  , Bookstore,  , FULL
+60040, Dis, 10, 0, EGAN, J.PHILLIPS, N., Tu    1:00- 1:50p, SSL 117,  , 26, 26, n/a, 45,  , Bookstore,  , FULL
+60041, Dis, 11, 0, EGAN, J.ZIA, A., M    4:00- 4:50p, SSL 129,  , 26, 26, n/a, 38,  , Bookstore,  , FULL
+60042, Dis, 12, 0, EGAN, J.ZIA, A., M    3:00- 3:50p, SSL 129,  , 26, 26, n/a, 38,  , Bookstore,  , FULL
+60043, Dis, 13, 0, EGAN, J.WANG, C., Th    1:00- 1:50p, SSL 105,  , 26, 26, n/a, 47,  , Bookstore,  , FULL
+60044, Dis, 14, 0, EGAN, J.WANG, C., Th    2:00- 2:50p, SSL 105,  , 26, 26, n/a, 40,  , Bookstore,  , FULL
+60045, Dis, 15, 0, EGAN, J.PHILLIPS, N., Tu    2:00- 2:50p, SSL 117,  , 26, 26, n/a, 40,  , Bookstore,  , FULL
+
+  Anthro   2B     INTRO TO BIO ANTHRO
+	    
+
+60050, Lec, A, 4, EGAN, J., MWF    8:00- 8:50 , SSLH 100,     TBA, 300, 144, n/a, 258,  , Bookstore,  , OPEN
+60051, Dis, 1, 0, EGAN, J.TAUBERG, M., Tu    4:00- 4:50p, HH 105,  , 34, 26, n/a, 34,  , Bookstore,  , OPEN
+60052, Dis, 2, 0, EGAN, J.STAFF, F    2:00- 2:50p, SSL 145,  , 34, 0, n/a, 9,  , Bookstore,  , OPEN
+60053, Dis, 3, 0, EGAN, J.STAFF, F    1:00- 1:50p, SSL 145,  , 34, 0, n/a, 20,  , Bookstore,  , OPEN
+60054, Dis, 4, 0, EGAN, J.TAUBERG, M., Tu    5:00- 5:50p, HH 156,  , 33, 16, n/a, 26,  , Bookstore,  , OPEN
+60055, Dis, 5, 0, EGAN, J.TAUBERG, M., Tu    6:00- 6:50p, HH 156,  , 33, 4, n/a, 8,  , Bookstore,  , OPEN
+60057, Dis, 7, 0, EGAN, J.TECSON, M., W    9:00- 9:50 , SSPA 1165,  , 33, 33, n/a, 40,  , Bookstore,  , FULL
+60058, Dis, 8, 0, EGAN, J.TECSON, M., W   11:00-11:50 , SE2 1306,  , 33, 32, n/a, 35,  , Bookstore,  , OPEN
+60059, Dis, 9, 0, EGAN, J.TECSON, M., W   10:00-10:50 , SST 238,  , 33, 33, n/a, 30,  , Bookstore,  , FULL
+
+  Anthro   2C     INTRO ARCHAEOLOGY
+	    
+
+60080, Lec, A, 4, DROVER, C., TuTh    9:30-10:50 , SSH 100, Thu, Jun 13, 8:00-10:00am, 200, 163, n/a, 223,  , Bookstore, Web, OPEN
+60081, Dis, 1, 0, DROVER, C.NELSON, J., Tu    1:00- 1:50p, SSL 119,  , 23, 19, n/a, 44,  , Bookstore,  , OPEN
+60083, Dis, 3, 0, DROVER, C.LEIBZON, V., M    1:00- 1:50p, SSPA 1165,  , 23, 24, n/a, 30,  , Bookstore,  , FULL
+60084, Dis, 4, 0, DROVER, C.NELSON, J., Tu    2:00- 2:50p, SSTR 100,  , 23, 23, n/a, 37,  , Bookstore,  , FULL
+60086, Dis, 6, 0, DROVER, C.LEIBZON, V., M    3:00- 3:50p, SSPA 1165,  , 22, 22, n/a, 29,  , Bookstore,  , FULL
+
+  Anthro   10C     PROBABILITY & STATS      (Prerequisites)
+	    
+
+60100, Lec, A, 4, HUFFMAN, M., TuTh   11:00-12:20p, SSPA 1100, Tue, Jun 11, 10:30-12:30pm, 150, 35 / 105, n/a, 73, A and X, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 69050 Sociol 10C, Lec A)
+			
+		    , 
+			        (same as 69050 Sociol 10C, Lec A)
+			,  ,  
+
+			        (same as 69050 Sociol 10C, Lec A)
+			
+60101, Lab, 1, 0, LEE, E., M    9:00- 9:50 , SST 630,  , 19, 3 / 9, n/a, 5,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 69051 Sociol 10C, Lab 1)
+			
+		    , 
+			        (same as 69051 Sociol 10C, Lab 1)
+			,  ,  
+
+			        (same as 69051 Sociol 10C, Lab 1)
+			
+60102, Lab, 2, 0, LEE, E.,       TBA, TBA,  , 19, 5 / 10, n/a, 5,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 69052 Sociol 10C, Lab 2)
+			
+		    , 
+			        (same as 69052 Sociol 10C, Lab 2)
+			,  ,  
+
+			        (same as 69052 Sociol 10C, Lab 2)
+			
+60103, Lab, 3, 0, BUI, B., W    4:00- 4:50p, SST 630,  , 19, 3 / 10, n/a, 3,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 69053 Sociol 10C, Lab 3)
+			
+		    , 
+			        (same as 69053 Sociol 10C, Lab 3)
+			,  ,  
+
+			        (same as 69053 Sociol 10C, Lab 3)
+			
+60104, Lab, 4, 0, BUI, B., W    5:00- 5:50p, SST 630,  , 18, 2 / 4, n/a, 1,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 69054 Sociol 10C, Lab 4)
+			
+		    , 
+			        (same as 69054 Sociol 10C, Lab 4)
+			,  ,  
+
+			        (same as 69054 Sociol 10C, Lab 4)
+			
+60105, Lab, 5, 0, LEE, E., Tu    1:00- 1:50p, SST 630,  , 19, 4 / 19, n/a, 5,  , Bookstore, Web, FULL
+ ,  , 
+		
+			        (same as 69055 Sociol 10C, Lab 5)
+			
+		    , 
+			        (same as 69055 Sociol 10C, Lab 5)
+			,  ,  
+
+			        (same as 69055 Sociol 10C, Lab 5)
+			
+60106, Lab, 6, 0, BUI, B., Th    2:00- 2:50p, SST 630,  , 19, 9 / 19, n/a, 9,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 69056 Sociol 10C, Lab 6)
+			
+		    , 
+			        (same as 69056 Sociol 10C, Lab 6)
+			,  ,  
+
+			        (same as 69056 Sociol 10C, Lab 6)
+			
+60107, Lab, 7, 0, LEE, E., W    1:00- 1:50p, SST 630,  , 19, 4 / 18, n/a, 5,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 69057 Sociol 10C, Lab 7)
+			
+		    , 
+			        (same as 69057 Sociol 10C, Lab 7)
+			,  ,  
+
+			        (same as 69057 Sociol 10C, Lab 7)
+			
+60108, Lab, 8, 0, BUI, B., Th    9:00- 9:50 , SST 630,  , 18, 5 / 16, n/a, 6,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 69058 Sociol 10C, Lab 8)
+			
+		    , 
+			        (same as 69058 Sociol 10C, Lab 8)
+			,  ,  
+
+			        (same as 69058 Sociol 10C, Lab 8)
+			
+
+  Anthro   30A     GLOB ISS ANTH PERSP
+	    
+
+60130, Lec, B, 4, VARZI, R., TuTh   12:30- 1:50p, PSCB 140, Mon, Jun 10, 1:30-3:30pm, 50, 35, n/a, 81, B, Bookstore, Web, OPEN
+
+  Anthro   30B     ETHNOG&ANTH METHODS
+	    
+
+60140, Lec, A, 4, BERNAL, V., TuTh   11:00-12:20p, SE2 1306, Tue, Jun 11, 10:30-12:30pm, 30, 28, n/a, 52,  , Bookstore, Web, OPEN
+
+  Anthro   41A     GLOBAL CULTURES&SOC
+	    
+
+60150, Lec, A, 4, DOUGLAS, T., Tu    7:00- 9:50p, PSLH 100, Tue, Jun 11, 7:00-9:00pm, 448, 289 / 444, n/a, 481,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 64050 Intl St 11, Lec A)
+			
+		    , 
+			        (same as 64050 Intl St 11, Lec A)
+			,  ,  
+
+			        (same as 64050 Intl St 11, Lec A)
+			
+60151, Dis, 1, 0, DOUGLAS, T.LI, J., M    1:00- 1:50p, SSL 105,  , 30, 14 / 29, n/a, 22,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 64051 Intl St 11, Dis 1)
+			
+		    , 
+			        (same as 64051 Intl St 11, Dis 1)
+			,  ,  
+
+			        (same as 64051 Intl St 11, Dis 1)
+			
+60152, Dis, 2, 0, DOUGLAS, T.LI, J., M    2:00- 2:50p, SSL 117,  , 30, 23 / 30, n/a, 28,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64052 Intl St 11, Dis 2)
+			
+		    , 
+			        (same as 64052 Intl St 11, Dis 2)
+			,  ,  
+
+			        (same as 64052 Intl St 11, Dis 2)
+			
+60153, Dis, 3, 0, DOUGLAS, T.LI, J., M    3:00- 3:50p, SSL 105,  , 30, 19 / 29, n/a, 33,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 64053 Intl St 11, Dis 3)
+			
+		    , 
+			        (same as 64053 Intl St 11, Dis 3)
+			,  ,  
+
+			        (same as 64053 Intl St 11, Dis 3)
+			
+60154, Dis, 4, 0, DOUGLAS, T.MACPHERSON, R., Th    6:00- 6:50p, SSL 129,  , 30, 22 / 31, n/a, 30,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64054 Intl St 11, Dis 4)
+			
+		    , 
+			        (same as 64054 Intl St 11, Dis 4)
+			,  ,  
+
+			        (same as 64054 Intl St 11, Dis 4)
+			
+60155, Dis, 5, 0, DOUGLAS, T.MACPHERSON, R., Th    9:00- 9:50 , SSL 105,  , 30, 24 / 30, n/a, 31,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64055 Intl St 11, Dis 5)
+			
+		    , 
+			        (same as 64055 Intl St 11, Dis 5)
+			,  ,  
+
+			        (same as 64055 Intl St 11, Dis 5)
+			
+60156, Dis, 6, 0, DOUGLAS, T.WOLF, A., Tu    4:00- 4:50p, SSL 129,  , 30, 19 / 30, n/a, 26,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64056 Intl St 11, Dis 6)
+			
+		    , 
+			        (same as 64056 Intl St 11, Dis 6)
+			,  ,  
+
+			        (same as 64056 Intl St 11, Dis 6)
+			
+60157, Dis, 7, 0, DOUGLAS, T.WOLF, A., Tu    5:00- 5:50p, SST 220A,  , 30, 20 / 29, n/a, 34,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 64057 Intl St 11, Dis 7)
+			
+		    , 
+			        (same as 64057 Intl St 11, Dis 7)
+			,  ,  
+
+			        (same as 64057 Intl St 11, Dis 7)
+			
+60158, Dis, 8, 0, DOUGLAS, T.WOLF, A., Tu    6:00- 6:50p, SSL 206,  , 30, 21 / 29, n/a, 23,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 64058 Intl St 11, Dis 8)
+			
+		    , 
+			        (same as 64058 Intl St 11, Dis 8)
+			,  ,  
+
+			        (same as 64058 Intl St 11, Dis 8)
+			
+60159, Dis, 9, 0, DOUGLAS, T.SCAUSO, M., W    2:00- 2:50p, SSL 129,  , 30, 23 / 30, n/a, 28,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64059 Intl St 11, Dis 9)
+			
+		    , 
+			        (same as 64059 Intl St 11, Dis 9)
+			,  ,  
+
+			        (same as 64059 Intl St 11, Dis 9)
+			
+60160, Dis, 10, 0, DOUGLAS, T.SCAUSO, M., W    3:00- 3:50p, SSL 159,  , 30, 14 / 30, n/a, 19,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64060 Intl St 11, Dis 10)
+			
+		    , 
+			        (same as 64060 Intl St 11, Dis 10)
+			,  ,  
+
+			        (same as 64060 Intl St 11, Dis 10)
+			
+60161, Dis, 11, 0, DOUGLAS, T.SCAUSO, M., W    4:00- 4:50p, SSL 105,  , 30, 18 / 30, n/a, 27,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64061 Intl St 11, Dis 11)
+			
+		    , 
+			        (same as 64061 Intl St 11, Dis 11)
+			,  ,  
+
+			        (same as 64061 Intl St 11, Dis 11)
+			
+60162, Dis, 12, 0, DOUGLAS, T.COLEMAN, C., Th   12:00-12:50p, SSTR 101,  , 30, 18 / 30, n/a, 20,  , Bookstore, Web, FULL
+ ,  , 
+		
+			        (same as 64062 Intl St 11, Dis 12)
+			
+		    , 
+			        (same as 64062 Intl St 11, Dis 12)
+			,  ,  
+
+			        (same as 64062 Intl St 11, Dis 12)
+			
+60163, Dis, 13, 0, DOUGLAS, T.VESIA, D., M    5:00- 5:50p, SSL 117,  , 30, 17 / 30, n/a, 26,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64063 Intl St 11, Dis 13)
+			
+		    , 
+			        (same as 64063 Intl St 11, Dis 13)
+			,  ,  
+
+			        (same as 64063 Intl St 11, Dis 13)
+			
+60164, Dis, 14, 0, DOUGLAS, T.VESIA, D., Tu    3:00- 3:50p, SSL 117,  , 29, 21 / 29, n/a, 23,  , Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 64064 Intl St 11, Dis 14)
+			
+		    , 
+			        (same as 64064 Intl St 11, Dis 14)
+			,  ,  
+
+			        (same as 64064 Intl St 11, Dis 14)
+			
+60165, Dis, 15, 0, DOUGLAS, T.COLEMAN, C., Th   11:00-11:50 , SSL 155,  , 29, 16 / 28, n/a, 27,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 64065 Intl St 11, Dis 15)
+			
+		    , 
+			        (same as 64065 Intl St 11, Dis 15)
+			,  ,  
+
+			        (same as 64065 Intl St 11, Dis 15)
+			
+
+  Anthro   85A     AMER IND-WHT RLATNS
+	    
+
+60200, Lec, A, 4, THORNE, T., TuTh    3:30- 4:50p, PCB 1200, Tue, Jun 11, 4:00-6:00pm, 55, 42 / 52, n/a, 75,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 69190 Sociol 65, Lec A)
+			
+		    , 
+			        (same as 69190 Sociol 65, Lec A)
+			,  ,  
+
+			        (same as 69190 Sociol 65, Lec A)
+			
+
+  Anthro   127A     LAW & MODERNITY
+	    
+
+60220, Sem, A, 4, O'ROURKE, S., Th    7:00- 9:50p, SSL 248, Thu, Jun 13, 7:00-9:00pm, 100, 50 / 63, n/a, 99,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 52315 Crm/Law C191, Lec A)
+			
+		    , 
+			        (same as 52315 Crm/Law C191, Lec A)
+			,  ,  
+
+			        (same as 52315 Crm/Law C191, Lec A)
+			
+60221, Dis, 1, 0, O'ROURKE, S.ANYADIKE-DANES, C., Th    5:00- 5:50p, SSL 145,  , 34, 26 / 29, n/a, 35,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 52316 Crm/Law C191, Dis 1)
+			
+		    , 
+			        (same as 52316 Crm/Law C191, Dis 1)
+			,  ,  
+
+			        (same as 52316 Crm/Law C191, Dis 1)
+			
+60222, Dis, 2, 0, O'ROURKE, S.ANYADIKE-DANES, C., Tu    3:00- 3:50p, SSL 145,  , 33, 10 / 13, n/a, 21,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 52317 Crm/Law C191, Dis 2)
+			
+		    , 
+			        (same as 52317 Crm/Law C191, Dis 2)
+			,  ,  
+
+			        (same as 52317 Crm/Law C191, Dis 2)
+			
+60223, Dis, 3, 0, O'ROURKE, S.ANYADIKE-DANES, C., M    3:00- 3:50p, SSL 145,  , 33, 14 / 21, n/a, 27,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 52318 Crm/Law C191, Dis 3)
+			
+		    , 
+			        (same as 52318 Crm/Law C191, Dis 3)
+			,  ,  
+
+			        (same as 52318 Crm/Law C191, Dis 3)
+			
+
+  Anthro   128A     INTRO SCI STUDIES
+	    
+
+60240, Lec, A, 4, OLSON, V., TuTh   12:30- 1:50p, SSL 228, Mon, Jun 10, 1:30-3:30pm, 80, 64, n/a, 102,  , Bookstore, Web, OPEN
+60241, Dis, 1, 0, OLSON, V.KEENA, J., Tu    4:00- 4:50p, SSL 119,  , 27, 27, n/a, 31,  , Bookstore,  , FULL
+60242, Dis, 2, 0, OLSON, V.KEENA, J., W    2:00- 2:50p, SSL 105,  , 27, 24, n/a, 25,  , Bookstore,  , OPEN
+60243, Dis, 3, 0, OLSON, V.KEENA, J., Tu    5:00- 5:50p, ICS 243,  , 26, 9, n/a, 12,  , Bookstore,  , OPEN
+
+  Anthro   134A     MEDICAL ANTHRO
+	    
+
+60260, Lec, A, 4, COFFMAN, C., Th    7:00- 9:50p, SSPA 1100, Thu, Jun 13, 7:00-9:00pm, 191, 187, n/a, 245,  , Bookstore, Web, OPEN
+60261, Dis, 1, 0, COFFMAN, C.BRIANTE, M., W    5:00- 5:50p, SSL 145,  , 34, 26, n/a, 36,  , Bookstore,  , OPEN
+60262, Dis, 2, 0, COFFMAN, C.MORALES, A., M    2:00- 2:50p, SSL 145,  , 33, 25, n/a, 38,  , Bookstore,  , OPEN
+60263, Dis, 3, 0, COFFMAN, C.CARPENTER, A., Tu    4:00- 4:50p, SE2 1306,  , 33, 26, n/a, 38,  , Bookstore,  , OPEN
+60264, Dis, 4, 0, COFFMAN, C.CARPENTER, A., F    2:00- 2:50p, SST 238,  , 30, 17, n/a, 14,  , Bookstore,  , OPEN
+60265, Dis, 5, 0, COFFMAN, C.MORALES, A., Th    4:00- 4:50p, SSL 159,  , 30, 27, n/a, 21,  , Bookstore,  , OPEN
+60266, Dis, 6, 0, COFFMAN, C.CARPENTER, A., Tu    5:00- 5:50p, ICS 213,  , 30, 19, n/a, 16,  , Bookstore,  , OPEN
+60267, Dis, 7, 0, COFFMAN, C.BRIANTE, M., W    2:00- 2:50p, ICS 249,  , 21, 20, n/a, 6,  , Bookstore,  , OPEN
+60268, Dis, 8, 0, COFFMAN, C.BRIANTE, M., Th    1:00- 1:50p, SSL 159,  , 21, 20, n/a, 8,  , Bookstore,  , OPEN
+60269, Dis, 9, 0, COFFMAN, C.MORALES, A., Th   12:00-12:50p, SSL 155,  , 21, 8, n/a, 4,  , Bookstore,  , OPEN
+
+  Anthro   136D     CONFLICT MANAGEMENT
+	    
+
+60280, Lec, A, 4, GARB, P., TuTh    3:30- 4:50p, SSH 100, Tue, Jun 11, 4:00-6:00pm, 171, 44 / 159, n/a, 74,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 64720 Intl St 183E, Lec A;   67470 Pol Sci 154G, Lec A;   and 70570 Soc Sci 183E, Lec A)
+			
+		    , 
+			        (same as 64720 Intl St 183E, Lec A;   67470 Pol Sci 154G, Lec A;   and 70570 Soc Sci 183E, Lec A)
+			,  ,  
+
+			        (same as 64720 Intl St 183E, Lec A;   67470 Pol Sci 154G, Lec A;   and 70570 Soc Sci 183E, Lec A)
+			
+60281, Dis, 1, 0, GARB, P.FINLEY, K., W    9:00- 9:50 , SSL 145,  , 42, 15 / 39, n/a, 17,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 64721 Intl St 183E, Dis 1;   67471 Pol Sci 154G, Dis 1;   and 70571 Soc Sci 183E, Dis 1)
+			
+		    , 
+			        (same as 64721 Intl St 183E, Dis 1;   67471 Pol Sci 154G, Dis 1;   and 70571 Soc Sci 183E, Dis 1)
+			,  ,  
+
+			        (same as 64721 Intl St 183E, Dis 1;   67471 Pol Sci 154G, Dis 1;   and 70571 Soc Sci 183E, Dis 1)
+			
+60282, Dis, 2, 0, GARB, P.FINLEY, K., W   10:00-10:50 , SSTR 100,  , 45, 7 / 44, n/a, 11,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 64722 Intl St 183E, Dis 2;   67472 Pol Sci 154G, Dis 2;   and 70572 Soc Sci 183E, Dis 2)
+			
+		    , 
+			        (same as 64722 Intl St 183E, Dis 2;   67472 Pol Sci 154G, Dis 2;   and 70572 Soc Sci 183E, Dis 2)
+			,  ,  
+
+			        (same as 64722 Intl St 183E, Dis 2;   67472 Pol Sci 154G, Dis 2;   and 70572 Soc Sci 183E, Dis 2)
+			
+60283, Dis, 3, 0, GARB, P.DORECK, G., F    9:00- 9:50 , SSL 145,  , 42, 13 / 36, n/a, 18,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 64723 Intl St 183E, Dis 3;   67473 Pol Sci 154G, Dis 3;   and 70573 Soc Sci 183E, Dis 3)
+			
+		    , 
+			        (same as 64723 Intl St 183E, Dis 3;   67473 Pol Sci 154G, Dis 3;   and 70573 Soc Sci 183E, Dis 3)
+			,  ,  
+
+			        (same as 64723 Intl St 183E, Dis 3;   67473 Pol Sci 154G, Dis 3;   and 70573 Soc Sci 183E, Dis 3)
+			
+60284, Dis, 4, 0, GARB, P.DORECK, G., F   10:00-10:50 , SSL 145,  , 42, 9 / 40, n/a, 16,  , Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 64724 Intl St 183E, Dis 4;   67474 Pol Sci 154G, Dis 4;   and 70574 Soc Sci 183E, Dis 4)
+			
+		    , 
+			        (same as 64724 Intl St 183E, Dis 4;   67474 Pol Sci 154G, Dis 4;   and 70574 Soc Sci 183E, Dis 4)
+			,  ,  
+
+			        (same as 64724 Intl St 183E, Dis 4;   67474 Pol Sci 154G, Dis 4;   and 70574 Soc Sci 183E, Dis 4)
+			
+
+  Anthro   138M     MUSIC AS EXP CULT
+	    
+
+60300, Lec, A, 4, GARFIAS, R., MWF   11:00-11:50 , SSPA 1100, Tue, Jun 11, 1:30-3:30pm, 191, 104, n/a, 134,  , Bookstore, Web, OPEN
+60302, Dis, 2, 0, GARFIAS, R.HURLEY, M., W   12:00-12:50p, SST 120,  , 32, 2, n/a, 5,  , Bookstore, Web, OPEN
+60304, Dis, 4, 0, GARFIAS, R.HURLEY, M., M   10:00-10:50 , SE2 1306,  , 32, 36, n/a, 37,  , Bookstore, Web, FULL
+60305, Dis, 5, 0, GARFIAS, R.HURLEY, M., F   10:00-10:50 , SSPA 1165,  , 32, 35, n/a, 31,  , Bookstore, Web, FULL
+60306, Dis, 6, 0, GARFIAS, R.HURLEY, M., F    1:00- 1:50p, SSPA 1165,  , 31, 31, n/a, 30,  , Bookstore, Web, FULL
+
+  Anthro   151A     IMPROV LANG CULTURE
+	    
+
+60350, Lec, A, 4, MURPHY, K.REA, S., TuTh    2:00- 3:20p, SE2 1306, Thu, Jun 13, 1:30-3:30pm, 48, 48, n/a, 91,  , Bookstore, Web, FULL
+
+  Anthro   169     MODERN IRAN
+	    
+
+60390, Lec, A, 4, VARZI, R.NIAYESH, V., M    7:00- 9:50p, SH 134, Mon, Jun 10, 7:00-9:00pm, 80, 62, n/a, 94,  , Bookstore, Web, OPEN
+
+  Anthro   180AW     ANTHRO MAJOR SEM
+	    
+
+60400, Sem, A, 4, ZHAN, M.CAHILL, C., M    3:00- 5:50p, SBSG 3200, Mon, Jun 10, 4:00-6:00pm, 20, 13, n/a, 37,  , Bookstore, Web, OPEN
+60410, Sem, B, 4, MARCUS, G.KNOEPFLMACHER, A., M    9:00-11:50 , SBSG 3200, Wed, Jun 12, 8:00-10:00am, 20, 18, n/a, 31,  , Bookstore, Web, OPEN
+
+  Anthro   190     SENIOR THESIS
+	    
+
+60500, Tut, A, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 2,  , Bookstore,  , OPEN
+60502, Tut, B, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+60504, Tut, C, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+60506, Tut, D, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+60508, Tut, E, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+
+  Anthro   H191W     HONOR SENIOR THESIS
+	    
+
+60520, Tut, A, 4, BERNAL, V.,       TBA, SBSG 3318,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60522, Tut, B, 4, BOELLSTORFF, T.,       TBA, SBSG 3322,     TBA, 2, 0, n/a, 1, A, Bookstore,  , OPEN
+60524, Tut, C, 4, BURTON, M.,       TBA, SBSG 3554,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60528, Tut, E, 4, CANCIAN, F.,       TBA, SBSG 3552,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60530, Tut, F, 4, CHAVEZ, L.,       TBA, SBSG 3326,     TBA, 2, 1, n/a, 1, A, Bookstore,  , OPEN
+60532, Tut, G, 4, STAFF,       TBA, TBA,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60534, Tut, H, 4, ELYACHAR, J.,       TBA, SBSG 3328,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60535, Tut, I, 4, STAFF,       TBA, SBSG 3332,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60536, Tut, J, 4, GARFIAS, R.,       TBA, SBSG 3334,     TBA, 2, 0, n/a, 1, A, Bookstore,  , OPEN
+60538, Tut, K, 4, STAFF,       TBA, TBA,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60540, Tut, L, 4, LEONARD, K.,       TBA, SBSG 3564,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60542, Tut, M, 4, MARCUS, G.,       TBA, SBSG 3566,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60544, Tut, N, 4, MAURER, W.,       TBA, SBSG 3562,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60546, Tut, O, 4, MONTOYA, M.,       TBA, SBSG 3312,     TBA, 5, 1, n/a, 1, A, Bookstore,  , OPEN
+60547, Tut, P, 4, MURPHY, K.,       TBA, SBSG 3306,     TBA, 2, 2, n/a, 2, A, Bookstore,  , FULL
+60548, Tut, Q, 4, OLSON, V.,       TBA, SBSG 3336,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60549, Tut, R, 4, PETERSON, K.,       TBA, SSPA 2139,     TBA, 2, 1, n/a, 1, A, Bookstore,  , OPEN
+60552, Tut, S, 4, VARZI, R.,       TBA, SBSG 3314,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60554, Tut, T, 4, WHITE, D.,       TBA, SBSG 3544,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+60556, Tut, U, 4, ZHAN, M.,       TBA, SBSG 3316,     TBA, 2, 0, n/a, 0, A, Bookstore,  , OPEN
+
+  Anthro   197     FIELD STUDY
+	    
+
+60570, Fld, A, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+60572, Fld, B, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+
+  Anthro   198     DIRECTED GRP STUDY
+	    
+
+60580, Tut, A, 4, MONTOYA, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+60582, Tut, B, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+60584, Tut, C, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+60586, Tut, D, 4, STAFF,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+
+  Anthro   199     INDIVIDUAL STUDY
+	    
+
+60600, Tut, A, 4, BERNAL, V.,       TBA, SBSG 3318,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60602, Tut, B, 4, BOELLSTORFF, T.,       TBA, SBSG 3322,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60604, Tut, C, 4, BURTON, M.,       TBA, SBSG 3554,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60608, Tut, E, 4, CANCIAN, F.,       TBA, SBSG 3552,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60610, Tut, F, 4, CHAVEZ, L.,       TBA, SBSG 3326,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60612, Tut, G, 4, STAFF,       TBA, TBA,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60613, Tut, H, 4, ELYACHAR, J.,       TBA, SBSG 3328,     TBA, 2, 0, n/a, 1,  , Bookstore,  , OPEN
+60614, Tut, I, 4, STAFF,       TBA, SBSG 3332,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60615, Tut, J, 4, GARFIAS, R.,       TBA, SBSG 3334,     TBA, 2, 0, n/a, 1,  , Bookstore,  , OPEN
+60616, Tut, K, 4, STAFF,       TBA, SBSG 3308,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60618, Tut, L, 4, LEONARD, K.,       TBA, SBSG 3564,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60620, Tut, M, 4, MARCUS, G.,       TBA, SBSG 3566,     TBA, 2, 1, n/a, 3,  , Bookstore,  , OPEN
+60622, Tut, N, 4, MAURER, W.,       TBA, SBSG 3562,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60624, Tut, O, 4, MONTOYA, M.,       TBA, SBSG 3312,     TBA, 4, 4, n/a, 5,  , Bookstore,  , FULL
+60626, Tut, P, 4, OLSON, V.,       TBA, SBSG 3328,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60627, Tut, Q, 4, PETERSON, K.,       TBA, SBSG 3336,     TBA, 3, 0, n/a, 0,  , Bookstore,  , OPEN
+60628, Tut, R, 4, ROMNEY, A.,       TBA, SSPA 2139,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60629, Tut, S, 4, VARZI, R.,       TBA, SBSG 3314,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60630, Tut, T, 4, WHITE, D.,       TBA, SBSG 3544,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60632, Tut, U, 4, ZHAN, M.,       TBA, SBSG 3316,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60637, Tut, V, 4, STAFF,       TBA, SSPB 4249,     TBA, 2, 0, n/a, 0,  , Bookstore,  , OPEN
+60640, Tut, W, 4, GARB, P.,       TBA, TBA,     TBA, 2, 1, n/a, 1,  , Bookstore,  , OPEN
+
+  Anthro   202C     PROSEMINAR IN ANTHR
+	    
+
+60700, Sem, A, 4, BOELLSTORFF, T., W   12:00- 2:50p, SBSG 3200,     TBA, 15, 8, n/a, 11, K and L, Bookstore,  , OPEN
+
+  Anthro   204A     PROSEM MED SCI TECH
+	    
+
+60705, Sem, A, 4, MONTOYA, M., M    3:00- 5:50p, SBSG 3200, Mon, Jun 10, 4:00-6:00pm, 15, 12 / 12, n/a, 18, K and A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 61810 Chc/Lat 289, Sem A)
+			
+		    , 
+			        (same as 61810 Chc/Lat 289, Sem A)
+			,  ,  
+
+			        (same as 61810 Chc/Lat 289, Sem A)
+			
+
+  Anthro   212A     RES DES&DATA ANALYS
+	    
+
+60710, Sem, A, 4, OLSON, V., M   12:00- 2:50p, SBSG 3200, Wed, Jun 12, 4:00-6:00pm, 15, 11, n/a, 12, K, Bookstore, Web, OPEN
+
+  Anthro   221A     FAMILY & LIFE HIST
+	    
+
+60720, Sem, A, 4, LEONARD, K., Th   12:00- 2:50p, SBSG 3200,     TBA, 15, 3 / 3, n/a, 10, K, Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 72020 Soc Sci 253A, Sem A)
+			
+		    , 
+			        (same as 72020 Soc Sci 253A, Sem A)
+			,  ,  
+
+			        (same as 72020 Soc Sci 253A, Sem A)
+			
+
+  Anthro   289     TECHMETHD LANG CULT
+	    
+
+60770, Sem, A, 4, MURPHY, K., Tu    9:00-11:50 , SBSG 3200, Thu, Jun 13, 8:00-10:00am, 15, 13, n/a, 18, K, Bookstore, Web, OPEN
+
+  Anthro   289     PST COLNIAL &SUBJCT
+	    
+
+60772, Sem, B, 4, BOELLSTORFF, T., Tu   12:00- 2:50p, SBSG 3200, Mon, Jun 10, 1:30-3:30pm, 15, 3 / 5, n/a, 11, K, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 22640 Clt&Thy 289, Sem B)
+			
+		    , 
+			        (same as 22640 Clt&Thy 289, Sem B)
+			,  ,  
+
+			        (same as 22640 Clt&Thy 289, Sem B)
+			
+
+  Anthro   289     SLOTERDIJK
+	    
+
+60775, Sem, C, 2, BOELLSTORFF, T., F   12:00- 2:50p, SBSG 3200,     TBA, 15, 5, n/a, 13, K, Bookstore, Web, OPEN
+
+  Anthro   290     DISSERTATION RESRCH
+	    
+
+60800, Res, A, 4-12, BERNAL, V.,       TBA, SBSG 3318,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+60802, Res, B, 4-12, BOELLSTORFF, T.,       TBA, SBSG 3322,     TBA, 5, 1, n/a, 1, N, Bookstore,  , OPEN
+60804, Res, C, 4-12, BURTON, M.,       TBA, SBSG 3554,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60808, Res, E, 4-12, CANCIAN, F.,       TBA, SBSG 3552,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60810, Res, F, 4-12, CHAVEZ, L.,       TBA, SBSG 3326,     TBA, 8, 2, n/a, 2, N, Bookstore,  , OPEN
+60811, Res, G, 4-12, STAFF,       TBA, TBA,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60813, Res, H, 4-12, ELYACHAR, J.,       TBA, SBSG 3328,     TBA, 2, 1, n/a, 1, N, Bookstore,  , OPEN
+60814, Res, I, 4-12, STAFF,       TBA, TBA,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60815, Res, J, 4-12, GARFIAS, R.,       TBA, SBSG 3334,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60816, Res, K, 4-12, STAFF,       TBA, TBA,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60818, Res, L, 4-12, LEONARD, K.,       TBA, SBSG 3564,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60819, Res, M, 4-12, MARCUS, G.,       TBA, SBSG 3566,     TBA, 6, 3, n/a, 3, N, Bookstore,  , OPEN
+60820, Res, N, 4-12, MAURER, W.,       TBA, SBSG 3562,     TBA, 10, 8, n/a, 8, N, Bookstore,  , OPEN
+60821, Res, O, 4-12, MONTOYA, M.,       TBA, SBSG 3312,     TBA, 10, 3, n/a, 3, N, Bookstore,  , OPEN
+60822, Res, P, 4-12, MURPHY, K.,       TBA, SBSG 3306,     TBA, 2, 1, n/a, 1, N, Bookstore,  , OPEN
+60823, Res, Q, 4-12, OLSON, V.,       TBA, SBSG 3328,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60826, Res, R, 4-12, PETERSON, K.,       TBA, SBSG 3336,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60828, Res, S, 4-12, VARZI, R.,       TBA, SBSG 3314,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60830, Res, T, 4-12, WHITE, D.,       TBA, SBSG 3544,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60832, Res, U, 4-12, ZHAN, M.,       TBA, SBSG 3316,     TBA, 3, 3, n/a, 3, N, Bookstore,  , FULL
+
+  Anthro   299     INDEPENDENT STUDY
+	    
+
+60900, Tut, A, 4, BERNAL, V.,       TBA, SBSG 3318,     TBA, 2, 2, n/a, 2, N, Bookstore,  , FULL
+60902, Tut, B, 4, BOELLSTORFF, T.,       TBA, SBSG 3322,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60904, Tut, C, 4, BURTON, M.,       TBA, SBSG 3554,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60905, Tut, D, 4, CANCIAN, F.,       TBA, SBSG 3552,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60906, Tut, E, 4, CHAVEZ, L.,       TBA, SBSG 3326,     TBA, 5, 2, n/a, 2, N, Bookstore,  , OPEN
+60907, Tut, F, 4, COLBY, B.,       TBA, SSPB 5275,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60908, Tut, G, 4, ELYACHAR, J.,       TBA, SBSG 3328,     TBA, 2, 2, n/a, 2, N, Bookstore,  , FULL
+60909, Tut, H, 4, STAFF,       TBA, TBA,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60914, Tut, I, 4, GARFIAS, R.,       TBA, SBSG 3334,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60916, Tut, J, 4, STAFF,       TBA, TBA,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60918, Tut, K, 4, LEONARD, K.,       TBA, SBSG 3564,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60919, Tut, L, 4, MARCUS, G.,       TBA, SBSG 3566,     TBA, 5, 0, n/a, 0, N, Bookstore,  , OPEN
+60922, Tut, M, 4, MAURER, W.,       TBA, SBSG 3562,     TBA, 10, 9, n/a, 9, N, Bookstore,  , OPEN
+60923, Tut, K, 4, MONTOYA, M.,       TBA, SBSG 3312,     TBA, 5, 1, n/a, 1, N, Bookstore,  , OPEN
+60924, Tut, L, 4, MURPHY, K.,       TBA, SBSG 3306,     TBA, 4, 1, n/a, 1, N, Bookstore,  , OPEN
+60925, Tut, M, 4, OLSON, V.,       TBA, SBSG 3328,     TBA, 6, 0, n/a, 0, N, Bookstore,  , OPEN
+60926, Tut, N, 4, PETERSON, K.,       TBA, SBSG 3336,     TBA, 4, 3, n/a, 3, N, Bookstore,  , OPEN
+60928, Tut, O, 4, VARZI, R.,       TBA, SBSG 3314,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+60930, Tut, P, 4, WHITE, D.,       TBA, SBSG 3544,     TBA, 2, 1, n/a, 1, N, Bookstore,  , OPEN
+60932, Tut, R, 4, ZHAN, M.,       TBA, SBSG 3316,     TBA, 2, 0, n/a, 0, N, Bookstore,  , OPEN
+

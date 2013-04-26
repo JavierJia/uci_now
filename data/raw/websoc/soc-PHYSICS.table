@@ -1,0 +1,785 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+School of Physical Sciences
+Physics
+  Physics   3A     BASIC PHYSICS I      (Prerequisites)
+	    
+
+47000, Lec, A, 4, DENNIN, M., MWF    1:00- 1:50p, ELH 100, Wed, Jun 12, 1:30-3:30pm, 300, 294, n/a, 461, A and M, Bookstore, Web, OPEN
+47001, Dis, A1, 0, DENNIN, M.HINKLE, T., Th    8:00- 8:50 , HICF 100N,  , 42, 41, n/a, 55,  , Bookstore,  , OPEN
+47002, Dis, A2, 0, DENNIN, M.HINKLE, T., Th    9:00- 9:50 , HICF 100N,  , 43, 43, n/a, 45,  , Bookstore,  , FULL
+47003, Dis, A3, 0, DENNIN, M.HINKLE, T., Th   10:00-10:50 , HICF 100N,  , 43, 43, n/a, 59,  , Bookstore,  , FULL
+47004, Dis, A4, 0, DENNIN, M.BAKER, T., Th   12:00-12:50p, HICF 100P,  , 43, 43, n/a, 64,  , Bookstore,  , FULL
+47005, Dis, A5, 0, DENNIN, M.BAKER, T., Th    1:00- 1:50p, RH 188,  , 43, 43, n/a, 47,  , Bookstore,  , FULL
+47006, Dis, A6, 0, DENNIN, M.HINKLE, T., Th    2:00- 2:50p, RH 108,  , 43, 41, n/a, 50,  , Bookstore,  , OPEN
+47007, Dis, A7, 0, DENNIN, M.HINKLE, T., Th    3:00- 3:50p, RH 184,  , 43, 40, n/a, 51,  , Bookstore,  , OPEN
+
+  Physics   3B     BASIC PHYSICS II      (Prerequisites)
+	    
+
+47030, Lec, A, 4, GUERRA, A., MWF    1:00- 1:50p, HSLH 100A, Wed, Jun 12, 1:30-3:30pm, 344, 296, n/a, 368, A and M, Bookstore, Web, OPEN
+47031, Dis, A1, 0, GUERRA, A.SMITH, J., Tu    8:00- 8:50 , HICF 100N,  , 43, 13, n/a, 10,  , Bookstore,  , OPEN
+47032, Dis, A2, 0, GUERRA, A.SMITH, J., Tu    9:00- 9:50 , HICF 100N,  , 43, 31, n/a, 24,  , Bookstore,  , OPEN
+47033, Dis, A3, 0, GUERRA, A.SMITH, J., Tu   10:00-10:50 , ICF 102,  , 43, 40, n/a, 33,  , Bookstore,  , OPEN
+47034, Dis, A4, 0, GUERRA, A.DILL, J., Tu   11:00-11:50 , HICF 100Q,  , 43, 43, n/a, 44,  , Bookstore,  , FULL
+47035, Dis, A5, 0, GUERRA, A.DILL, J., Tu    1:00- 1:50p, RH 108,  , 43, 43, n/a, 43,  , Bookstore,  , FULL
+47036, Dis, A6, 0, GUERRA, A.SMITH, J., Tu    2:00- 2:50p, RH 108,  , 43, 43, n/a, 41,  , Bookstore,  , FULL
+47037, Dis, A7, 0, GUERRA, A.DILL, J., Tu    4:00- 4:50p, RH 108,  , 43, 43, n/a, 41,  , Bookstore,  , FULL
+47038, Dis, A8, 0, GUERRA, A.DILL, J., Tu    6:00- 6:50p, RH 108,  , 43, 40, n/a, 29,  , Bookstore,  , OPEN
+
+  Physics   3LB     BASIC PHYSIC LAB II      (Prerequisites)
+	    
+
+47061, Lab, 1, 1.5, EATON, J., Tu    8:00-10:50 , MSTB 129, Tue, Jun 4, 8:00-10:50am, 22, 22, n/a, 26, C and M, Bookstore, Web, FULL
+47063, Lab, 3, 1.5, EATON, J.SANDERSON, R., Tu   11:00- 1:50p, MSTB 129, Tue, Jun 4, 11:00-1:50pm, 22, 22, n/a, 28, C and M, Bookstore, Web, FULL
+47065, Lab, 5, 1.5, EATON, J.ALBIN, E., Tu    2:30- 5:20p, MSTB 129, Tue, Jun 4, 2:30-5:20pm, 22, 22, n/a, 30, C and M, Bookstore, Web, FULL
+47067, Lab, 7, 1.5, EATON, J.ALBIN, E., Tu    6:00- 8:50p, MSTB 129, Tue, Jun 4, 6:00-8:50pm, 22, 22, n/a, 28, C and M, Bookstore, Web, FULL
+47068, Lab, 8, 1.5, EATON, J.BOTIMER, J., W    8:00-10:50 , MSTB 129, Wed, Jun 5, 8:00-10:50am, 22, 20, n/a, 10, C and M, Bookstore, Web, OPEN
+47069, Lab, 9, 1.5, EATON, J.ALBIN, E., W    2:30- 5:20p, MSTB 129, Wed, Jun 5, 2:30-5:20pm, 22, 21, n/a, 25, C and M, Bookstore, Web, OPEN
+47071, Lab, 11, 1.5, EATON, J.JAHNG, J., W    6:00- 8:50p, MSTB 129, Wed, Jun 5, 6:00-8:50pm, 22, 20, n/a, 26, C and M, Bookstore, Web, OPEN
+47073, Lab, 13, 1.5, EATON, J.JAHNG, J., Th    8:00-10:50 , MSTB 129, Thu, Jun 6, 8:00-10:50am, 22, 21, n/a, 36, C and M, Bookstore, Web, OPEN
+47075, Lab, 15, 1.5, EATON, J.SANDERSON, R., Th   11:00- 1:50p, MSTB 129, Thu, Jun 6, 11:00-1:50pm, 22, 22, n/a, 25, C and M, Bookstore, Web, FULL
+47077, Lab, 17, 1.5, EATON, J.LAU, C., Th    2:30- 5:20p, MSTB 129, Thu, Jun 6, 2:30-5:20pm, 22, 20, n/a, 23, C and M, Bookstore, Web, OPEN
+47079, Lab, 19, 1.5, EATON, J.LAU, C., Th    6:00- 8:50p, MSTB 129, Thu, Jun 6, 6:00-8:50pm, 22, 21, n/a, 22, C and M, Bookstore, Web, OPEN
+47081, Lab, 21, 1.5, EATON, J.LAU, C., F    8:00-10:50 , MSTB 129, Fri, Jun 7, 8:00-10:50am, 22, 21, n/a, 28, C and M, Bookstore, Web, OPEN
+47083, Lab, 23, 1.5, EATON, J.SANDERSON, R., F   11:00- 1:50p, MSTB 129, Fri, Jun 7, 11:00-1:50pm, 22, 22, n/a, 43, C and M, Bookstore, Web, FULL
+47085, Lab, 25, 1.5, EATON, J.JAHNG, J., F    2:30- 5:20p, MSTB 129, Fri, Jun 7, 2:30-5:20pm, 22, 18, n/a, 29, C and M, Bookstore, Web, OPEN
+
+  Physics   3C     BASIC PHYSICS III      (Prerequisites)
+	    
+
+47120, Lec, A, 4, KAPLINGHAT, M., TuTh    2:00- 3:20p, HSLH 100A, Thu, Jun 13, 1:30-3:30pm, 274, 274, n/a, 379, A and M, Bookstore, Web, FULL
+47121, Dis, A1, 0, KAPLINGHAT, M.KEELEY, R., W    8:00- 8:50 , RH 108,  , 45, 45, n/a, 57,  , Bookstore,  , FULL
+47122, Dis, A2, 0, KAPLINGHAT, M.KEELEY, R., W    9:00- 9:50 , RH 108,  , 46, 46, n/a, 52,  , Bookstore,  , FULL
+47123, Dis, A3, 0, KAPLINGHAT, M.KEELEY, R., W   10:00-10:50 , RH 108,  , 45, 45, n/a, 54,  , Bookstore,  , FULL
+47124, Dis, A4, 0, KAPLINGHAT, M.KEELEY, R., W   11:00-11:50 , RH 108,  , 46, 46, n/a, 57,  , Bookstore,  , FULL
+47125, Dis, A5, 0, KAPLINGHAT, M.BOLTE, N., W    1:00- 1:50p, RH 108,  , 46, 46, n/a, 58,  , Bookstore,  , FULL
+47126, Dis, A6, 0, KAPLINGHAT, M.BOLTE, N., W    2:00- 2:50p, RH 108,  , 46, 46, n/a, 54,  , Bookstore,  , FULL
+47140, Lec, B, 4, CASPER, D., MWF    2:00- 2:50p, PSLH 100, Wed, Jun 12, 10:30-12:30pm, 400, 172, n/a, 247, A and M, Bookstore, Web, OPEN
+47141, Dis, B1, 0, CASPER, D.KWA, A., Tu    9:00- 9:50 , HICF 100P,  , 40, 11, n/a, 10,  , Bookstore,  , OPEN
+47142, Dis, B2, 0, CASPER, D.KWA, A., Tu   10:00-10:50 , HICF 100P,  , 40, 26, n/a, 24,  , Bookstore,  , OPEN
+47143, Dis, B3, 0, CASPER, D.DIFRANZO, A., Tu   11:00-11:50 , HICF 100P,  , 40, 30, n/a, 34,  , Bookstore,  , OPEN
+47144, Dis, B4, 0, CASPER, D.DIFRANZO, A., Tu   12:00-12:50p, HICF 100P,  , 40, 9, n/a, 10,  , Bookstore,  , OPEN
+47145, Dis, B5, 0, CASPER, D.DIFRANZO, A., Tu    1:00- 1:50p, HICF 100P,  , 40, 27, n/a, 29,  , Bookstore,  , OPEN
+47146, Dis, B6, 0, CASPER, D.DIFRANZO, A., Tu    2:00- 2:50p, HICF 100P,  , 40, 27, n/a, 25,  , Bookstore,  , OPEN
+47147, Dis, B7, 0, CASPER, D.DIFRANZO, A., Tu    4:00- 4:50p, RH 188,  , 40, 19, n/a, 20,  , Bookstore,  , OPEN
+47148, Dis, B8, 0, CASPER, D.KWA, A., Tu    5:00- 5:50p, RH 184,  , 40, 12, n/a, 14,  , Bookstore,  , OPEN
+47149, Dis, B9, 0, CASPER, D.KWA, A., Tu    6:00- 6:50p, RH 184,  , 40, 6, n/a, 8,  , Bookstore,  , OPEN
+47150, Dis, B10, 0, CASPER, D.KWA, A., Tu    7:00- 7:50p, RH 184,  , 40, 5, n/a, 8,  , Bookstore,  , OPEN
+
+  Physics   3LC     BAS PHYSICS LAB III      (Prerequisites)
+	    
+
+47181, Lab, 1, 1.5, SIWY, Z.BRYANT, D., Tu    8:00-10:50 , MSTB 133, Tue, Jun 4, 8:00-10:50am, 22, 21, n/a, 26, C and M, Bookstore, Web, OPEN
+47182, Lab, 2, 1.5, SIWY, Z.BRYANT, D., Tu   11:00- 1:50p, MSTB 133, Tue, Jun 4, 11:00-1:50pm, 22, 22, n/a, 25, C and M, Bookstore, Web, FULL
+47183, Lab, 3, 1.5, SIWY, Z.UPADHYAY, S., Tu    6:00- 8:50p, MSTB 133, Tue, Jun 4, 6:00-8:50pm, 22, 22, n/a, 30, C and M, Bookstore, Web, FULL
+47184, Lab, 4, 1.5, SIWY, Z.PITCHER, C., W    8:00-10:50 , MSTB 133, Wed, Jun 5, 8:00-10:50am, 22, 22, n/a, 26, C and M, Bookstore, Web, FULL
+47185, Lab, 5, 1.5, SIWY, Z., W   11:00- 1:50p, MSTB 133, Wed, Jun 5, 11:00-1:50pm, 22, 22, n/a, 25, C and M, Bookstore, Web, FULL
+47186, Lab, 6, 1.5, SIWY, Z.UPADHYAY, S., W    2:30- 5:20p, MSTB 133, Wed, Jun 5, 2:30-5:20pm, 22, 22, n/a, 28, C and M, Bookstore, Web, FULL
+47187, Lab, 7, 1.5, SIWY, Z.PITCHER, C., W    6:00- 8:50p, MSTB 133, Wed, Jun 5, 6:00-8:50pm, 22, 22, n/a, 29, C and M, Bookstore, Web, FULL
+47188, Lab, 8, 1.5, SIWY, Z.ELBERT, O., Th    8:00-10:50 , MSTB 133, Thu, Jun 6, 8:00-10:50am, 22, 21, n/a, 25, C and M, Bookstore, Web, OPEN
+47189, Lab, 9, 1.5, SIWY, Z.ELBERT, O., Th   11:00- 1:50p, MSTB 133, Thu, Jun 6, 11:00-1:50pm, 22, 22, n/a, 23, C and M, Bookstore, Web, FULL
+47190, Lab, 10, 1.5, SIWY, Z.UPADHYAY, S., Th    6:00- 8:50p, MSTB 133, Thu, Jun 6, 6:00-8:50pm, 22, 21, n/a, 22, C and M, Bookstore, Web, OPEN
+47191, Lab, 11, 1.5, SIWY, Z.ELBERT, O., F    8:00-10:50 , MSTB 133, Fri, Jun 7, 8:00-10:50am, 22, 21, n/a, 27, C and M, Bookstore, Web, OPEN
+47192, Lab, 12, 1.5, SIWY, Z.BOLTE, N., F   11:00- 1:50p, MSTB 133, Fri, Jun 7, 11:00-1:50pm, 22, 22, n/a, 26, C and M, Bookstore, Web, FULL
+47193, Lab, 13, 1.5, SIWY, Z.PITCHER, C., F    2:30- 5:20p, MSTB 133, Fri, Jun 7, 2:30-5:20pm, 22, 22, n/a, 22, C and M, Bookstore, Web, FULL
+47194, Lab, 14, 1.5, SIWY, Z.BRYANT, D., F    6:00- 8:50p, MSTB 133, Fri, Jun 7, 6:00-8:50pm, 22, 21, n/a, 27, C and M, Bookstore, Web, OPEN
+47195, Lab, 15, 1.5, SIWY, Z.WALKER, J., Th    2:30- 5:20p, MSTB 133, Thu, Jun 6, 2:30-5:20pm, 22, 19, n/a, 12, C and M, Bookstore,  , OPEN
+
+  Physics   7C     CLASSICAL PHYSICS      (Prerequisites)
+	    
+
+47200, Lec, A, 4, ABACHI, S., MWF    1:00- 1:50p, HIB 100, Wed, Jun 12, 1:30-3:30pm, 280, 248, n/a, 341, A, Bookstore, Web, OPEN
+47201, Dis, A1, 0, ABACHI, S.BOIZELLE, B., Th    9:00- 9:50 , HICF 100P,  , 35, 18, n/a, 19,  , Bookstore,  , OPEN
+47202, Dis, A2, 0, ABACHI, S.BOIZELLE, B., Th   10:00-10:50 , MSTB 122,  , 35, 32, n/a, 35,  , Bookstore,  , OPEN
+47203, Dis, A3, 0, ABACHI, S.MARGARITIS, K., Th   11:00-11:50 , HICF 100Q,  , 35, 34, n/a, 35,  , Bookstore,  , OPEN
+47204, Dis, A4, 0, ABACHI, S.MARGARITIS, K., Th   12:00-12:50p, HICF 100Q,  , 35, 35, n/a, 34,  , Bookstore,  , FULL
+47205, Dis, A5, 0, ABACHI, S.TORIUMI, R., Th    1:00- 1:50p, RH 108,  , 35, 35, n/a, 33,  , Bookstore,  , FULL
+47206, Dis, A6, 0, ABACHI, S.TORIUMI, R., Th    2:00- 2:50p, RH 184,  , 35, 35, n/a, 38,  , Bookstore,  , FULL
+47207, Dis, A7, 0, ABACHI, S.FRATE, M., Th    3:00- 3:50p, RH 108,  , 35, 30, n/a, 30,  , Bookstore,  , OPEN
+47208, Dis, A8, 0, ABACHI, S.FRATE, M., Th    4:00- 4:50p, RH 108,  , 35, 29, n/a, 23,  , Bookstore,  , OPEN
+
+  Physics   7LC     CLASS PHYSICS LAB      (Prerequisites)
+	    
+
+47221, Lab, 1, 1, ABACHI, S.BOIZELLE, B., Tu    9:00-10:50 , MSTB 125, Thu, Jun 13, 8:00-10:00am, 33, 26, n/a, 42, A, Bookstore,  , OPEN
+47222, Lab, 2, 1, ABACHI, S.MARGARITIS, K., Tu   11:00-12:50p, MSTB 125, Tue, Jun 11, 10:30-12:30pm, 33, 28, n/a, 35, A, Bookstore,  , OPEN
+47223, Lab, 3, 1, ABACHI, S.MARGARITIS, K., Tu    1:00- 2:50p, MSTB 125,     TBA, 33, 27, n/a, 34, A, Bookstore,  , OPEN
+47224, Lab, 4, 1, ABACHI, S.TORIUMI, R., W    2:00- 3:50p, MSTB 125,     TBA, 33, 32, n/a, 38, A, Bookstore,  , OPEN
+47225, Lab, 5, 1, ABACHI, S.BOIZELLE, B., W    4:00- 5:50p, MSTB 125,     TBA, 33, 27, n/a, 33, A, Bookstore,  , OPEN
+47226, Lab, 6, 1, ABACHI, S.BOIZELLE, B., W    7:00- 8:50p, MSTB 125, Wed, Jun 12, 7:00-9:00pm, 33, 11, n/a, 11, A, Bookstore,  , OPEN
+47227, Lab, 7, 1, ABACHI, S.TORIUMI, R., Th    9:00-10:50 , MSTB 125,     TBA, 33, 9, n/a, 14, A, Bookstore,  , OPEN
+47228, Lab, 8, 1, ABACHI, S.TORIUMI, R., Th   11:00-12:50p, MSTB 125,     TBA, 33, 23, n/a, 22, A, Bookstore,  , OPEN
+47229, Lab, 9, 1, ABACHI, S.MARGARITIS, K., Th    1:00- 2:50p, MSTB 125,     TBA, 33, 31, n/a, 36, A, Bookstore,  , OPEN
+
+  Physics   7D     CLASSICAL PHYSICS      (Prerequisites)
+	    
+
+47240, Lec, A, 4, PARKER, W., TuTh    9:30-10:50 , PSCB 220, Thu, Jun 13, 8:00-10:00am, 30, 22, n/a, 43, A and L, Bookstore, Web, OPEN
+47241, Dis, A1, 0, PARKER, W.CZAP, G., W    9:00- 9:50 , PSCB 210,  , 30, 22, n/a, 27, L, Bookstore,  , OPEN
+47250, Lec, B, 4, MCWILLIAMS, R., TuTh    8:00- 9:20 , PSLH 100, Tue, Jun 11, 8:00-10:00am, 409, 177, n/a, 200, A and M, Bookstore, Web, OPEN
+47251, Dis, B1, 0, MCWILLIAMS, R.WANG, A., W    8:00- 8:50 , HICF 100P,  , 40, 4, n/a, 4, M, Bookstore,  , OPEN
+47252, Dis, B2, 0, MCWILLIAMS, R.WANG, A., W    9:00- 9:50 , HICF 100P,  , 41, 17, n/a, 14, M, Bookstore,  , OPEN
+47253, Dis, B3, 0, MCWILLIAMS, R.MENESTRINA, J., W   10:00-10:50 , HICF 100P,  , 41, 25, n/a, 21, M, Bookstore,  , OPEN
+47254, Dis, B4, 0, MCWILLIAMS, R.MENESTRINA, J., W   11:00-11:50 , HICF 100P,  , 41, 41, n/a, 39, M, Bookstore,  , FULL
+47255, Dis, B5, 0, MCWILLIAMS, R.LI, L., W   12:00-12:50p, HICF 100P,  , 41, 24, n/a, 20, M, Bookstore,  , OPEN
+47256, Dis, B6, 0, MCWILLIAMS, R.LI, L., W    1:00- 1:50p, HICF 100M,  , 41, 19, n/a, 23, M, Bookstore,  , OPEN
+47257, Dis, B7, 0, MCWILLIAMS, R.SAFRANSKI, C., W    2:00- 2:50p, ICF 102,  , 41, 37, n/a, 37, M, Bookstore,  , OPEN
+47258, Dis, B8, 0, MCWILLIAMS, R.SAFRANSKI, C., W    3:00- 3:50p, MSTB 122,  , 41, 8, n/a, 7, M, Bookstore,  , OPEN
+47259, Dis, B9, 0, MCWILLIAMS, R.CARLETON, T., W    4:00- 4:50p, HICF 100M,  , 41, 0, n/a, 4, M, Bookstore,  , OPEN
+47260, Dis, B10, 0, MCWILLIAMS, R.CARLETON, T., W    5:00- 5:50p, RH 184,  , 41, 2, n/a, 4, M, Bookstore,  , OPEN
+47270, Lec, C, 4, BARWICK, S., MWF    8:00- 8:50 , HSLH 100A,     TBA, 336, 298, n/a, 322, A and M, Bookstore, Web, OPEN
+47271, Dis, C1, 0, BARWICK, S.HWANG, Y., Th    8:00- 8:50 , HICF 100P,  , 42, 16, n/a, 14, M, Bookstore,  , OPEN
+47272, Dis, C2, 0, BARWICK, S.HWANG, Y., Th    9:00- 9:50 , MSTB 122,  , 42, 35, n/a, 28, M, Bookstore,  , OPEN
+47273, Dis, C3, 0, BARWICK, S.BLATT, A., Th   10:00-10:50 , HICF 100P,  , 42, 41, n/a, 40, M, Bookstore,  , OPEN
+47274, Dis, C4, 0, BARWICK, S.BLATT, A., Th   11:00-11:50 , HICF 100P,  , 42, 40, n/a, 37, M, Bookstore,  , OPEN
+47275, Dis, C5, 0, BARWICK, S.BLATT, A., Th   12:00-12:50p, HICF 100N,  , 42, 41, n/a, 36, M, Bookstore,  , OPEN
+47276, Dis, C6, 0, BARWICK, S.BLATT, A., Th    1:00- 1:50p, HICF 100P,  , 42, 42, n/a, 41, M, Bookstore,  , FULL
+47277, Dis, C7, 0, BARWICK, S.FRATE, M., Th    2:00- 2:50p, HICF 100P,  , 42, 41, n/a, 44, M, Bookstore,  , OPEN
+47278, Dis, C8, 0, BARWICK, S.FRATE, M., Th    5:00- 5:50p, RH 184,  , 42, 42, n/a, 32, M, Bookstore,  , FULL
+
+  Physics   7LD     CLASS PHYSICS LAB      (Prerequisites)
+	    
+
+47291, Lab, 1, 1, MURGIA, S., Tu   11:00-12:50p, MSTB 121, Tue, Jun 4, 11:00-12:50pm, 33, 33, n/a, 35, M and C, Bookstore, Web, FULL
+47292, Lab, 2, 1, MURGIA, S.SAFRANSKI, C., Tu    1:00- 2:50p, MSTB 121, Tue, Jun 4, 1:00-2:50pm, 33, 33, n/a, 35, M and C, Bookstore,  , FULL
+47293, Lab, 3, 1, MURGIA, S.SAFRANSKI, C., Tu    3:00- 4:50p, MSTB 121, Tue, Jun 4, 3:00-4:50pm, 33, 28, n/a, 27, M and C, Bookstore,  , OPEN
+47294, Lab, 4, 1, MURGIA, S.MENESTRINA, J., Tu    5:00- 6:50p, MSTB 121, Tue, Jun 4, 5:00-6:50pm, 33, 25, n/a, 32, M and C, Bookstore,  , OPEN
+47295, Lab, 5, 1, MURGIA, S.MENESTRINA, J., Tu    7:00- 8:50p, MSTB 121, Tue, Jun 4, 7:00-8:50pm, 33, 11, n/a, 12, M and C, Bookstore,  , OPEN
+47296, Lab, 6, 1, MURGIA, S.BLATT, A., W   11:00-12:50p, MSTB 121, Wed, Jun 5, 11:00-12:50pm, 33, 32, n/a, 35, M and C, Bookstore,  , OPEN
+47297, Lab, 7, 1, MURGIA, S.CZAP, G., W    1:00- 2:50p, MSTB 121, Wed, Jun 5, 1:00-2:50pm, 33, 18, n/a, 22, L and C, Bookstore,  , OPEN
+47298, Lab, 8, 1, MURGIA, S.CZAP, G., W    3:00- 4:50p, MSTB 121, Wed, Jun 5, 3:00-4:50pm, 33, 33, n/a, 31, M and C, Bookstore,  , FULL
+47299, Lab, 9, 1, MURGIA, S.WANG, A., W    5:00- 6:50p, MSTB 121, Wed, Jun 5, 5:00-6:50pm, 33, 27, n/a, 26, M and C, Bookstore,  , OPEN
+47300, Lab, 10, 1, MURGIA, S.WANG, A., W    7:00- 8:50p, MSTB 121, Wed, Jun 5, 7:00-8:50pm, 33, 23, n/a, 17, M and C, Bookstore,  , OPEN
+47301, Lab, 11, 1, MURGIA, S.LI, L., Th   11:00-12:50p, MSTB 121, Thu, Jun 6, 11:00-12:50pm, 33, 33, n/a, 40, M and C, Bookstore,  , FULL
+47302, Lab, 12, 1, MURGIA, S.HWANG, Y., Th    1:00- 2:50p, MSTB 121, Thu, Jun 6, 1:00-2:50pm, 33, 32, n/a, 33, M and C, Bookstore,  , OPEN
+47303, Lab, 13, 1, MURGIA, S.HWANG, Y., Th    3:00- 4:50p, MSTB 121, Thu, Jun 6, 3:00-4:50pm, 33, 29, n/a, 29, M and C, Bookstore,  , OPEN
+47304, Lab, 14, 1, MURGIA, S.CARLETON, T., Th    5:00- 6:50p, MSTB 121, Thu, Jun 6, 5:00-6:50pm, 33, 20, n/a, 17, M and C, Bookstore,  , OPEN
+47305, Lab, 15, 1, MURGIA, S.CARLETON, T., Th    7:00- 8:50p, MSTB 121, Thu, Jun 6, 7:00-8:50pm, 33, 6, n/a, 5, M and C, Bookstore,  , OPEN
+47306, Lab, 16, 1, MURGIA, S.CZAP, G., F   11:00-12:50p, MSTB 121, Fri, Jun 7, 11:00-12:50pm, 33, 33, n/a, 36, M and C, Bookstore,  , FULL
+47307, Lab, 17, 1, MURGIA, S.CZAP, G., F    1:00- 2:50p, MSTB 121, Fri, Jun 7, 1:00-2:50pm, 33, 31, n/a, 31, M and C, Bookstore,  , OPEN
+47308, Lab, 18, 1, MURGIA, S.LI, L., F    3:00- 4:50p, MSTB 121, Fri, Jun 7, 3:00-4:50pm, 33, 31, n/a, 31, M and C, Bookstore,  , OPEN
+47309, Lab, 19, 1, MURGIA, S.LI, L., F    5:00- 6:50p, MSTB 121, Fri, Jun 7, 5:00-6:50pm, 33, 9, n/a, 8, M and C, Bookstore,  , OPEN
+
+  Physics   7E     CLASSICAL PHYSICS      (Prerequisites)
+	    
+
+47320, Lec, A, 4, COLLINS, P., MWF    2:00- 2:50p, ELH 100, Wed, Jun 12, 10:30-12:30pm, 200, 198, n/a, 249, A, Bookstore, Web, OPEN
+47321, Dis, A1, 0, COLLINS, P.ARNESON, R., Tu   12:00-12:50p, RH 188,  , 40, 40, n/a, 38,  , Bookstore,  , FULL
+47322, Dis, A2, 0, COLLINS, P.ARNESON, R., Tu    1:00- 1:50p, ICF 102,  , 40, 40, n/a, 47,  , Bookstore,  , FULL
+47323, Dis, A3, 0, COLLINS, P.ARNESON, R., Tu    2:00- 2:50p, HICF 100Q,  , 40, 40, n/a, 43,  , Bookstore,  , FULL
+47324, Dis, A4, 0, COLLINS, P.ARNESON, R., Tu    3:00- 3:50p, RH 184,  , 40, 40, n/a, 44,  , Bookstore,  , FULL
+47325, Dis, A5, 0, COLLINS, P.ARNESON, R., Tu    4:00- 4:50p, RH 184,  , 40, 38, n/a, 43,  , Bookstore,  , OPEN
+
+  Physics   14     PHYS ENERGY&ENVIRON
+	    
+
+47327, Lec, A, 4, ABAZAJIAN, K., MWF    1:00- 1:50p, PSCB 140, Wed, Jun 12, 1:30-3:30pm, 85, 47, n/a, 55,  , Bookstore, Web, OPEN
+
+  Physics   15     PHYSICS OF MUSIC
+	    
+
+47430, Lec, A, 4, TRIMBLE, V., TuTh    8:00- 9:20 , PSCB 140, Tue, Jun 11, 8:00-10:00am, 85, 59, n/a, 90,  , Bookstore,  , OPEN
+
+  Physics   20B     COSMOLOGY
+	    
+
+47450, Lec, A, 4, COOPER, M., TuTh   11:00-12:20p, SH 128, Tue, Jun 11, 10:30-12:30pm, 75, 74, n/a, 115,  , Bookstore, Web, OPEN
+47451, Dis, A1, 0, COOPER, M.CANAC, N., F   11:00-11:50 , RH 108,  , 19, 19, n/a, 24,  , Bookstore,  , FULL
+47452, Dis, A2, 0, COOPER, M.CANAC, N., F    1:00- 1:50p, RH 108,  , 19, 19, n/a, 24,  , Bookstore,  , FULL
+47453, Dis, A3, 0, COOPER, M.CANAC, N., F    2:00- 2:50p, RH 108,  , 19, 19, n/a, 22,  , Bookstore,  , FULL
+47454, Dis, A4, 0, COOPER, M.CANAC, N., F    3:00- 3:50p, RH 108,  , 18, 17, n/a, 24,  , Bookstore,  , OPEN
+
+  Physics   50     MATH METHODS      (Prerequisites)
+	    
+
+47480, Lec, A, 4, HEIDBRINK, W.BAKER, T., TuTh    9:30-10:50 , PCB 1200, Thu, Jun 13, 8:00-10:00am, 40, 24, n/a, 28, A and L, Bookstore, Web, OPEN
+47481, Dis, 1, 0, HEIDBRINK, W.BAKER, T., W   11:00-11:50 , SSTR 100,  , 40, 24, n/a, 22,  , Bookstore,  , OPEN
+
+  Physics   51B     MODERN PHYSICS      (Prerequisites)
+	    
+
+47490, Lec, A, 4, HAMBER, H., TuTh   12:30- 1:50p, RH 104, Mon, Jun 10, 1:30-3:30pm, 120, 40, n/a, 50, A, Bookstore, Web, OPEN
+47491, Dis, A1, 0, HAMBER, H.WIEDMANN, M., W    9:00- 9:50 , PSCB 220,  , 30, 4, n/a, 6,  , Bookstore,  , OPEN
+47492, Dis, A2, 0, HAMBER, H.WIEDMANN, M., W   10:00-10:50 , PSCB 240,  , 30, 10, n/a, 12,  , Bookstore,  , OPEN
+47493, Dis, A3, 0, HAMBER, H.WIEDMANN, M., W   11:00-11:50 , PSCB 230,  , 30, 3, n/a, 4,  , Bookstore,  , OPEN
+47494, Dis, A4, 0, HAMBER, H.WIEDMANN, M., W   12:00-12:50p, MSTB 114,  , 30, 23, n/a, 24,  , Bookstore,  , OPEN
+
+  Physics   52C     FUND OF EXP PHYSICS      (Prerequisites)
+	    
+
+47500, Lec, A, 0, CASPER, D., F    3:00- 3:50p, ICS 174,  , 110, 41, n/a, 53, A, Bookstore,  , OPEN
+47501, Lab, 1, 2, CASPER, D.WALKER, J., M    2:00- 4:50p, MSTB 117,     TBA, 22, 12, n/a, 16, M and C, Bookstore,  , OPEN
+47504, Lab, 4, 2, CASPER, D., W    3:00- 5:50p, MSTB 117,     TBA, 22, 18, n/a, 19, C and L, Bookstore,  , OPEN
+47505, Lab, 5, 2, CASPER, D.WALKER, J., W    6:00- 8:50p, MSTB 117,     TBA, 22, 11, n/a, 10, M and C, Bookstore,  , OPEN
+
+  Physics   53     INTRO C & NUM ANALY      (Prerequisites)
+	    
+
+47510, Lec, A, 4, TAFFARD, A., MW    9:00-10:20 , ELH 110, Wed, Jun 12, 8:00-10:00am, 40, 28, n/a, 49, A, Bookstore, Web, OPEN
+47511, Dis, 1, 0, TAFFARD, A.PACE, A., F    9:00- 9:50 , MSTB 110,  , 20, 11, n/a, 18,  , Bookstore,  , OPEN
+47512, Dis, 2, 0, TAFFARD, A.PACE, A., F   11:00-11:50 , MSTB 110,  , 20, 17, n/a, 22,  , Bookstore,  , OPEN
+
+  Physics   112B     ELECTROMAG THEORY      (Prerequisites)
+	    
+
+47585, Lec, A, 4, SHIRMAN, Y., TuTh   12:30- 1:50p, PCB 1200, Mon, Jun 10, 1:30-3:30pm, 50, 25, n/a, 29, A, Bookstore,  , OPEN
+47586, Dis, A1, 0, SHIRMAN, Y.GOODMAN, J., F   12:00-12:50p, MSTB 122,  , 50, 25, n/a, 28,  , Bookstore,  , OPEN
+
+  Physics   113A     QUANTUM PHYSICS      (Prerequisites)
+	    
+
+47605, Lec, A, 4, HO, W., TuTh    9:30-10:50 , RH 108, Thu, Jun 13, 8:00-10:00am, 46, 29, n/a, 31, A, Bookstore, Web, OPEN
+47606, Dis, 1, 0, HO, W.STAFF, F   10:00-10:50 , RH 108,  , 46, 29, n/a, 30,  , Bookstore,  , OPEN
+
+  Physics   121W     ADVANCED LAB      (Prerequisites)
+	    
+
+47645, Lec, A, 4, RUTLEDGE, J., M    1:00- 1:50p, MSTB 121, Wed, Jun 12, 1:30-3:30pm, 16, 9, n/a, 10, I and L, Bookstore, Web, OPEN
+47646, Lab, A1, 0, RUTLEDGE, J.PACE, A., MW    2:00- 4:50p, MSTB 102,  , 16, 9, n/a, 9, I and C, Bookstore,  , OPEN
+
+  Physics   125B     MATHEMATICL PHYSICS      (Prerequisites)
+	    
+
+47655, Lec, A, 4, LIN, Z., TuTh    9:30-10:50 , PSCB 240, Thu, Jun 13, 8:00-10:00am, 26, 5, n/a, 7, A, Bookstore, Web, OPEN
+47656, Dis, A1, 0, LIN, Z.STAFF, W    1:00- 1:50p, ICS 259,  , 26, 5, n/a, 7,  , Bookstore,  , OPEN
+
+  Physics   133     INTRO COND MAT PHYS      (Prerequisites)
+	    
+
+47675, Lec, A, 4, XIA, J., TuTh    2:00- 3:20p, PSCB 220, Thu, Jun 13, 1:30-3:30pm, 30, 10, n/a, 13, A or K, Bookstore, Web, OPEN
+
+  Physics   139     OBSERVATIONAL ASTRO      (Prerequisites)
+	    
+
+47680, Lec, A, 0, SMECKER-HANE, T., M    2:00- 3:50p, MSTB 110,  , 20, 0, n/a, 2, A, Bookstore, Web, OPEN
+47681, Lab, A, 4, SMECKER-HANE, T.BOIZELLE, B., WF    2:00- 3:50p, MSTB 110, Wed, Jun 12, 10:30-12:30pm, 20, 0, n/a, 2, A, Bookstore,  , OPEN
+
+  Physics   144     STELLAR ASTROPHYSIC      (Prerequisites)
+	    
+
+47685, Lec, A, 4, BUOTE, D., TuTh    3:30- 4:50p, FRH 2111, Tue, Jun 11, 4:00-6:00pm, 20, 15, n/a, 16, A, Bookstore,  , OPEN
+
+  Physics   146B     BIOLOGICAL PHYSICS      (Prerequisites)
+	    
+
+47695, Lec, A, 4, RITZ, T., MWF   10:00-10:50 , RH 192, Mon, Jun 10, 10:30-12:30pm, 13, 1, n/a, 1, A, Bookstore, Web, OPEN
+
+  Physics   147C     MED TECHNIQUES II      (Prerequisites)
+	    
+
+47700, Lec, A, 4, GULSEN, G., MWF    1:00- 1:50p, MSTB 120, Wed, Jun 12, 1:30-3:30pm, 60, 47, n/a, 30, A, Bookstore, Web, OPEN
+
+  Physics   192     TUTORING IN PHYSICS      (Prerequisites)
+	    
+
+47750, Lec, A, 2, STAFF,       TBA, TBA,  , 30, 0, n/a, 1, A and D, Bookstore,  , OPEN
+
+  Physics   195     UNDERGRAD RESEARCH
+	    
+
+47801, Res, 1, 4, ABAZAJIAN, K.,       TBA, FRH 2158,  , 5, 0, n/a, 1, D and L, Bookstore,  , OPEN
+47803, Res, 3, 4, ALICEA, J.,       TBA, RH 310L,  , 5, 0, n/a, 1, D and L, Bookstore,  , OPEN
+47805, Res, 5, 4, BANDER, M.,       TBA, FRH 3176,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47807, Res, 7, 4, BARTH, A.,       TBA, FRH 2172,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47809, Res, 9, 4, BARWICK, S.,       TBA, FRH 3156,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47811, Res, 11, 4, BENFORD, G.,       TBA, FRH 4176,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47813, Res, 13, 4, BULLOCK, J.,       TBA, FRH 2127,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47815, Res, 15, 4, BUOTE, D.,       TBA, FRH 2176,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47817, Res, 17, 4, CASPER, D.,       TBA, FRH 3184,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47819, Res, 19, 4, CHANAN, G.,       TBA, FRH 2186,  , 5, 0, n/a, 1, D and L, Bookstore,  , OPEN
+47821, Res, 21, 4, CHEN, L.,       TBA, FRH 4162,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47823, Res, 23, 4, CHEN, M.,       TBA, FRH 3115,  , 20, 0, n/a, 1, D and L, Bookstore,  , OPEN
+47825, Res, 25, 4, CHERNYSHEV, A.,       TBA, RH 310F,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47827, Res, 27, 4, COLLINS, P.,       TBA, RH 310H,  , 5, 1, n/a, 1, D and L, Bookstore,  , OPEN
+47829, Res, 29, 4, COORAY, A.,       TBA, FRH 2174,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47831, Res, 31, 4, DENNIN, M.,       TBA, RH 210K,  , 5, 3, n/a, 3, D and L, Bookstore,  , OPEN
+47833, Res, 33, 4, DZYALOSHINSKII, I.,       TBA, RH 277,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47835, Res, 35, 4, FENG, J.,       TBA, FRH 3166,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47837, Res, 37, 4, FISK, Z.,       TBA, FRH 2186,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47839, Res, 39, 4, GROSS, S.,       TBA, MH 2113,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47841, Res, 41, 4, GULSEN, G.,       TBA, IH 164,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47843, Res, 43, 4, HAMBER, H.,       TBA, FRH 3172,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47845, Res, 45, 4, HEIDBRINK, W.,       TBA, FRH 4174,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47847, Res, 47, 4, HO, W.,       TBA, RH 310B,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47849, Res, 49, 4, HOPSTER, H.,       TBA, RH 310C,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47851, Res, 51, 4, KAPLINGHAT, M.,       TBA, FRH 2131,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47853, Res, 53, 4, KIRKBY, D.,       TBA, FRH 3182,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47855, Res, 55, 4, KRIVOROTOV, I.,       TBA, RH 310E,  , 5, 0, n/a, 1, D and L, Bookstore,  , OPEN
+47857, Res, 57, 4, LANKFORD, A.,       TBA, FRH 3180,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47859, Res, 59, 4, LAWRENCE, J.,       TBA, RH 210F,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47861, Res, 61, 4, LIN, Z.,       TBA, FRH 4158,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47863, Res, 63, 4, MANDELKERN, M.,       TBA, FRH 3158,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47865, Res, 65, 4, MAYER, M.,       TBA, FRH 2119,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47867, Res, 67, 4, MCWILLIAMS, R.,       TBA, FRH 4164,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47869, Res, 69, 4, MILLS, D.,       TBA, RH 310D,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47871, Res, 71, 4, MOLZON, W.,       TBA, FRH 3111,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47873, Res, 73, 4, NALCIOGLU, O.,       TBA, IH 164,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47875, Res, 75, 4, NEWMAN, R.,       TBA, FRH 3131,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47877, Res, 77, 4, PARKER, W.,       TBA, RH 310K,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47879, Res, 79, 4, RAJARAMAN, A.,       TBA, FRH 3174,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47881, Res, 81, 4, RITZ, T.,       TBA, RH 210H,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47883, Res, 83, 4, RUTLEDGE, J.,       TBA, RH 210C,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47885, Res, 85, 4, RYNN, N.,       TBA, RH 279,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47887, Res, 87, 4, SCHULTZ, J.,       TBA, FRH 3180,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47889, Res, 89, 4, SHIRMAN, Y.,       TBA, FRH 3164,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47891, Res, 91, 4, SIWY, Z.,       TBA, RH 210G,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47893, Res, 93, 4, SMECKER-HANE, T.,       TBA, FRH 2168,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47895, Res, 95, 4, SOBEL, H.,       TBA, FRH 3133,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47897, Res, 97, 4, SU, M.,       TBA, IH 164,  , 2, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47899, Res, 99, 4, TABOREK, P.,       TBA, RH 210B,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47901, Res, 101, 4, TAFFARD, A.,       TBA, FRH 3127,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47903, Res, 103, 4, TAIT, T.,       TBA, TBA,  , 999, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47905, Res, 105, 4, TRIMBLE, V.,       TBA, FRH 4156,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47907, Res, 107, 4, WHITE, S.,       TBA, RH 310L,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47909, Res, 109, 4, WHITESON, D.,       TBA, FRH 3168,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47911, Res, 111, 4, WU, R.,       TBA, TBA,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47913, Res, 113, 4, XIA, J.,       TBA, RH 210F,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47915, Res, 115, 4, YODH, G.,       TBA, FRH 3162,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+47917, Res, 117, 4, YU, C.,       TBA, RH 210E,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+
+  Physics   196C     THESIS IN PHYSICIII
+	    
+
+48001, Res, 1, 4, ABAZAJIAN, K.,       TBA, FRH 2158,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48003, Res, 3, 4, ALICEA, J.,       TBA, RH 310J,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48005, Res, 5, 4, BARTH, A.,       TBA, FRH 2172,  , 5, 1, n/a, 1, L and I, Bookstore,  , OPEN
+48007, Res, 7, 4, BARWICK, S.,       TBA, FRH 3156,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48009, Res, 9, 4, BULLOCK, J.,       TBA, FRH 4168,  , 5, 1, n/a, 1, L and I, Bookstore,  , OPEN
+48011, Res, 11, 4, BUOTE, D.,       TBA, FRH 4109E,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48013, Res, 13, 4, BURKE, K.,       TBA, NS2 2101,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48015, Res, 15, 4, CASPER, D.,       TBA, FRH 3184,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48017, Res, 17, 4, CHANAN, G.,       TBA, FRH 4184,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48019, Res, 19, 4, CHEN, L.,       TBA, FRH 4162,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48021, Res, 21, 4, CHEN, M.,       TBA, FRH 3115,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48023, Res, 23, 4, CHERNYSHEV, A.,       TBA, FRH 2158,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48025, Res, 25, 4, COLLINS, P.,       TBA, FRH 2119,  , 5, 2, n/a, 2, L and I, Bookstore,  , OPEN
+48027, Res, 27, 4, COORAY, A.,       TBA, FRH 2174,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48029, Res, 29, 4, DENNIN, M.,       TBA, RH 210K,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48031, Res, 31, 4, FENG, J.,       TBA, FRH 3166,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48033, Res, 33, 4, FISK, Z.,       TBA, FRH 2186,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48035, Res, 35, 4, GROSS, S.,       TBA, MH 2113,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48037, Res, 37, 4, GULSEN, G.,       TBA, IH 164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48039, Res, 39, 4, HAMBER, H.,       TBA, FRH 3172,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48041, Res, 41, 4, HEIDBRINK, W.,       TBA, FRH 4174,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48043, Res, 43, 4, HO, W.,       TBA, FRH 2162,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48045, Res, 45, 4, HOPSTER, H.,       TBA, FRH 2125,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48047, Res, 47, 4, KAPLINGHAT, M.,       TBA, FRH 4182,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48049, Res, 49, 4, KIRKBY, D.,       TBA, FRH 3182,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48051, Res, 51, 4, KRIVOROTOV, I.,       TBA, FRH 2164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48053, Res, 53, 4, LANKFORD, A.,       TBA, FRH 4129H,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48055, Res, 55, 4, LIN, Z.,       TBA, FRH 4158,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48057, Res, 57, 4, MANDELKERN, M.,       TBA, FRH 3158,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48059, Res, 59, 4, MCWILLIAMS, R.,       TBA, FRH 4164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48061, Res, 61, 4, MOLZON, W.,       TBA, FRH 3111,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48063, Res, 63, 4, NALCIOGLU, O.,       TBA, IH 164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48065, Res, 65, 4, PARKER, W.,       TBA, FRH 2131,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48067, Res, 67, 4, RAJARAMAN, A.,       TBA, FRH 3174,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48069, Res, 69, 4, RITZ, T.,       TBA, FRH 2125,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48071, Res, 71, 4, RUTLEDGE, J.,       TBA, FRH 2123,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48073, Res, 73, 4, SHIRMAN, Y.,       TBA, FRH 3164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48075, Res, 75, 4, SIWY, Z.,       TBA, FRH 2182,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48077, Res, 77, 4, SMECKER-HANE, T.,       TBA, FRH 4109C,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48079, Res, 79, 4, SOBEL, H.,       TBA, FRH 3133,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48081, Res, 81, 4, SU, M.,       TBA, IH 164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48083, Res, 83, 4, TABOREK, P.,       TBA, FRH 2115,  , 5, 1, n/a, 1, L and I, Bookstore,  , OPEN
+48085, Res, 85, 4, TAFFARD, A.,       TBA, FRH 3127,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48087, Res, 87, 4, TAIT, T.,       TBA, TBA,  , 5, 1, n/a, 1, L and I, Bookstore,  , OPEN
+48089, Res, 89, 4, TRIMBLE, V.,       TBA, FRH 4156,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48091, Res, 91, 4, WHITE, S.,       TBA, FRH 2172,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48093, Res, 93, 4, WHITESON, D.,       TBA, FRH 3168,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48095, Res, 95, 4, WU, R.,       TBA, FRH 2121,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48097, Res, 97, 4, XIA, J.,       TBA, RH 210F,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48099, Res, 99, 4, YU, C.,       TBA, FRH 2168,  , 5, 1, n/a, 1, L and I, Bookstore,  , OPEN
+
+  Physics   H196C     HONORS THESIS III
+	    
+
+48201, Res, 1, 4, ABAZAJIAN, K.,       TBA, FRH 2158,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48203, Res, 3, 4, ALICEA, J.,       TBA, RH 310J,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48205, Res, 5, 4, BARTH, A.,       TBA, FRH 2172,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48207, Res, 7, 4, BARWICK, S.,       TBA, FRH 3156,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48209, Res, 9, 4, BULLOCK, J.,       TBA, FRH 4168,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48211, Res, 11, 4, BUOTE, D.,       TBA, FRH 4109E,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48213, Res, 13, 4, BURKE, K.,       TBA, NS2 2101,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48215, Res, 15, 4, CASPER, D.,       TBA, FRH 3184,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48217, Res, 17, 4, CHANAN, G.,       TBA, FRH 4184,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48219, Res, 19, 4, CHEN, L.,       TBA, FRH 4162,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48221, Res, 21, 4, CHEN, M.,       TBA, FRH 3115,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48223, Res, 23, 4, CHERNYSHEV, A.,       TBA, FRH 2158,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48225, Res, 25, 4, COLLINS, P.,       TBA, FRH 2119,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48227, Res, 27, 4, COORAY, A.,       TBA, FRH 2174,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48229, Res, 29, 4, DENNIN, M.,       TBA, RH 210K,  , 5, 1, n/a, 0, L and I, Bookstore,  , OPEN
+48231, Res, 31, 4, FENG, J.,       TBA, FRH 3166,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48233, Res, 33, 4, FISK, Z.,       TBA, FRH 2186,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48235, Res, 35, 4, GROSS, S.,       TBA, MH 2113,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48237, Res, 37, 4, GULSEN, G.,       TBA, IH 164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48239, Res, 39, 4, HAMBER, H.,       TBA, FRH 3172,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48241, Res, 41, 4, HEIDBRINK, W.,       TBA, FRH 4174,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48243, Res, 43, 4, HO, W.,       TBA, FRH 2162,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48245, Res, 45, 4, HOPSTER, H.,       TBA, FRH 2125,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48247, Res, 47, 4, KAPLINGHAT, M.,       TBA, FRH 4182,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48249, Res, 49, 4, KIRKBY, D.,       TBA, FRH 3182,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48251, Res, 51, 4, KRIVOROTOV, I.,       TBA, FRH 2164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48253, Res, 53, 4, LANKFORD, A.,       TBA, FRH 4129H,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48255, Res, 55, 4, LIN, Z.,       TBA, FRH 4158,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48257, Res, 57, 4, MANDELKERN, M.,       TBA, FRH 3158,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48259, Res, 59, 4, MCWILLIAMS, R.,       TBA, FRH 4164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48261, Res, 61, 4, MOLZON, W.,       TBA, FRH 3111,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48263, Res, 63, 4, NALCIOGLU, O.,       TBA, IH 164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48265, Res, 65, 4, PARKER, W.,       TBA, FRH 2131,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48267, Res, 67, 4, RAJARAMAN, A.,       TBA, FRH 3174,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48269, Res, 69, 4, RITZ, T.,       TBA, FRH 2125,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48271, Res, 71, 4, RUTLEDGE, J.,       TBA, FRH 2123,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48273, Res, 73, 4, SHIRMAN, Y.,       TBA, FRH 3164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48275, Res, 75, 4, SIWY, Z.,       TBA, FRH 2182,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48277, Res, 77, 4, SMECKER-HANE, T.,       TBA, FRH 4109C,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48279, Res, 79, 4, SOBEL, H.,       TBA, FRH 3133,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48281, Res, 81, 4, SU, M.,       TBA, IH 164,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48283, Res, 83, 4, TABOREK, P.,       TBA, FRH 2115,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48285, Res, 85, 4, TAFFARD, A.,       TBA, FRH 3127,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48287, Res, 87, 4, TAIT, T.,       TBA, TBA,  , 5, 0, n/a, 1, L and I, Bookstore,  , OPEN
+48289, Res, 89, 4, TRIMBLE, V.,       TBA, FRH 4156,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48291, Res, 91, 4, WHITE, S.,       TBA, FRH 2172,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48293, Res, 93, 4, WHITESON, D.,       TBA, FRH 3168,  , 5, 4, n/a, 4, L and I, Bookstore,  , OPEN
+48295, Res, 95, 4, WU, R.,       TBA, FRH 2121,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48297, Res, 97, 4, XIA, J.,       TBA, RH 210F,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+48299, Res, 99, 4, YU, C.,       TBA, FRH 2168,  , 5, 0, n/a, 0, L and I, Bookstore,  , OPEN
+
+  Physics   199     READ SPECIAL TOPICS
+	    
+
+48301, Res, 1, 1-4, ABAZAJIAN, K.,       TBA, FRH 2158,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48303, Res, 3, 1-4, ALICEA, J.,       TBA, RH 310K,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48305, Res, 5, 1-4, BANDER, M.,       TBA, FRH 3176,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48307, Res, 7, 1-4, BARTH, A.,       TBA, FRH 2172,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48309, Res, 9, 1-4, BARWICK, S.,       TBA, FRH 3156,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48311, Res, 11, 1-4, BENFORD, G.,       TBA, FRH 4176,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48313, Res, 13, 1-4, BULLOCK, J.,       TBA, FRH 2127,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48315, Res, 15, 1-4, BUOTE, D.,       TBA, FRH 2176,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48317, Res, 17, 1-4, CASPER, D.,       TBA, FRH 3184,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48319, Res, 19, 1-4, CHANAN, G.,       TBA, FRH 2186,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48321, Res, 21, 1-4, CHEN, L.,       TBA, FRH 4162,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48323, Res, 23, 1-4, CHEN, M.,       TBA, FRH 3115,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48325, Res, 25, 1-4, CHERNYSHEV, A.,       TBA, RH 310F,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48327, Res, 27, 1-4, COLLINS, P.,       TBA, RH 310H,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48329, Res, 29, 1-4, COORAY, A.,       TBA, FRH 2174,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48331, Res, 31, 1-4, DENNIN, M.,       TBA, RH 210K,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48333, Res, 33, 1-4, DZYALOSHINSKII, I.,       TBA, RH 277,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48335, Res, 35, 1-4, FENG, J.,       TBA, FRH 3166,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48337, Res, 37, 1-4, FISK, Z.,       TBA, FRH 2186,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48339, Res, 39, 1-4, GROSS, S.,       TBA, MH 2113,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48341, Res, 41, 1-4, HAMBER, H.,       TBA, FRH 3172,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48343, Res, 43, 1-4, HEIDBRINK, W.,       TBA, FRH 4174,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48345, Res, 45, 1-4, HO, W.,       TBA, RH 310B,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48347, Res, 47, 1-4, HOPSTER, H.,       TBA, RH 310C,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48349, Res, 49, 1-4, KAPLINGHAT, M.,       TBA, FRH 2131,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48351, Res, 51, 1-4, KIRKBY, D.,       TBA, FRH 3182,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48353, Res, 53, 1-4, KRIVOROTOV, I.,       TBA, RH 310E,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48355, Res, 55, 1-4, LANKFORD, A.,       TBA, FRH 3180,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48357, Res, 57, 1-4, LAWRENCE, J.,       TBA, RH 210F,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48359, Res, 59, 1-4, LIN, Z.,       TBA, FRH 4158,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48361, Res, 61, 1-4, MANDELKERN, M.,       TBA, FRH 3156,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48363, Res, 63, 1-4, MAYER, M.,       TBA, FRH 2119,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48365, Res, 65, 1-4, MCWILLIAMS, R.,       TBA, FRH 4164,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48367, Res, 67, 1-4, MILLS, D.,       TBA, RH 310D,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48369, Res, 69, 1-4, MOLZON, W.,       TBA, FRH 3111,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48371, Res, 71, 1-4, NALCIOGLU, O.,       TBA, IH 164,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48373, Res, 73, 1-4, NEWMAN, R.,       TBA, FRH 3131,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48375, Res, 75, 1-4, PARKER, W.,       TBA, FRH 4129H,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48377, Res, 77, 1-4, RAJARAMAN, A.,       TBA, FRH 3174,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48379, Res, 79, 1-4, RITZ, T.,       TBA, RH 210H,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48381, Res, 81, 1-4, RUTLEDGE, J.,       TBA, RH 210C,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48383, Res, 83, 1-4, RYNN, N.,       TBA, RH 279,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48385, Res, 85, 1-4, SCHULTZ, J.,       TBA, FRH 3180,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48387, Res, 87, 1-4, SHIRMAN, Y.,       TBA, FRH 3164,  , 2, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48389, Res, 89, 1-4, SIWY, Z.,       TBA, RH 210G,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48391, Res, 91, 1-4, SMECKER-HANE, T.,       TBA, FRH 2168,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48393, Res, 93, 1-4, SOBEL, H.,       TBA, FRH 3133,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48395, Res, 95, 1-4, SU, M.,       TBA, IH 164,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48397, Res, 97, 1-4, TABOREK, P.,       TBA, RH 210B,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48399, Res, 99, 1-4, TAFFARD, A.,       TBA, FRH 3127,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48401, Res, 101, 1-4, TAIT, T.,       TBA, TBA,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48403, Res, 103, 1-4, TRIMBLE, V.,       TBA, FRH 4156,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48405, Res, 105, 1-4, WHITE, S.,       TBA, RH 310L,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48407, Res, 107, 1-4, WHITESON, D.,       TBA, FRH 3168,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48409, Res, 109, 1-4, WU, R.,       TBA, RH 310B,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48411, Res, 111, 1-4, XIA, J.,       TBA, RH 210F,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48413, Res, 113, 1-4, YODH, G.,       TBA, FRH 3162,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+48415, Res, 115, 1-4, YU, C.,       TBA, RH 210E,  , 5, 0, n/a, 0, D and L, Bookstore,  , OPEN
+
+  Physics   213B     ELECTROMAG THEORY      (Prerequisites)
+	    
+
+48425, Lec, A, 4, CHANAN, G., TuTh   11:00-12:20p, PSCB 230, Tue, Jun 11, 10:30-12:30pm, 30, 16, n/a, 18, A and K, Bookstore, Web, OPEN
+48426, Dis, 1, 0, CHANAN, G.BOTIMER, J., W   12:00-12:50p, RH 108,  , 30, 16, n/a, 18,  , Bookstore,  , OPEN
+
+  Physics   214C     MANY BODY THEORY      (Prerequisites)
+	    
+
+48430, Lec, A, 4, CHERNYSHEV, A., MWF    2:00- 2:50p, DBH 1429, Wed, Jun 12, 10:30-12:30pm, 30, 9, n/a, 15, A and K, Bookstore, Web, OPEN
+
+  Physics   230B     BIOLOGICAL PHYSICS      (Prerequisites)
+	    
+
+48460, Lec, A, 4, RITZ, T.STAFF, MWF   10:00-10:50 , RH 192, Mon, Jun 10, 10:30-12:30pm, 13, 2, n/a, 6, A and K, Bookstore, Web, OPEN
+
+  Physics   233C     MED TECHNIQUES II      (Prerequisites)
+	    
+
+48465, Lec, A, 4, NALCIOGLU, O.GULSEN, G., MWF    1:00- 1:50p, MSTB 120, Wed, Jun 12, 1:30-3:30pm, 5, 0 / 5, n/a, 2, A and K, Bookstore, Web, FULL
+ ,  , 
+		
+			        (same as 14320 BmE 295, Lec A;   and 18400 EECS 202C, Lec A)
+			
+		    , 
+			        (same as 14320 BmE 295, Lec A;   and 18400 EECS 202C, Lec A)
+			,  ,  
+
+			        (same as 14320 BmE 295, Lec A;   and 18400 EECS 202C, Lec A)
+			
+
+  Physics   234C     ADV ELEM PART PHYS      (Prerequisites)
+	    
+
+48475, Lec, A, 4, TAIT, T., MW    9:30-10:50 , PSCB 230, Wed, Jun 12, 8:00-10:00am, 30, 9, n/a, 10, A and K, Bookstore, Web, OPEN
+
+  Physics   238C     CONDENSD MATTR PHYS      (Prerequisites)
+	    
+
+48480, Lec, A, 4, WHITE, S., TuTh    2:00- 3:20p, PSCB 230, Thu, Jun 13, 1:30-3:30pm, 30, 7, n/a, 10, A and K, Bookstore, Web, OPEN
+
+  Physics   239D     PLASMA PHYSICS
+	    
+
+48485, Lec, A, 4, LIN, Z., TuTh    9:30-10:50 , FRH 2111, Thu, Jun 13, 8:00-10:00am, 30, 1, n/a, 2, K, Bookstore,  , OPEN
+
+  Physics   240A     GALACTIC ASTRPHYS      (Prerequisites)
+	    
+
+48495, Lec, A, 4, BARTH, A., TuTh    2:00- 3:20p, FRH 2111, Thu, Jun 13, 1:30-3:30pm, 30, 6, n/a, 8, A and K, Bookstore, Web, OPEN
+
+  Physics   247     SPEC TOP PART PHYS
+	    
+
+48505, Lec, A, 4, WHITESON, D., F   10:00-11:50 , FRH 2111,     TBA, 20, 10, n/a, 12, K, Bookstore, Web, OPEN
+
+  Physics   260C     SEM CONDENSED MATTR
+	    
+
+48520, Sem, A, 1, CHERNYSHEV, A., W    4:00- 5:20p, NS2 1201,  , 30, 3, n/a, 5, A and S, Bookstore,  , OPEN
+
+  Physics   261C     SEM PLASMA PHYSICS
+	    
+
+48530, Sem, A, 1, LIN, Z., Tu   11:00-12:20p, FRH 4135,  , 20, 7, n/a, 7, A and S, Bookstore,  , OPEN
+
+  Physics   263C     SEM IN PARTICLE
+	    
+
+48535, Sem, A, 1, TAIT, T., W    3:00- 4:50p, FRH 4135,  , 20, 0, n/a, 1, A and S, Bookstore,  , OPEN
+
+  Physics   265C     SEM IN ASTROPHYSICS
+	    
+
+48540, Sem, A, 1, COOPER, M., Tu    3:30- 5:20p, NS2 1201,  , 30, 4, n/a, 5, A and S, Bookstore,  , OPEN
+
+  Physics   266     TOPICS IN CHAMP
+	    
+
+48550, Lec, A, 1, KRIVOROTOV, I.SHAKA, A., W   11:00-11:50 , NS2 1201,     TBA, 35, 15 / 23, n/a, 15, K, Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 41492 Chem 266, Lec A)
+			
+		    , 
+			        (same as 41492 Chem 266, Lec A)
+			,  ,  
+
+			        (same as 41492 Chem 266, Lec A)
+			
+
+  Physics   291     RESEARCH SEMINAR
+	    
+
+48565, Sem, A, 1, RAJARAMAN, A., F   12:00-12:50p, NS2 1201,     TBA, 35, 18, n/a, 21, K, Bookstore,  , OPEN
+
+  Physics   295     EXPERIMENTAL RESRCH
+	    
+
+48601, Res, 1, 4-12, BARTH, A.,       TBA, FRH 2172,  , 5, 2, n/a, 2, K and S, Bookstore,  , OPEN
+48603, Res, 3, 4-12, STAFF,       TBA, FRH 2158,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48605, Res, 5, 4-12, BARWICK, S.,       TBA, FRH 3156,  , 5, 1, n/a, 2, K and S, Bookstore,  , OPEN
+48607, Res, 7, 4-12, BENFORD, G.,       TBA, FRH 4176,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48609, Res, 9, 4-12, BUOTE, D.,       TBA, FRH 2176,  , 5, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48611, Res, 11, 4-12, CASPER, D.,       TBA, FRH 3184,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48613, Res, 13, 4-12, CHANAN, G.,       TBA, FRH 2186,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48615, Res, 15, 4-12, COLLINS, P.,       TBA, RH 310H,  , 10, 6, n/a, 6, K and S, Bookstore,  , OPEN
+48617, Res, 17, 4-12, DENNIN, M.,       TBA, RH 210K,  , 5, 1, n/a, 2, K and S, Bookstore,  , OPEN
+48619, Res, 19, 4-12, FISK, Z.,       TBA, FRH 2186,  , 5, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48621, Res, 21, 4-12, GROSS, S.,       TBA, MH 2113,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48623, Res, 23, 4-12, GULSEN, G.,       TBA, IH 164,  , 5, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48625, Res, 25, 4-12, HEIDBRINK, W.,       TBA, FRH 4174,  , 5, 3, n/a, 3, K and S, Bookstore,  , OPEN
+48627, Res, 27, 4-12, HO, W.,       TBA, RH 310B,  , 10, 9, n/a, 9, K and S, Bookstore,  , OPEN
+48629, Res, 29, 4-12, HOPSTER, H.,       TBA, RH 310C,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48631, Res, 31, 4-12, KIRKBY, D.,       TBA, FRH 3182,  , 5, 2, n/a, 2, K and S, Bookstore,  , OPEN
+48633, Res, 33, 4-12, KRIVOROTOV, I.,       TBA, RH 310E,  , 10, 7, n/a, 7, K and S, Bookstore,  , OPEN
+48635, Res, 35, 4-12, LANKFORD, A.,       TBA, FRH 3180,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48637, Res, 37, 4-12, LAWRENCE, J.,       TBA, RH 210F,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48639, Res, 39, 4-12, MANDELKERN, M.,       TBA, FRH 3158,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48641, Res, 41, 4-12, MCWILLIAMS, R.,       TBA, FRH 4164,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48643, Res, 43, 4-12, MOLZON, W.,       TBA, FRH 3111,  , 5, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48645, Res, 45, 4-12, NALCIOGLU, O.,       TBA, IH 164,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48647, Res, 47, 4-12, NEWMAN, R.,       TBA, FRH 3131,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48649, Res, 49, 4-12, PARKER, W.,       TBA, RH 310K,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48650, Res, 50, 4-12, RITZ, T.,       TBA, RH 210H,  , 5, 3, n/a, 3, K and S, Bookstore,  , OPEN
+48651, Res, 51, 4-12, ROSTOKER, N.,       TBA, RH 282B,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48653, Res, 53, 4-12, RUTLEDGE, J.,       TBA, RH 210C,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48655, Res, 55, 4-12, RYNN, N.,       TBA, RH 279,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48657, Res, 57, 4-12, SCHULTZ, J.,       TBA, FRH 3180,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48659, Res, 59, 4-12, SHIRMAN, Y.,       TBA, FRH 3164,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48661, Res, 61, 4-12, SIWY, Z.,       TBA, RH 210G,  , 5, 5, n/a, 5, K and S, Bookstore,  , FULL
+48663, Res, 63, 4-12, SMECKER-HANE, T.,       TBA, FRH 2168,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48665, Res, 65, 4-12, SOBEL, H.,       TBA, FRH 3133,  , 5, 4, n/a, 4, K and S, Bookstore,  , OPEN
+48667, Res, 67, 4-12, SU, M.,       TBA, IH 164,  , 2, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48669, Res, 69, 4-12, TABOREK, P.,       TBA, RH 210B,  , 5, 4, n/a, 4, K and S, Bookstore,  , OPEN
+48671, Res, 71, 4-12, TAFFARD, A.,       TBA, FRH 3127,  , 5, 2, n/a, 2, K and S, Bookstore,  , OPEN
+48673, Res, 73, 4-12, WHITESON, D.,       TBA, FRH 3168,  , 5, 3, n/a, 3, K and S, Bookstore,  , OPEN
+48674, Res, 74, 4-12, XIA, J.,       TBA, RH 210F,  , 5, 1, n/a, 2, K and S, Bookstore,  , OPEN
+48675, Res, 75, 4-12, YODH, G.,       TBA, FRH 3162,  , 5, 1, n/a, 1, K and S, Bookstore,  , OPEN
+
+  Physics   296     THEORETICAL RESRCH
+	    
+
+48701, Res, 1, 4-12, ABAZAJIAN, K.,       TBA, TBA,  , 999, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48703, Res, 3, 4-12, ALICEA, J.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48705, Res, 5, 4-12, BANDER, M.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48707, Res, 7, 4-12, BULLOCK, J.,       TBA, TBA,  , 999, 6, n/a, 6, K and S, Bookstore,  , OPEN
+48709, Res, 9, 4-12, CHEN, L.,       TBA, TBA,  , 999, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48711, Res, 11, 4-12, CHERNYSHEV, A.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48713, Res, 13, 4-12, COORAY, A.,       TBA, TBA,  , 999, 3, n/a, 3, K and S, Bookstore,  , OPEN
+48715, Res, 15, 4-12, DZYALOSHINSKII, I.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48717, Res, 17, 4-12, FENG, J.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48719, Res, 19, 4-12, FISK, Z.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48721, Res, 21, 4-12, HAMBER, H.,       TBA, TBA,  , 999, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48723, Res, 23, 4-12, KAPLINGHAT, M.,       TBA, TBA,  , 999, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48725, Res, 25, 4-12, LIN, Z.,       TBA, TBA,  , 999, 4, n/a, 4, K and S, Bookstore,  , OPEN
+48727, Res, 27, 4-12, MAYER, M.,       TBA, TBA,  , 4, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48729, Res, 29, 4-12, MILLS, D.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48731, Res, 31, 4-12, RAJARAMAN, A.,       TBA, TBA,  , 999, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48733, Res, 33, 4-12, SHIRMAN, Y.,       TBA, TBA,  , 5, 2, n/a, 2, K and S, Bookstore,  , OPEN
+48735, Res, 35, 4-12, SIWY, Z.,       TBA, TBA,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48737, Res, 37, 4-12, TABOREK, P.,       TBA, TBA,  , 5, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48739, Res, 39, 4-12, TAIT, T.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48741, Res, 41, 4-12, TRIMBLE, V.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48743, Res, 43, 4-12, WHITE, S.,       TBA, TBA,  , 999, 1, n/a, 1, K and S, Bookstore,  , OPEN
+48745, Res, 45, 4-12, WHITESON, D.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48747, Res, 47, 4-12, WU, R.,       TBA, TBA,  , 999, 0, n/a, 0, K and S, Bookstore,  , OPEN
+48749, Res, 49, 4-12, YU, C.,       TBA, TBA,  , 999, 2, n/a, 2, K and S, Bookstore,  , OPEN
+48750, Res, 50, 4-12, LUO, R.,       TBA, TBA,  , 999, 1, n/a, 1, K and S, Bookstore,  , OPEN
+
+  Physics   298     PHYSICS COLLOQUIUM
+	    
+
+48770, Col, A, 1, TABOREK, P., Th    3:30- 5:20p, RH 101,  , 138, 5, n/a, 7, K and S, Bookstore,  , OPEN
+
+  Physics   299     READ SPECIAL TOPICS
+	    
+
+48801, Res, 1, 4-12, ABAZAJIAN, K.,       TBA, FRH 2158,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48803, Res, 3, 4-12, ALICEA, J.,       TBA, RH 310J,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48805, Res, 5, 4-12, BANDER, M.,       TBA, FRH 3176,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48807, Res, 7, 4-12, BARTH, A.,       TBA, FRH 2158,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48809, Res, 9, 4-12, BARWICK, S.,       TBA, FRH 3156,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48811, Res, 11, 4-12, BENFORD, G.,       TBA, FRH 4176,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48813, Res, 13, 4-12, BULLOCK, J.,       TBA, FRH 2127,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48815, Res, 15, 4-12, BUOTE, D.,       TBA, FRH 2176,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48817, Res, 17, 4-12, CASPER, D.,       TBA, FRH 3184,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48819, Res, 19, 4-12, CHANAN, G.,       TBA, FRH 2186,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48821, Res, 21, 4-12, CHEN, L.,       TBA, FRH 4162,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48823, Res, 23, 4-12, CHEN, M.,       TBA, FRH 3115,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48825, Res, 25, 4-12, CHERNYSHEV, A.,       TBA, RH 310F,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48827, Res, 27, 4-12, COLLINS, P.,       TBA, RH 310H,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48829, Res, 29, 4-12, COORAY, A.,       TBA, FRH 2174,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48831, Res, 31, 4-12, DENNIN, M.,       TBA, RH 210K,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48833, Res, 33, 4-12, DZYALOSHINSKII, I.,       TBA, RH 277,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48835, Res, 35, 4-12, FENG, J.,       TBA, FRH 3166,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48837, Res, 37, 4-12, FISK, Z.,       TBA, FRH 2186,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48839, Res, 39, 4-12, GROSS, S.,       TBA, MH 2113,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48841, Res, 41, 4-12, HAMBER, H.,       TBA, FRH 3172,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48843, Res, 43, 4-12, HEIDBRINK, W.,       TBA, FRH 4174,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48845, Res, 45, 4-12, HO, W.,       TBA, FRH 2162,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48847, Res, 47, 4-12, HOPSTER, H.,       TBA, FRH 2125,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48849, Res, 49, 4-12, KAPLINGHAT, M.,       TBA, FRH 4182,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48851, Res, 51, 4-12, KIRKBY, D.,       TBA, FRH 3182,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48853, Res, 53, 4-12, KRIVOROTOV, I.,       TBA, FRH 2164,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48855, Res, 55, 4-12, LANKFORD, A.,       TBA, FRH 4129H,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48857, Res, 57, 4-12, LAWRENCE, J.,       TBA, FRH 2176,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48859, Res, 59, 4-12, LIN, Z.,       TBA, FRH 4158,  , 5, 1, n/a, 1, K, Bookstore,  , OPEN
+48861, Res, 61, 4-12, MANDELKERN, M.,       TBA, FRH 3158,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48863, Res, 63, 4-12, MAYER, M.,       TBA, FRH 2119,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48865, Res, 65, 4-12, MCWILLIAMS, R.,       TBA, FRH 4164,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48867, Res, 67, 4-12, MILLS, D.,       TBA, FRH 2129,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48869, Res, 69, 4-12, MOLZON, W.,       TBA, FRH 3111,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48871, Res, 71, 4-12, NALCIOGLU, O.,       TBA, IH 164,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48873, Res, 73, 4-12, NEWMAN, R.,       TBA, FRH 3131,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48875, Res, 75, 4-12, PARKER, W.,       TBA, FRH 4129H,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48877, Res, 77, 4-12, RAJARAMAN, A.,       TBA, FRH 3174,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48879, Res, 79, 4-12, RITZ, T.,       TBA, RH 210H,  , 5, 1, n/a, 1, K, Bookstore,  , OPEN
+48881, Res, 81, 4-12, ROSTOKER, N.,       TBA, RH 282B,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48883, Res, 83, 4-12, RUTLEDGE, J.,       TBA, RH 210C,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48885, Res, 85, 4-12, RYNN, N.,       TBA, RH 279,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48887, Res, 87, 4-12, SCHULTZ, J.,       TBA, FRH 3180,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48889, Res, 89, 4-12, SHIRMAN, Y.,       TBA, FRH 3164,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48891, Res, 91, 4-12, SIWY, Z.,       TBA, RH 210G,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48893, Res, 93, 4-12, SMECKER-HANE, T.,       TBA, FRH 2168,  , 2, 0, n/a, 0, K, Bookstore,  , OPEN
+48895, Res, 95, 4-12, SOBEL, H.,       TBA, FRH 3133,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48897, Res, 97, 4-12, SU, M.,       TBA, IH 164,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48899, Res, 99, 4-12, TABOREK, P.,       TBA, RH 210B,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48901, Res, 101, 4-12, TAFFARD, A.,       TBA, FRH 3127,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48903, Res, 103, 4-12, TAIT, T.,       TBA, TBA,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48905, Res, 105, 4-12, TRIMBLE, V.,       TBA, FRH 4156,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48907, Res, 107, 4-12, WHITE, S.,       TBA, RH 310L,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48909, Res, 109, 4-12, WU, R.,       TBA, FRH 2121,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48911, Res, 111, 4-12, XIA, J.,       TBA, RH 210F,  , 5, 0, n/a, 1, K, Bookstore,  , OPEN
+48913, Res, 113, 4-12, YODH, G.,       TBA, FRH 3162,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+48915, Res, 115, 4-12, YU, C.,       TBA, RH 210E,  , 5, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Physics   395     LABORATORY TEACHING
+	    
+
+48918, Lec, A, 1, EATON, J., M   11:00-12:50p, MSTB 129,  , 30, 6, n/a, 6, K and S, Bookstore, Web, OPEN
+48919, Lec, B, 1, SIWY, Z., M   11:00-12:50p, MSTB 133,  , 30, 3, n/a, 4, K and S, Bookstore,  , OPEN
+48920, Lec, C, 1, ABACHI, S., M   11:00-12:50p, MSTB 125,  , 30, 4, n/a, 5, K and S, Bookstore,  , OPEN
+48921, Lec, D, 1, MURGIA, S., M   11:00-12:50p, MSTB 121,  , 30, 7, n/a, 7, K and S, Bookstore,  , OPEN
+48922, Lec, E, 1, CASPER, D., M   11:00-12:50p, MSTB 117,  , 30, 1, n/a, 3, K and S, Bookstore,  , OPEN
+
+  Physics   399     UNIVERSITY TEACHING
+	    
+
+48927, Tut, A, 1-4, BULLOCK, J.,       TBA, TBA,  , 999, 33, n/a, 34, S, Bookstore,  , OPEN
+Learning and Academic Resource Center
+Physics*
+  Physics   3A     BASIC PHYSICS I
+	    
+
+77292, Tap, A, 0, WALIA, A.MISRA, S.GARCIA, C., TuTh   12:00-12:50p, RH 222,  , 12, 9, 0, 15,  , Bookstore,  , OPEN
+77293, Tap, A, 0, WALIA, A.MISRA, S.GARCIA, C., TuTh    1:00- 1:50p, RH 222,  , 12, 9, 0, 16,  , Bookstore,  , OPEN
+77294, Tap, A, 0, WALIA, A.MISRA, S.GARCIA, C., TuTh    2:00- 2:50p, RH 222,  , 12, 12, 1, 20,  , Bookstore,  , Waitl
+
+  Physics   3B     BASIC PHYSICS II
+	    
+
+77300, Tap, A, 0, WONG, S.MISRA, S.GARCIA, C., MW   10:00-10:50 , TBA,  , 15, 15, 1, 18,  , Bookstore, Web, Waitl
+77301, Tap, A, 0, WONG, S.MISRA, S.GARCIA, C., MW   11:00-11:50 , TBA,  , 15, 15, 2, 21,  , Bookstore, Web, Waitl
+77302, Tap, A, 0, WONG, S.MISRA, S.GARCIA, C., MW   12:00-12:50p, TBA,  , 15, 15, 5, 29,  , Bookstore, Web, Waitl
+
+  Physics   3C     BASIC PHYSICS III
+	    
+
+77321, Tap, A, 0, STAUB, F.MISRA, S.GARCIA, C., MW   12:00-12:50p, TBA,  , 15, 15, 2, 25,  , Bookstore, Web, Waitl
+77322, Tap, A, 0, STAUB, F.MISRA, S.GARCIA, C., MW    3:00- 3:50p, TBA,  , 15, 9, 0, 17,  , Bookstore, Web, OPEN
+77330, Tap, A, 0, STAUB, F.MISRA, S.GARCIA, C., TuTh   12:00-12:50p, TBA,  , 15, 15, 1, 25,  , Bookstore, Web, Waitl
+77331, Tap, B, 0, GUTIERREZ, K.MISRA, S.GARCIA, C., MW    4:00- 4:50p, TBA,  , 12, 11, 0, 19,  , Bookstore,  , OPEN
+77332, Tap, B, 0, GUTIERREZ, K.MISRA, S.GARCIA, C., MW    5:00- 5:50p, TBA,  , 12, 4, 0, 10,  , Bookstore,  , OPEN
+77333, Tap, B, 0, GUTIERREZ, K.MISRA, S.GARCIA, C., MW    9:00- 9:50 , RH 214,  , 12, 4, 0, 8,  , Bookstore,  , OPEN
+

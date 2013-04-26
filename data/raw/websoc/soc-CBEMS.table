@@ -1,0 +1,370 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+Henry Samueli School of Engineering
+Chemical Engr and Materials Science
+  CBEMS   45C     CHEM ENG THERMODYNS      (Prerequisites)
+	    
+
+15010, Lec, A, 4, READ, E.WITT, J.MONTALBANO, T., MWF    1:00- 1:50p, RH 101, Wed, Jun 12, 1:30-3:30pm, 100, 95, n/a, 101, A, Bookstore, Web, OPEN
+15011, Dis, A1, 0, WITT, J.MONTALBANO, T.READ, E., F    2:00- 2:50p, DBH 1200,  , 45, 45, n/a, 49,  , Bookstore,  , FULL
+15012, Dis, A2, 0, WITT, J.MONTALBANO, T.READ, E., F    3:00- 3:50p, RH 188,  , 45, 35, n/a, 30,  , Bookstore,  , OPEN
+15013, Dis, A3, 0, WITT, J.MONTALBANO, T.READ, E., F    4:00- 4:50p, RH 184,  , 45, 14, n/a, 10,  , Bookstore,  , OPEN
+
+  CBEMS   50L     PRIN MATERIALS SCI      (Prerequisites)
+	    
+
+15020, Lab, A1, 2, YEE, A.ARNOLD, M.HORWATH, J., Th    8:00-10:50 Th    8:00-10:50 , ET 737ET 649,     TBA, 14, 5, n/a, 8, A, Bookstore, Web, OPEN
+15021, Lab, A2, 2, YEE, A.ARNOLD, M.HORWATH, J., Tu    4:00- 6:50pTu    4:00- 6:50p, ET 737ET 649,     TBA, 14, 3, n/a, 4, A, Bookstore, Web, OPEN
+15022, Lab, A3, 2, YEE, A.ARNOLD, M.HORWATH, J., Tu    7:00- 9:50pTu    7:00- 9:50p, ET 737ET 649, Tue, Jun 11, 7:00-9:00pm, 14, 2, n/a, 4, A, Bookstore, Web, OPEN
+
+  CBEMS   112     INTRO BIOCHEM ENGR      (Prerequisites)
+	    
+
+15026, Lec, A, 3, DA SILVA, N., TuTh    2:00- 3:20p, ICS 259, Thu, Jun 13, 1:30-3:30pm, 30, 23, n/a, 40, A, Bookstore, Web, OPEN
+
+  CBEMS   125C     MASS TRANSFER      (Prerequisites)
+	    
+
+15030, Lec, A, 3, MOHRAZ, A.CHAN, H., TuTh    9:30-10:50 , MSTB 118, Thu, Jun 13, 8:00-10:00am, 75, 65, n/a, 68, A, Bookstore, Web/P, OPEN
+
+  CBEMS   149B     CHEM ENGR DESIGN II      (Prerequisites)
+	    
+
+15040, Lec, A, 3, XU, G.STAFF, TuTh    9:30-10:50 , DBH 1300, Thu, Jun 13, 8:00-10:00am, 50, 38, n/a, 40, A and L, Bookstore, Web, OPEN
+15041, Lab, A1, 0, XU, G.STAFF, Th    5:30- 8:20p, MSTB 224,  , 50, 38, n/a, 39,  , Bookstore,  , OPEN
+
+  CBEMS   154     POLYMER SCI & ENGR      (Prerequisites)
+	    
+
+15045, Lec, A, 4, YEE, A.DICKSON, M., TuTh    8:00- 9:20 , ELH 110, Tue, Jun 11, 8:00-10:00am, 25, 25, n/a, 59, A, Bookstore,  , FULL
+
+  CBEMS   160     ADV LAB CHEM MATLS      (Prerequisites)
+	    
+
+15050, Lec, A, 4, HOCHBAUM, A.GUAN, Z., M    2:00- 2:50p, MSTB 120, Wed, Jun 12, 10:30-12:30pm, 48, 18 / 44, n/a, 24, A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 40970 Chem 156, Lec A)
+			
+		    , 
+			        (same as 40970 Chem 156, Lec A)
+			,  ,  
+
+			        (same as 40970 Chem 156, Lec A)
+			
+15051, Lab, A1, 0, HOCHBAUM, A.GUAN, Z.CAO, W., W    3:00- 9:50pW    3:00- 9:50p, ET 737RH 293,  , 16, 5 / 15, n/a, 9, C, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 40971 Chem 156, Lab A1)
+			
+		    , 
+			        (same as 40971 Chem 156, Lab A1)
+			,  ,  
+
+			        (same as 40971 Chem 156, Lab A1)
+			
+15052, Lab, A2, 0, HOCHBAUM, A.GUAN, Z.CAO, W., F    3:00- 9:50pF    3:00- 9:50p, ET 737RH 293,  , 16, 4 / 13, n/a, 4, C, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 40972 Chem 156, Lab A2)
+			
+		    , 
+			        (same as 40972 Chem 156, Lab A2)
+			,  ,  
+
+			        (same as 40972 Chem 156, Lab A2)
+			
+15053, Lab, A3, 0, HOCHBAUM, A.GUAN, Z.CAO, W., Th    3:00- 9:50pTh    3:00- 9:50p, ET 737RH 293,  , 16, 9 / 16, n/a, 9, C, Bookstore, Web, FULL
+ ,  , 
+		
+			        (same as 40973 Chem 156, Lab A3)
+			
+		    , 
+			        (same as 40973 Chem 156, Lab A3)
+			,  ,  
+
+			        (same as 40973 Chem 156, Lab A3)
+			
+15054, Lab, A4, 0, HOCHBAUM, A.GUAN, Z., M    3:00- 9:50pM    3:00- 9:50p, RH 293ET 737,  , 0, 0 / 0, n/a, 0, C, Bookstore,  , FULL
+ ,  , 
+		
+			        (same as 40974 Chem 156, Lab A4)
+			
+		    , 
+			        (same as 40974 Chem 156, Lab A4)
+			,  ,  
+
+			        (same as 40974 Chem 156, Lab A4)
+			
+
+  CBEMS   165     DIFFUSN PHASE TRANS      (Prerequisites)
+	    
+
+15060, Lec, A, 3, GORODETSKY, A.MAZAHERIPOUR, A., MWF   10:00-10:50 , DBH 1600, Mon, Jun 10, 10:30-12:30pm, 90, 52, n/a, 119, A, Bookstore, Web, OPEN
+
+  CBEMS   169     ELECTRNC OPTIC PROP      (Prerequisites)
+	    
+
+15080, Lec, A, 4, RAGAN, R.PHAM, P., TuTh   11:00-12:20p, DBH 1600, Tue, Jun 11, 10:30-12:30pm, 100, 78, n/a, 139, A, Bookstore, Web, OPEN
+15081, Dis, A1, 0, PHAM, P.RAGAN, R., F   12:00-12:50p, RH 188,  , 45, 38, n/a, 41,  , Bookstore,  , OPEN
+15082, Dis, A2, 0, PHAM, P.RAGAN, R., F    1:00- 1:50p, ELH 110,  , 50, 40, n/a, 41,  , Bookstore,  , OPEN
+
+  CBEMS   175     DESGN FAILURE INVST      (Prerequisites)
+	    
+
+15090, Lec, A, 4, SAVAS, T.POVEROMO, S.MONTALBANO, T., Tu    5:00- 7:50p, ICS 174, Thu, Jun 13, 4:00-6:00pm, 130, 126, n/a, 170, A, Bookstore, Web, OPEN
+15091, Dis, A1, 0, SAVAS, T.POVEROMO, S.MONTALBANO, T., Tu    2:00- 2:50p, ICF 102,  , 45, 39, n/a, 46,  , Bookstore, Web, OPEN
+15092, Dis, A2, 0, SAVAS, T.POVEROMO, S.MONTALBANO, T., Th    2:00- 2:50p, ICF 102,  , 45, 42, n/a, 36,  , Bookstore,  , OPEN
+15093, Dis, A3, 0, SAVAS, T.POVEROMO, S.MONTALBANO, T., F   11:00-11:50 , DBH 1300,  , 45, 45, n/a, 40,  , Bookstore, Web, FULL
+
+  CBEMS   189C     SR DESIGN PROJECT      (Prerequisites)
+	    
+
+15100, Lab, A, 2, YEE, A., TuTh    3:30- 4:50p, ET 201, Tue, Jun 11, 4:00-6:00pm, 20, 17, n/a, 18, A and L, Bookstore,  , OPEN
+
+  CBEMS   191     MATERIALS OUTREACH      (Prerequisites)
+	    
+
+15105, Lec, A, 3, MOHAMED, F., F   11:30-12:50p, TBA,     TBA, 35, 28, n/a, 35, A, Bookstore,  , OPEN
+
+  CBEMS   195     NUCLEAR & RADIOCHEM
+	    
+
+15120, Lec, A, 4, NILSSON, M., MWF   11:00-11:50 , ELH 110, Tue, Jun 11, 1:30-3:30pm, 25, 22, n/a, 36,  , Bookstore, Web, OPEN
+15121, Dis, A1, 0, NILSSON, M., M    3:00- 3:50p, ELH 110,  , 25, 19, n/a, 10,  , Bookstore,  , OPEN
+
+  CBEMS   195     INTRO COMP BIOLOGY
+	    
+
+15130, Lec, B, 4, NGUYEN, H., TuTh   11:00-12:20p, ET 204, Tue, Jun 11, 10:30-12:30pm, 20, 16, n/a, 30,  , Bookstore, Web, OPEN
+
+  CBEMS   199     INDIVIDUAL STUDY
+	    
+
+15200, Tut, A, 1-4, BRODY, J., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15202, Tut, B, 1-4, CHEN, Z., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15204, Tut, C, 1-4, COOPER, D., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15206, Tut, D, 1-4, COOPER, W., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 1, N, Bookstore,  , OPEN
+15208, Tut, E, 1-4, DA SILVA, N., M    7:00- 7:50 , ET 944C,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+15210, Tut, F, 1-4, EARTHMAN, J., M    7:00- 7:50 , ET 644F,     TBA, 10, 3, n/a, 3, N, Bookstore,  , OPEN
+15212, Tut, G, 1-4, GEORGE, S., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 1, N and B, Bookstore,  , OPEN
+15214, Tut, H, 1-4, GORODETSKY, A., M    7:00- 7:50 , ET 944D,     TBA, 10, 4, n/a, 5, N, Bookstore,  , OPEN
+15216, Tut, I, 1-4, GRANT, S., M    7:00- 7:50 , ET 944D,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15218, Tut, J, 1-4, GUAN, Z., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15220, Tut, K, 1-4, HATFIELD, G., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15222, Tut, L, 1-4, HOCHBAUM, A., M    7:00- 7:50 , ET 916,     TBA, 10, 2, n/a, 2, N, Bookstore,  , OPEN
+15224, Tut, M, 1-4, KWON, Y., M    7:00- 7:50 , ET 944F,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15226, Tut, N, 1-4, LAW, M., M    7:00- 7:50 , NS2 2127,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15228, Tut, O, 1-4, LI, G., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15230, Tut, P, 1-4, LOWENGRUB, J., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15232, Tut, Q, 1-4, MADOU, M., M    7:00- 7:50 , ET 916,     TBA, 10, 2, n/a, 1, N, Bookstore,  , OPEN
+15234, Tut, R, 1-4, MECARTNEY, M., M    7:00- 7:50 , ET 744C,     TBA, 10, 3, n/a, 3, N, Bookstore,  , OPEN
+15236, Tut, S, 1-4, MOHAMED, F., M    7:00- 7:50 , TBA,     TBA, 30, 20, n/a, 18, N, Bookstore,  , OPEN
+15238, Tut, T, 1-4, MOHRAZ, A., M    7:00- 7:50 , ET 744F,     TBA, 10, 3, n/a, 2, N, Bookstore,  , OPEN
+15240, Tut, U, 1-4, MOSALLAM, A., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15242, Tut, V, 1-4, MUMM, D., M    7:00- 7:50 , ET 744D,     TBA, 10, 3, n/a, 3, N, Bookstore,  , OPEN
+15244, Tut, W, 1-4, NGUYEN, H., M    7:00- 7:50 , ET 644E,     TBA, 10, 3, n/a, 2, N, Bookstore,  , OPEN
+15246, Tut, X, 1-4, NILSSON, M., M    7:00- 7:50 , ET 816E,     TBA, 10, 1, n/a, 2, N, Bookstore,  , OPEN
+15248, Tut, Y, 1-4, PENNER, R., M    7:00- 7:50 , TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15250, Tut, Z, 1-4, RAGAN, R., M    7:00- 7:50 , ET 744E,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+15252, Tut, AA, 1-4, RENTZEPIS, P., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15254, Tut, BB, 1-4, ROSSO, D., M    7:00- 7:50 , ET 944F,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+15256, Tut, CC, 1-4, RUPERT, T., M    7:00- 7:50 , TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15258, Tut, DD, 1-4, SHEA, K., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15260, Tut, EE, 1-4, SHI, F., M    7:00- 7:50 , ET 816E,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+15262, Tut, FF, 1-4, SUN, L., M    7:00- 7:50 , ET 916,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+15264, Tut, GG, 1-4, VALDEVIT, L., M    7:00- 7:50 , ET 916,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+15266, Tut, HH, 1-4, VENUGOPALAN, V., M    7:00- 7:50 , ET 644J,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15268, Tut, II, 1-4, WANG, S., M    7:00- 7:50 , ET 944E,     TBA, 10, 2, n/a, 2, N, Bookstore,  , OPEN
+15270, Tut, JJ, 1-4, WICKRAMASINGHE, H., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15272, Tut, KK, 1-4, YEE, A., M    7:00- 7:50 , ET 816E,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15274, Tut, LL, 1-4, READ, E., M    7:00- 7:50 , TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+15276, Tut, MM, 1-4, STAFF, M    7:00- 7:50 , TBA,     TBA, 0, 0, n/a, 0, N, Bookstore,  , FULL
+15278, Tut, NN, 1-4, STAFF, M    7:00- 7:50 , TBA,     TBA, 0, 0, n/a, 0, N, Bookstore,  , FULL
+
+  CBEMS   249     NUCLEAR & RADIOCHEM
+	    
+
+15320, Lec, A, 4, NILSSON, M., MWF   11:00-11:50 , ELH 110, Tue, Jun 11, 1:30-3:30pm, 25, 16, n/a, 29, K, Bookstore, Web, OPEN
+15321, Dis, A, 0, NILSSON, M., M    3:00- 3:50p, ELH 110,  , 25, 12, n/a, 11,  , Bookstore,  , OPEN
+
+  CBEMS   249     INTRO COMP BIOLOGY
+	    
+
+15330, Lec, B, 4, NGUYEN, H., TuTh   11:00-12:20p, ET 204, Tue, Jun 11, 10:30-12:30pm, 20, 19, n/a, 32, K, Bookstore, Web, OPEN
+
+  CBEMS   249     OPTOELECT PACKAGING
+	    
+
+15335, Lec, C, 4, SHI, F., TuTh    5:00- 6:20p, DBH 1429, Thu, Jun 13, 4:00-6:00pm, 30, 22, n/a, 28, K, Bookstore,  , OPEN
+
+  CBEMS   249     PHOTOVOLTAICS
+	    
+
+15340, Lec, D, 2, GORODETSKY, A., F   11:00-12:20p, DBH 1429,     TBA, 12, 4, n/a, 19, K and B, Bookstore,  , OPEN
+
+  CBEMS   249     MATLS-XTREME ENVIRO
+	    
+
+15345, Lec, E, 4, YOUSEFIANI, A., TuTh    5:00- 6:20p, DBH 1425, Thu, Jun 13, 4:00-6:00pm, 30, 0, n/a, 4, K, Bookstore,  , OPEN
+
+  CBEMS   295     SEMINAR IN ENGR
+	    
+
+15400, Sem, A, 1-4, DA SILVA, N., Tu    6:00- 6:50p, ET 944C,     TBA, 10, 3, n/a, 3, K and S, Bookstore,  , OPEN
+15402, Sem, B, 1-4, EARTHMAN, J., Tu    6:00- 6:50p, ET 644F,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15404, Sem, C, 1-4, GRANT, S., Tu    6:00- 6:50p, ET 944D,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15406, Sem, D, 1-4, KWON, Y., Tu    6:00- 6:50p, ET 944F,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15408, Sem, E, 1-4, LIM, H., Tu    6:00- 6:50p, ET 816F,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15410, Sem, F, 1-4, MECARTNEY, M., Tu    6:00- 6:50p, ET 744C,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15412, Sem, G, 1-4, MOHAMED, F., Tu    6:00- 6:50p, ET 744J,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15414, Sem, H, 1-4, MOHRAZ, A., Tu    6:00- 6:50p, ET 744F,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15416, Sem, I, 1-4, MUMM, D., Tu    6:00- 6:50p, ET 744D,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15418, Sem, J, 1-4, NGUYEN, H., Tu    7:00- 7:50 , ET 644E,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15420, Sem, K, 1-4, NILSSON, M., Tu    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15422, Sem, L, 1-4, RAGAN, R., Tu    7:00- 7:50 , ET 744E,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15424, Sem, M, 1-4, SHI, F., Tu    6:00- 6:50p, ET 816D,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15426, Sem, N, 1-4, VENUGOPALAN, V., Tu    7:00- 7:50 , ET 944F,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15428, Sem, O, 1-4, WANG, S., Th    6:00- 6:50p, ET 944E,     TBA, 10, 2, n/a, 2, K and S, Bookstore,  , OPEN
+15430, Sem, P, 1-4, YEE, A., Tu    6:00- 6:50p, ET 816E,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15432, Sem, Q, 1-4, RUPERT, T., Tu    6:00- 6:50p, TBA,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15434, Sem, R, 1-4, GORODETSKY, A., Tu    6:00- 6:50p, TBA,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15436, Sem, S, 1-4, HOCHBAUM, A., Tu    6:00- 6:50p, TBA,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15438, Sem, S, 1-4, READ, E., Tu    6:00- 6:50p, TBA,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+
+  CBEMS   296     MS THESIS RESEARCH
+	    
+
+15500, Tut, A, 1-16, BRODY, J.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15502, Tut, B, 1-16, CHEN, Z.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15504, Tut, C, 1-16, COOPER, D.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15506, Tut, D, 1-16, COOPER, W.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15508, Tut, E, 1-16, DA SILVA, N.,       TBA, ET 944C,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15510, Tut, F, 1-16, EARTHMAN, J.,       TBA, ET 644F,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15512, Tut, G, 1-16, GEORGE, S.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15514, Tut, H, 1-16, GORODETSKY, A.,       TBA, ET 944D,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15516, Tut, I, 1-16, GRANT, S.,       TBA, ET 944D,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15518, Tut, J, 1-16, GUAN, Z.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15520, Tut, K, 1-16, HATFIELD, G.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15522, Tut, L, 1-16, HOCHBAUM, A.,       TBA, ET 916,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15524, Tut, M, 1-16, KWON, Y.,       TBA, ET 944F,     TBA, 10, 0, n/a, 1, K, Bookstore,  , OPEN
+15526, Tut, N, 1-16, LAW, M.,       TBA, NS2 2127,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15528, Tut, O, 1-16, LI, G.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15530, Tut, P, 1-16, LOWENGRUB, J.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15532, Tut, Q, 1-16, MADOU, M.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15534, Tut, R, 1-16, MECARTNEY, M.,       TBA, ET 744C,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15536, Tut, S, 1-16, MOHAMED, F.,       TBA, ET 744J,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15538, Tut, T, 1-16, MOHRAZ, A.,       TBA, ET 744F,     TBA, 10, 1, n/a, 2, K, Bookstore,  , OPEN
+15540, Tut, U, 1-16, MOSALLAM, A.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15542, Tut, V, 1-16, MUMM, D.,       TBA, ET 744D,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15544, Tut, W, 1-16, NGUYEN, H.,       TBA, ET 644E,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15546, Tut, X, 1-16, NILSSON, M.,       TBA, ET 816C,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15548, Tut, Y, 1-16, PENNER, R.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15550, Tut, Z, 1-16, RAGAN, R.,       TBA, ET 744E,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15552, Tut, AA, 1-16, RENTZEPIS, P., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15554, Tut, BB, 1-16, ROSSO, D., M    7:00- 7:50 , ET 844F,     TBA, 3, 0, n/a, 0, K, Bookstore,  , OPEN
+15556, Tut, CC, 1-16, RUPERT, T., M    7:00- 7:50 , TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15558, Tut, DD, 1-16, SHEA, K., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15560, Tut, EE, 1-16, SHI, F., M    7:00- 7:50 , ET 816D,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15562, Tut, FF, 1-16, SUN, L., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15564, Tut, GG, 1-16, VALDEVIT, L., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15566, Tut, HH, 1-16, VENUGOPALAN, V., M    7:00- 7:50 , ET 644J,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15568, Tut, II, 1-16, WANG, S., M    7:00- 7:50 , ET 944E,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15570, Tut, JJ, 1-16, WICKRAMASINGHE, H., M    7:00- 7:50 , ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15572, Tut, KK, 1-16, YEE, A., M    7:00- 7:50 , ET 816E,     TBA, 10, 0, n/a, 1, K, Bookstore,  , OPEN
+15574, Tut, LL, 1-16, READ, E., M    7:00- 7:50 , TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15576, Tut, MM, 1-16, LIU, W., M    7:00- 7:50 , TBA,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15578, Tut, NN, 1-16, STAFF, M    7:00- 7:50 , TBA,     TBA, 0, 0, n/a, 0, K, Bookstore,  , FULL
+
+  CBEMS   297     PHD DISSERTATN RSCH
+	    
+
+15600, Tut, A, 1-16, BRODY, J.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15602, Tut, B, 1-16, CHEN, Z.,       TBA, ET 916,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15604, Tut, C, 1-16, COOPER, D.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15606, Tut, D, 1-16, COOPER, W.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15608, Tut, E, 1-16, DA SILVA, N.,       TBA, ET 944C,     TBA, 10, 4, n/a, 4, K, Bookstore,  , OPEN
+15610, Tut, F, 1-16, EARTHMAN, J.,       TBA, ET 944F,     TBA, 10, 3, n/a, 3, K, Bookstore,  , OPEN
+15612, Tut, G, 1-16, GEORGE, S.,       TBA, ET 916,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15614, Tut, H, 1-16, GORODETSKY, A.,       TBA, ET 944D,     TBA, 10, 4, n/a, 4, K, Bookstore,  , OPEN
+15616, Tut, I, 1-16, GRANT, S.,       TBA, ET 944D,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15618, Tut, J, 1-16, GUAN, Z.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15620, Tut, K, 1-16, HATFIELD, G.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15622, Tut, L, 1-16, HOCHBAUM, A.,       TBA, ET 916,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15624, Tut, M, 1-16, KWON, Y.,       TBA, ET 944F,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15626, Tut, N, 1-16, LAW, M.,       TBA, NS2 2127,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15628, Tut, O, 1-16, LI, G.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15630, Tut, P, 1-16, LOWENGRUB, J.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15632, Tut, Q, 1-16, MADOU, M.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15634, Tut, R, 1-16, MECARTNEY, M.,       TBA, ET 744C,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15636, Tut, S, 1-16, MOHAMED, F.,       TBA, ET 744J,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15638, Tut, T, 1-16, MOHRAZ, A.,       TBA, ET 744F,     TBA, 10, 1, n/a, 2, K, Bookstore,  , OPEN
+15640, Tut, U, 1-16, MOSALLAM, A.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15642, Tut, V, 1-16, MUMM, D.,       TBA, ET 744D,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15644, Tut, W, 1-16, NGUYEN, H.,       TBA, ET 644E,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15646, Tut, X, 1-16, NILSSON, M.,       TBA, ET 816C,     TBA, 10, 7, n/a, 7, K, Bookstore,  , OPEN
+15648, Tut, Y, 1-16, PENNER, R.,       TBA, TBA,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15650, Tut, Z, 1-16, RAGAN, R.,       TBA, ET 744E,     TBA, 10, 2, n/a, 3, K, Bookstore,  , OPEN
+15652, Tut, AA, 1-16, RENTZEPIS, P.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15654, Tut, BB, 1-16, ROSSO, D.,       TBA, ET 844F,     TBA, 3, 0, n/a, 0, K, Bookstore,  , OPEN
+15656, Tut, CC, 1-16, RUPERT, T.,       TBA, TBA,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15658, Tut, DD, 1-16, SHEA, K.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15660, Tut, EE, 1-16, SHI, F.,       TBA, ET 816D,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+15662, Tut, FF, 1-16, SUN, L.,       TBA, ET 916,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15664, Tut, GG, 1-16, VALDEVIT, L.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15666, Tut, HH, 1-16, VENUGOPALAN, V.,       TBA, ET 644J,     TBA, 10, 2, n/a, 3, K, Bookstore,  , OPEN
+15668, Tut, II, 1-16, WANG, S.,       TBA, ET 944E,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15670, Tut, JJ, 1-16, WICKRAMASINGHE, H.,       TBA, ET 916,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15672, Tut, KK, 1-16, YEE, A.,       TBA, ET 816E,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15674, Tut, LL, 1-16, READ, E.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+15676, Tut, MM, 1-16, BURKE, P.,       TBA, TBA,     TBA, 10, 1, n/a, 1, K, Bookstore,  , OPEN
+15678, Tut, NN, 1-16, STAFF,       TBA, TBA,     TBA, 0, 0, n/a, 0, K, Bookstore,  , FULL
+
+  CBEMS   298     SEMINARS IN ENGR
+	    
+
+15700, Sem, A, 2, YEE, A., F    3:00- 4:20p, MDE AUD,     TBA, 50, 43, n/a, 43, K and S, Bookstore,  , OPEN
+
+  CBEMS   299     INDIVIDUAL RESEARCH
+	    
+
+15800, Res, A, 1-16, BRODY, J.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15802, Res, B, 1-16, CHEN, Z.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15804, Res, C, 1-16, COOPER, D.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15806, Res, D, 1-16, COOPER, W.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15808, Res, E, 1-16, DA SILVA, N.,       TBA, ET 944C,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15810, Res, F, 1-16, EARTHMAN, J.,       TBA, ET 644F,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15812, Res, G, 1-16, GEORGE, S.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15814, Res, H, 1-16, GORODETSKY, A.,       TBA, ET 944D,     TBA, 10, 1, n/a, 1, K and S, Bookstore,  , OPEN
+15816, Res, I, 1-16, GRANT, S.,       TBA, ET 944D,     TBA, 10, 1, n/a, 1, K and S, Bookstore,  , OPEN
+15818, Res, J, 1-16, GUAN, Z.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15820, Res, K, 1-16, HATFIELD, G.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15822, Res, L, 1-16, HOCHBAUM, A.,       TBA, ET 916,     TBA, 10, 2, n/a, 2, K and S, Bookstore,  , OPEN
+15824, Res, M, 1-16, KWON, Y.,       TBA, ET 944F,     TBA, 10, 2, n/a, 2, K and S, Bookstore,  , OPEN
+15826, Res, N, 1-16, LAW, M.,       TBA, NS2 2127,     TBA, 10, 1, n/a, 2, K and S, Bookstore,  , OPEN
+15828, Res, O, 1-16, LI, G.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15830, Res, P, 1-16, LOWENGRUB, J.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15832, Res, Q, 1-16, MADOU, M.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15834, Res, R, 1-16, MECARTNEY, M.,       TBA, ET 744C,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15836, Res, S, 1-16, MOHAMED, F.,       TBA, ET 744J,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15838, Res, T, 1-16, MOHRAZ, A.,       TBA, ET 744F,     TBA, 10, 3, n/a, 4, K and S, Bookstore,  , OPEN
+15840, Res, U, 1-16, MOSALLAM, A.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15842, Res, V, 1-16, MUMM, D.,       TBA, ET 744D,     TBA, 10, 1, n/a, 1, K and S, Bookstore,  , OPEN
+15844, Res, W, 1-16, NGUYEN, H.,       TBA, ET 644E,     TBA, 10, 1, n/a, 1, K and S, Bookstore,  , OPEN
+15846, Res, X, 1-16, NILSSON, M.,       TBA, ET 816C,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15848, Res, Y, 1-16, PENNER, R.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15850, Res, Z, 1-16, RAGAN, R.,       TBA, ET 744E,     TBA, 10, 2, n/a, 2, K and S, Bookstore,  , OPEN
+15852, Res, AA, 1-16, RENTZEPIS, P.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15854, Res, BB, 1-16, ROSSO, D.,       TBA, ET 844F,     TBA, 3, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15856, Res, CC, 1-16, RUPERT, T.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15858, Res, DD, 1-16, SHEA, K.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15860, Res, EE, 1-16, SHI, F.,       TBA, ET 816D,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15862, Res, FF, 1-16, SUN, L.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15864, Res, GG, 1-16, VALDEVIT, L.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15866, Res, HH, 1-16, VENUGOPALAN, V.,       TBA, ET 644J,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15868, Res, II, 1-16, WANG, S.,       TBA, ET 944E,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15870, Res, JJ, 1-16, WICKRAMASINGHE, H.,       TBA, ET 916,     TBA, 10, 0, n/a, 0, K and S, Bookstore,  , OPEN
+15872, Res, KK, 1-16, YEE, A.,       TBA, ET 816E,     TBA, 10, 1, n/a, 1, K and S, Bookstore,  , OPEN
+15874, Res, LL, 1-16, READ, E.,       TBA, TBA,     TBA, 10, 1, n/a, 1, K and S, Bookstore,  , OPEN
+15876, Res, MM, 1-16, STAFF,       TBA, TBA,     TBA, 0, 0, n/a, 0, K and S, Bookstore,  , FULL
+15878, Res, NN, 1-16, STAFF,       TBA, TBA,     TBA, 0, 0, n/a, 0, K and S, Bookstore,  , FULL
+

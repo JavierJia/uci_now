@@ -1,0 +1,151 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+Donald Bren School of Information and Computer Sciences
+Statistics
+  Stats   7     BASIC STATISTICS
+	    
+
+37800, Lec, A, 4, HANCOCK, S., MWF   11:00-11:50 , ELH 100, Tue, Jun 11, 1:30-3:30pm, 220, 216, n/a, 400, B, Bookstore, Web, OPEN
+37801, Dis, 1, 0, HANCOCK, S., F    9:00- 9:50 , PSCB 120,  , 55, 55, n/a, 74, B, Bookstore,  , FULL
+37802, Dis, 2, 0, HANCOCK, S., F   10:00-10:50 , PSCB 120,  , 55, 56, n/a, 80, B, Bookstore,  , FULL
+37803, Dis, 3, 0, HANCOCK, S., F   12:00-12:50p, SSL 140,  , 55, 56, n/a, 89, B, Bookstore,  , FULL
+37804, Dis, 4, 0, HANCOCK, S., F    1:00- 1:50p, SSL 140,  , 55, 52, n/a, 95, B, Bookstore,  , OPEN
+37810, Lec, B, 4, BALDI, B., MWF    3:00- 3:50p, ELH 100, Mon, Jun 10, 4:00-6:00pm, 200, 165, n/a, 358, B, Bookstore, Web, OPEN
+37811, Dis, 1, 0, BALDI, B., F   11:00-11:50 , SH 128,  , 50, 41, n/a, 63, B, Bookstore,  , OPEN
+37812, Dis, 2, 0, BALDI, B., F   12:00-12:50p, SH 128,  , 50, 33, n/a, 51, B, Bookstore,  , OPEN
+37813, Dis, 3, 0, BALDI, B., F    1:00- 1:50p, DBH 1300,  , 50, 45, n/a, 64, B, Bookstore,  , OPEN
+37814, Dis, 4, 0, BALDI, B., F    2:00- 2:50p, DBH 1300,  , 50, 44, n/a, 72, B, Bookstore,  , OPEN
+
+  Stats   8     INTRO TO BIO STATS
+	    
+
+37825, Lec, A, 4, BALDI, B., MWF   10:00-10:50 , ELH 100, Mon, Jun 10, 10:30-12:30pm, 215, 194, n/a, 345, B, Bookstore, Web, OPEN
+37826, Dis, 1, 0, BALDI, B., M    1:00- 1:50p, ICS 180,  , 55, 55, n/a, 84, B, Bookstore,  , FULL
+37827, Dis, 2, 0, BALDI, B., M   12:00-12:50p, ICS 180,  , 55, 51, n/a, 86, B, Bookstore,  , OPEN
+37828, Dis, 3, 0, BALDI, B., M    2:00- 2:50p, SE2 1304,  , 55, 46, n/a, 76, B, Bookstore,  , OPEN
+37829, Dis, 4, 0, BALDI, B., M    3:00- 3:50p, SE2 1304,  , 50, 43, n/a, 66, B, Bookstore,  , OPEN
+
+  Stats   67     INTRO PROB&STAT/CS
+	    
+
+37855, Lec, A, 4, BALDI, B., MWF    1:00- 1:50p, DBH 1100, Wed, Jun 12, 1:30-3:30pm, 120, 120, n/a, 241, B, Bookstore, Web, FULL
+37856, Dis, 1, 0, BALDI, B., W   11:00-11:50 , SST 220A,  , 60, 59, n/a, 89, B, Bookstore,  , OPEN
+37857, Dis, 2, 0, BALDI, B., W   12:00-12:50p, SST 220A,  , 60, 60, n/a, 83, B, Bookstore,  , FULL
+
+  Stats   112     STATS METH DATA III
+	    
+
+37860, Lec, A, 4, HANCOCK, S., MWF    2:00- 2:50p, ICS 180, Wed, Jun 12, 10:30-12:30pm, 15, 3, n/a, 8, A and B, Bookstore, Web, OPEN
+37861, Lab, 1, 0, HANCOCK, S., F    4:00- 4:50p, ICS 180,  , 15, 3, n/a, 6, A and B, Bookstore,  , OPEN
+
+  Stats   120C     INTRO PROB & STATS      (Prerequisites)
+	    
+
+37870, Lec, A, 4, HANCOCK, S., MWF    3:00- 3:50p, SH 174, Mon, Jun 10, 4:00-6:00pm, 66, 30 / 56, n/a, 41, A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 44880 Math 131C, Lec A)
+			
+		    , 
+			        (same as 44880 Math 131C, Lec A)
+			,  ,  
+
+			        (same as 44880 Math 131C, Lec A)
+			
+37871, Dis, 1, 0, HANCOCK, S., F   10:00-10:50 , ICS 180,  , 46, 23 / 44, n/a, 29, A, Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 44885 Math 131C, Dis 10)
+			
+		    , 
+			        (same as 44885 Math 131C, Dis 10)
+			,  ,  
+
+			        (same as 44885 Math 131C, Dis 10)
+			
+37872, Dis, 2, 0, HANCOCK, S., F   11:00-11:50 , ICS 259,  , 20, 7 / 12, n/a, 5, A, Bookstore,  , OPEN
+ ,  , 
+		
+			        (same as 44890 Math 131C, Dis 20)
+			
+		    , 
+			        (same as 44890 Math 131C, Dis 20)
+			,  ,  
+
+			        (same as 44890 Math 131C, Dis 20)
+			
+
+  Stats   199     INDIVIDUAL STUDY
+	    
+
+37881, Res, 1, 2-5, GILLEN, D.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+37882, Res, 2, 2-5, JOHNSON, W.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+37883, Res, 3, 2-5, PHELAN, M.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+37884, Res, 4, 2-5, SHAHBABA, B.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+37885, Res, 5, 2-5, STERN, H.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+37886, Res, 6, 2-5, UTTS, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+37887, Res, 7, 2-5, VAN DYK, D.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+37888, Res, 8, 2-5, YU, Y.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+37889, Res, 9, 2-5, YU, Z.,       TBA, TBA,     TBA, 10, 0, n/a, 0, B and N, Bookstore,  , OPEN
+
+  Stats   200C     INT PROB & STAT THY
+	    
+
+37900, Lec, A, 4, GILLEN, D., TuTh    2:00- 3:20p, DBH 1300, Thu, Jun 13, 1:30-3:30pm, 30, 23, n/a, 29, K, Bookstore, Web, OPEN
+37901, Dis, 1, 0, GILLEN, D., W    1:00- 1:50p, DBH 1425,  , 30, 23, n/a, 29, K, Bookstore, Web, OPEN
+
+  Stats   203     STATS METH DATA III
+	    
+
+37910, Lec, A, 4, HANCOCK, S., MWF    2:00- 2:50p, ICS 180, Wed, Jun 12, 10:30-12:30pm, 40, 16, n/a, 21, K, Bookstore, Web, OPEN
+37911, Dis, A, 0, HANCOCK, S., F    4:00- 4:50p, ICS 180,  , 40, 16, n/a, 19, K, Bookstore,  , OPEN
+
+  Stats   212     STATS METHODS III
+	    
+
+37920, Lec, A, 4, GILLEN, D., TuTh    9:30-10:50 , ICS 243, Thu, Jun 13, 8:00-10:00am, 30, 20, n/a, 25, K, Bookstore, Web, OPEN
+37921, Dis, A, 0, GILLEN, D., W   10:00-10:50 , ICS 225,  , 30, 19, n/a, 24, K, Bookstore, Web, OPEN
+
+  Stats   220B     ADV PROB&STATTOPICS
+	    
+
+37925, Lec, A, 4, JOHNSON, W., Tu    3:30- 4:50pTh    5:00- 6:20p, PSCB 240PSCB 240, Tue, Jun 11, 4:00-6:00pm, 30, 7, n/a, 8, K, Bookstore,  , OPEN
+37926, Dis, 1, 0, JOHNSON, W., Tu    5:00- 5:50p, PSCB 240,  , 30, 7, n/a, 8, K, Bookstore,  , OPEN
+
+  Stats   230     STATS COMPUT METHOD
+	    
+
+37930, Lec, A, 4, YU, Y., MW   11:00-12:20p, DBH 1429, Tue, Jun 11, 1:30-3:30pm, 30, 14, n/a, 28, K, Bookstore, Web, OPEN
+
+  Stats   270     STOCHASTIC PROCESS
+	    
+
+37940, Lec, A, 4, YU, Y., TuTh   11:00-12:20p, HH 230, Tue, Jun 11, 10:30-12:30pm, 30, 10, n/a, 21, K, Bookstore, Web, OPEN
+
+  Stats   280     SEMINAR IN STATS
+	    
+
+37945, Sem, A, .5, YU, Z., Th    4:00- 4:50p, DBH 1420,     TBA, 30, 29, n/a, 29, K and S, Bookstore,  , OPEN
+
+  Stats   298     THESIS SUPERVISION
+	    
+
+37952, Res, 1, 2-12, GILLEN, D.,       TBA, TBA,     TBA, 20, 1, n/a, 2, B, Bookstore,  , OPEN
+37953, Res, 2, 2-12, JOHNSON, W.,       TBA, TBA,     TBA, 20, 1, n/a, 2, B, Bookstore,  , OPEN
+37954, Res, 3, 2-12, SHAHBABA, B.,       TBA, TBA,     TBA, 20, 2, n/a, 2, B, Bookstore,  , OPEN
+37955, Res, 4, 2-12, STERN, H.,       TBA, TBA,     TBA, 20, 4, n/a, 4, B, Bookstore,  , OPEN
+37956, Res, 5, 2-12, UTTS, J.,       TBA, TBA,     TBA, 20, 0, n/a, 0, B, Bookstore,  , OPEN
+37957, Res, 6, 2-12, OMBAO, H.,       TBA, TBA,     TBA, 20, 0, n/a, 0, B, Bookstore,  , OPEN
+37958, Res, 7, 2-12, YU, Y.,       TBA, TBA,     TBA, 20, 0, n/a, 0, B, Bookstore,  , OPEN
+37959, Res, 8, 2-12, YU, Z.,       TBA, TBA,     TBA, 20, 1, n/a, 1, B, Bookstore,  , OPEN
+
+  Stats   299     INDIVIDUAL STUDY
+	    
+
+37961, Res, 1, 2-12, GILLEN, D.,       TBA, TBA,     TBA, 20, 2, n/a, 3, B, Bookstore,  , OPEN
+37962, Res, 2, 2-12, JOHNSON, W.,       TBA, TBA,     TBA, 20, 1, n/a, 2, B, Bookstore,  , OPEN
+37963, Res, 3, 2-12, SHAHBABA, B.,       TBA, TBA,     TBA, 20, 0, n/a, 0, B, Bookstore,  , OPEN
+37964, Res, 4, 2-12, STERN, H.,       TBA, TBA,     TBA, 20, 0, n/a, 2, B, Bookstore,  , OPEN
+37965, Res, 5, 2-12, UTTS, J.,       TBA, TBA,     TBA, 20, 0, n/a, 0, B, Bookstore,  , OPEN
+37967, Res, 7, 2-12, YU, Y.,       TBA, TBA,     TBA, 20, 5, n/a, 5, B, Bookstore,  , OPEN
+37968, Res, 8, 2-12, YU, Z.,       TBA, TBA,     TBA, 20, 0, n/a, 0, B, Bookstore,  , OPEN
+

@@ -1,0 +1,449 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+Office of Campus Recreation
+Campus Recreation
+  CampRec   1     BOOT CAMP
+	    
+
+85000, Act, 00, 0, BROSTOFF, K., F    5:30- 6:20p, ARC FORUM,  , 40, 14, n/a, 9,  , Bookstore,  , OPEN
+
+  CampRec   1     INSANE INTERVALS
+	    
+
+85005, Act, 05, 0, STAFF, Th    4:30- 5:20p, ARC FORUM,  , 40, 0, n/a, 1,  , Bookstore,  , OPEN
+
+  CampRec   1     PUMP & SCULPT
+	    
+
+85008, Act, 8, 0, HAMILTON, M., MW   12:00-12:50p, ARC FORUM,  , 40, 1, n/a, 1,  , Bookstore,  , OPEN
+85010, Act, 10, 0, BROWN, M., MW    4:00- 4:50p, ARC FORUM,  , 40, 1, n/a, 3,  , Bookstore,  , OPEN
+85012, Act, 12, 0, MENDOZA, C., MW    7:00- 7:50p, ARC FORUM,  , 40, 6, n/a, 6,  , Bookstore,  , OPEN
+85014, Act, 14, 0, COLENO, M., Tu    6:30- 7:20 , ARC FORUM,  , 40, 0, n/a, 1,  , Bookstore,  , OPEN
+85016, Act, 16, 0, BROWN, M., TuTh    6:30- 7:20p, ARC FORUM,  , 40, 3, n/a, 4,  , Bookstore,  , OPEN
+85018, Act, 18, 0, KELLY, J., Sa    9:00- 9:50 , ARC FORUM,  , 40, 1, n/a, 0,  , Bookstore,  , OPEN
+
+  CampRec   1     SIMPLE STEP
+	    
+
+85026, Act, 26, 0, MENDOZA, C., MW    6:00- 6:20p, ARC FORUM,  , 30, 3, n/a, 3,  , Bookstore,  , OPEN
+85028, Act, 28, 0, MENDOZA, C., Tu    5:30- 5:50p, ARC FORUM,  , 30, 0, n/a, 0,  , Bookstore,  , OPEN
+85030, Act, 30, 0, LITKE, T., Th   12:00-12:20p, ARC FORUM,  , 30, 2, n/a, 0,  , Bookstore,  , OPEN
+
+  CampRec   1     STEP
+	    
+
+85032, Act, 32, 0, KOENEMANN, M., Th    5:30- 6:20p, ARC FORUM,  , 40, 1, n/a, 1,  , Bookstore,  , OPEN
+
+  CampRec   1     ZUMBA
+	    
+
+85034, Act, 034, 0, CROKER, K., MW    5:00- 5:50p, ARC FORUM,  , 40, 4, n/a, 6,  , Bookstore,  , OPEN
+85036, Act, 036, 0, STAFF, Th    6:00- 6:50p, ARC FORUM,  , 40, 4, n/a, 3,  , Bookstore,  , OPEN
+85038, Act, 038, 0, STAFF, Sa   10:00-10:50 , ARC FORUM,  , 40, 2, n/a, 2,  , Bookstore,  , OPEN
+
+  CampRec   1     ABS & THIGHS
+	    
+
+85040, Act, 40, 0, MENDOZA, C., MW    6:30- 6:50p, ARC FORUM,  , 40, 8, n/a, 4,  , Bookstore,  , OPEN
+85042, Act, 42, 0, MENDOZA, C., Tu    6:00- 6:20p, ARC FORUM,  , 40, 4, n/a, 5,  , Bookstore,  , OPEN
+85044, Act, 44, 0, LITKE, T., Th   12:30-12:50p, ARC FORUM,  , 40, 2, n/a, 3,  , Bookstore,  , OPEN
+
+  CampRec   1     STRETCH & ROLL
+	    
+
+85046, Act, 46, 0, SHERON, A., M    6:30- 7:20p, ARC STUDIO,  , 25, 1, n/a, 3,  , Bookstore,  , OPEN
+
+  CampRec   1     OMNI BALL
+	    
+
+85050, Act, 50, 0, SHERON, A., M    5:30- 6:20p, ARC STUDIO,  , 25, 0, n/a, 1,  , Bookstore,  , OPEN
+85052, Act, 52, 0, SHERON, A., Th   12:00-12:50p, ARC STUDIO,  , 25, 0, n/a, 0,  , Bookstore,  , OPEN
+
+  CampRec   1     TIDAL WAVE
+	    
+
+85055, Act, 55, 0, BROWN, M., Tu   12:00-12:50p, ARC SHOP,  , 25, 0, n/a, 0,  , Bookstore,  , OPEN
+
+  CampRec   1     INDO ROW
+	    
+
+85058, Act, 58, 0, DODGE-THEWS, D., Tu    5:30- 6:20p, ARC SHOP,  , 20, 0, n/a, 0,  , Bookstore,  , OPEN
+
+  CampRec   1     STUDIO CYCLING
+	    
+
+85060, Act, 60, 0, EBNER, A., MW    5:00- 5:50p, ARC SHOP,  , 15, 1, n/a, 0,  , Bookstore,  , OPEN
+85063, Act, 63, 0, LITKE, T., TuTh    6:30- 7:20p, ARC SHOP,  , 15, 1, n/a, 2,  , Bookstore,  , OPEN
+85065, Act, 65, 0, KELLY, J., Th    6:30- 7:20 , ARC SHOP,  , 15, 0, n/a, 0,  , Bookstore,  , OPEN
+85068, Act, 68, 0, LITKE, T., F   12:00-12:50p, ARC SHOP,  , 15, 2, n/a, 2,  , Bookstore,  , OPEN
+
+  CampRec   1     ARGENTINE TANGO
+	    
+
+85070, Act, 70, 0, EISMAN, J., Tu    9:30-10:20p, ARC FORUM,  , 30, 3, n/a, 3, C, Bookstore,  , OPEN
+
+  CampRec   1     BALLROOM DANCE
+	    
+
+85074, Act, 74, 0, EISMAN, J., W    8:00- 8:50p, ARC FORUM,  , 40, 1, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     BELLY DANCE
+	    
+
+85077, Act, 77, 0, LAHANN, L., W    7:30- 8:20p, ARC ZONE,  , 40, 1, n/a, 2, C, Bookstore,  , OPEN
+
+  CampRec   1     BELLY DANCE - INT
+	    
+
+85078, Act, 78, 0, LAHANN, L., W    8:30- 9:20p, ARC ZONE,  , 40, 1, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     BREAK DANCE
+	    
+
+85084, Act, 84, 0, MELEGRITO, C., W    9:00- 9:50p, ARC FORUM,  , 25, 0, n/a, 0, C, Bookstore, Web, OPEN
+
+  CampRec   1     HIP HOP
+	    
+
+85100, Act, 100, 0, DIZON, M., M    8:00- 8:50p, ARC ZONE,  , 30, 0, n/a, 0, C, Bookstore,  , OPEN
+85104, Act, 104, 0, AU, K., Tu    7:30- 8:20p, ARC FORUM,  , 40, 1, n/a, 3, C, Bookstore,  , OPEN
+85106, Act, 106, 0, CHATO, C., W    8:00- 8:50p, ARC SHOP,  , 30, 4, n/a, 2, C, Bookstore,  , OPEN
+85108, Act, 108, 0, JOVEN, A., Th    7:30- 8:20p, ARC FORUM,  , 40, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     HOUSE DANCE
+	    
+
+85112, Act, 112, 0, WONG, A., Th    9:00- 9:50p, ARC ZONE,  , 40, 1, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     JAZZ DANCE - BEG
+	    
+
+85116, Act, 116, 0, CHATO, C., Su    6:00- 6:50p, ARC FORUM,  , 40, 1, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     JAZZ DANCE - INT
+	    
+
+85118, Act, 118, 0, CHATO, C., Su    7:00- 7:50p, ARC FORUM,  , 40, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     LYRICAL DANCE
+	    
+
+85122, Act, 122, 0, CHATO, C., Su    8:00- 8:50p, ARC FORUM,  , 40, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     POP DIVA DANCE
+	    
+
+85125, Act, 125, 0, ENRIQUEZ, J., M    7:00- 7:50p, ARC ZONE,  , 30, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     POPPING
+	    
+
+85128, Act, 128, 0, YONOCRUZ, M., M    9:00- 9:50p, ARC ZONE,  , 30, 3, n/a, 2, C, Bookstore,  , OPEN
+
+  CampRec   1     SALSA DANCE
+	    
+
+85136, Act, 136, 0, EISMAN, J., Tu    8:30- 9:20p, ARC FORUM,  , 40, 5, n/a, 5, C, Bookstore,  , OPEN
+
+  CampRec   1     ARC CROSS FITNESS
+	    
+
+85150, Act, 150, 0, STAFF, M    5:30- 6:20p, TBA,  , 40, 5, n/a, 3, C, Bookstore,  , OPEN
+85156, Act, 156, 0, STAFF, W    5:30- 6:20p, TBA,  , 40, 1, n/a, 1, C, Bookstore,  , OPEN
+85158, Act, 158, 0, STAFF, Th    5:30- 6:20p, TBA,  , 40, 1, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     KICKBOX AEROBICS
+	    
+
+85160, Act, 160, 0, BROWN, M., MW    5:30- 6:20p, ARC ANNEX,  , 40, 0, n/a, 4, C, Bookstore,  , OPEN
+
+  CampRec   1     CARDI-YOGA
+	    
+
+85162, Act, 162, 0, STAFF, Tu    6:00- 6:50p, ARC ANNEX,  , 30, 4, n/a, 5, C, Bookstore,  , OPEN
+85164, Act, 164, 0, STAFF, F    5:30- 6:20p, ARC SHOP,  , 30, 2, n/a, 3, C, Bookstore,  , OPEN
+
+  CampRec   1     YOGA
+	    
+
+85166, Act, 166, 0, LANFRIED, B., M    2:00- 3:20p, ARC ZONE,  , 30, 1, n/a, 2, C, Bookstore,  , OPEN
+85168, Act, 168, 0, PASTEL, F., M    5:30- 6:20p, ARC ZONE,  , 30, 3, n/a, 3, C, Bookstore,  , OPEN
+85169, Act, 169, 0, LANFRIED, B., Tu   12:00- 1:20p, ARC ZONE,  , 30, 3, n/a, 3, C, Bookstore,  , OPEN
+85170, Act, 170, 0, OCCHIPINTI, A., Tu    7:00- 8:20p, ARC ZONE,  , 30, 3, n/a, 4, C, Bookstore,  , OPEN
+85172, Act, 172, 0, ZINBERGS, J., W    6:00- 7:20p, ARC ZONE,  , 30, 1, n/a, 1, C, Bookstore,  , OPEN
+85176, Act, 176, 0, SCHMALBACH, P., Th    7:30- 8:50p, ARC ZONE,  , 30, 2, n/a, 4, C, Bookstore,  , OPEN
+85183, Act, 183, 0, CHANG, C., F    2:30- 3:50p, ARC ZONE,  , 30, 1, n/a, 1, C, Bookstore,  , OPEN
+85185, Act, 185, 0, ZINBERGS, J., Sa    9:00-10:20 , ARC ZONE,  , 40, 1, n/a, 0, C, Bookstore,  , OPEN
+85186, Act, 186, 0, STAFF, Su    9:00-10:20 , TBA,  , 30, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     POWER YOGA
+	    
+
+85188, Act, 188, 0, STAFF, Th    5:30- 6:50p, ARC ZONE,  , 30, 1, n/a, 2, C, Bookstore,  , OPEN
+
+  CampRec   1     YOGA-ADVANCED
+	    
+
+85190, Act, 190, 0, ZINBERGS, J., W    4:30- 5:50p, ARC ZONE,  , 30, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     PILATES-MAT
+	    
+
+85196, Act, 196, 0, DODGE-THEWS, D., Tu    6:00- 6:50p, ARC ZONE,  , 20, 1, n/a, 4, C, Bookstore,  , OPEN
+85200, Act, 200, 0, TOMAS, S., W    6:30- 7:20p, ARC STUDIO,  , 20, 4, n/a, 3, C, Bookstore,  , OPEN
+85205, Act, 205, 0, STAFF, Th    6:30- 7:20p, ARC STUDIO,  , 20, 2, n/a, 0, C, Bookstore,  , OPEN
+85208, Act, 208, 0, TOMAS, S., W    6:30- 7:20p, TBA,  , 20, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     PERSONAL TRAINING
+	    
+
+85240, Act, 240, 0, STAFF,       TBA, ARC FITLAB,  , 30, 0, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     COOKING - HEALTHY
+	    
+
+85250, Act, 250, 0, VANROO, J.,       TBA, ARC KITCHN,  , 18, 1, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     COOKING - INTL
+	    
+
+85260, Act, 260, 0, VANROO, J.,       TBA, ARC KITCHN,  , 18, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     COOKING - 101
+	    
+
+85270, Act, 270, 0, VANROO, J.,       TBA, ARC KITCHN,  , 18, 0, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     COOKING - HOLIDAY
+	    
+
+85280, Act, 280, 0, VANROO, J.,       TBA, ARC KITCHN,  , 18, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     COOKING - DESSERT
+	    
+
+85290, Act, 290, 0, VANROO, J.,       TBA, ARC KITCHN,  , 18, 2, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     GOLF-BEGINNING
+	    
+
+85310, Act, 310, 0, GILLIS, M., Th    2:30- 4:20p, ARC FIELD,  , 18, 2, n/a, 5, C, Bookstore,  , OPEN
+
+  CampRec   1     TENNIS-BEGINNING
+	    
+
+85365, Act, 365, 0, JACOBS, V., MW    5:30- 6:20p, ARC TENNIS,  , 10, 3, n/a, 6, C, Bookstore,  , OPEN
+85370, Act, 370, 0, DAM, N., TuTh    5:30- 6:20p, ARC TENNIS,  , 10, 4, n/a, 2, C, Bookstore,  , OPEN
+
+  CampRec   1     TENNIS-BEG/INT
+	    
+
+85375, Act, 375, 0, JACOBS, V., TuTh   12:00-12:50p, ARC TENNIS,  , 10, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     TENNIS-INTERMEDIATE
+	    
+
+85380, Act, 380, 0, JACOBS, V., MW    6:30- 7:20p, ARC TENNIS,  , 10, 0, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     SWIMMING-BEG
+	    
+
+85435, Act, 435, 0, STAFF, MW    4:00- 4:50p, ARC POOL,  , 10, 4, n/a, 4, C, Bookstore,  , OPEN
+85440, Act, 440, 0, STAFF, TuTh    4:00- 4:50p, ARC POOL,  , 10, 0, n/a, 2, C, Bookstore,  , OPEN
+
+  CampRec   1     SWIMMING-BEG/INT
+	    
+
+85445, Act, 445, 0, STAFF, MW    4:30- 5:20p, ARC POOL,  , 10, 0, n/a, 0, C, Bookstore,  , OPEN
+85450, Act, 450, 0, STAFF, TuTh    4:30- 5:20p, ARC POOL,  , 10, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     INTRO SPORTS MED
+	    
+
+85474, Act, 474, 0, PLUEMER, J., W    5:30- 6:20p, CH SPMED,  , 30, 9, n/a, 11,  , Bookstore,  , OPEN
+
+  CampRec   1     ADVANCED SPORTS MED
+	    
+
+85476, Act, 476, 0, PLUEMER, J., W    7:00- 7:50p, CH SPMED,  , 30, 14, n/a, 11,  , Bookstore,  , OPEN
+
+  CampRec   1     CPR & 1ST AID
+	    
+
+85500, Act, 500, 0, LAM, T.,       TBA, ARC KITCHN,  , 20, 3, n/a, 2, C, Bookstore,  , OPEN
+
+  CampRec   1     FENCING
+	    
+
+85609, Act, 609, 0, ALLEN, R., W    7:00- 8:20p, ARC ANNEX,  , 25, 2, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     GYMNASTICS-BEG
+	    
+
+85612, Act, 612, 0, STAFF, Tu    7:30- 8:50p, OFF CAMPUS,  , 20, 4, n/a, 4, C, Bookstore,  , OPEN
+
+  CampRec   1     ROCK CLIMB I
+	    
+
+85620, Act, 620, 0, TULLY, D., Tu    5:30- 7:20p, ARC ROCK,  , 9, 0, n/a, 1, C, Bookstore,  , OPEN
+85626, Act, 626, 0, TULLY, D., W    9:30-10:50p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   2     ROCK CLIMB I
+	    
+
+85636, Act, 636, 0, TULLY, D., M    5:30- 7:20p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+85640, Act, 640, 0, TULLY, D., Tu    9:30-10:50p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   3     ROCK CLIMB I
+	    
+
+85648, Act, 648, 0, TULLY, D., W    5:30- 7:20p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+85650, Act, 650, 0, TULLY, D., Th    9:30-10:50p, ARC ROCK,  , 9, 1, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   4     ROCK CLIMB I
+	    
+
+85654, Act, 654, 0, TULLY, D., M    9:30-10:50p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+85656, Act, 656, 0, TULLY, D., Tu    5:30- 7:20p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   3     TECHNIQUE CLIMB I
+	    
+
+85662, Act, 662, 0, TULLY, D., W    5:30- 7:20p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   2     TECHNIQUE CLIMB 2
+	    
+
+85666, Act, 666, 0, TULLY, D., Th    5:30- 7:20p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     TECHNIQUE CLIMB 3
+	    
+
+85668, Act, 668, 0, TULLY, D., F    5:30- 7:20p, ARC ROCK,  , 9, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     SCUBA DIVING
+	    
+
+85670, Act, 670, 0, STAFF, Sa   10:00-11:50 , OFF CAMPUS,  , 15, 1, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     AIKIDO
+	    
+
+85680, Act, 680, 0, MATSUOKA, H., M    4:00- 5:20p, ARC STUDIO,  , 35, 5, n/a, 3, C, Bookstore,  , OPEN
+
+  CampRec   1     CAPOEIRA
+	    
+
+85686, Act, 686, 0, BEGALLI, D., Th    7:30- 8:20pF    5:00- 6:50p, ARC SHOPARC ANNEX,  , 30, 1, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     FILIPINO WARRIORART
+	    
+
+85690, Act, 690, 0, MARCIA, D., M    6:30- 8:20p, ARC SHOP,  , 30, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     HAPKIDO
+	    
+
+85695, Act, 695, 0, CHEN, B., Su    4:00- 5:50p, ARC STUDIO,  , 25, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     IAIDO-JAPAN.SWORD
+	    
+
+85700, Act, 700, 0, OTAGURO, D., W    5:30- 6:20pF    7:00- 8:50p, ARC STUDIOARC FORUM,  , 30, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     JAPANESE KARATE
+	    
+
+85710, Act, 710, 0, NGUYEN, B., TuTh    7:00- 8:20p, ARC ANNEX,  , 35, 3, n/a, 3, C, Bookstore,  , OPEN
+
+  CampRec   1     JIU JITSU BRAZILIAN
+	    
+
+85725, Act, 725, 0, ALBERT, A., Tu    6:00- 7:20pTh    5:00- 6:20p, ARC STUDIOARC STUDIO,  , 35, 3, n/a, 7, C, Bookstore,  , OPEN
+
+  CampRec   1     JIU JITSU - NO GI
+	    
+
+85730, Act, 730, 0, ALBERT, A., Th    4:00- 5:50p, ARC STUDIO,  , 35, 0, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     JIU JITSU-SELF DEF
+	    
+
+85735, Act, 735, 0, BULOCK, J., W    8:00- 9:20pTh    8:30- 9:20p, ARC STUDIOARC FORUM,  , 35, 3, n/a, 2, C, Bookstore,  , OPEN
+
+  CampRec   1     KENDO
+	    
+
+85750, Act, 750, 0, STAFF, Tu    8:30- 9:50pF    7:30- 8:50p, ARC ZONEARC ZONE,  , 30, 1, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     KRAV MAGA
+	    
+
+85755, Act, 755, 0, STAFF, M    7:30-10:20p, ARC STUDIO,  , 30, 5, n/a, 8, C, Bookstore,  , OPEN
+
+  CampRec   1     KUNG FU
+	    
+
+85760, Act, 760, 0, TUAN, B., M    6:30- 8:50pTh    9:00-10:50p, ARC ANNEXARC ANNEX,  , 30, 1, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     KYUDO
+	    
+
+85770, Act, 770, 0, STAFF, Su    6:00- 8:20p, ARC ZONE,  , 25, 0, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     MUAY THAI
+	    
+
+85772, Act, 772, 0, HALL, D., WTh    3:30- 4:50p, ARC STUDIO,  , 30, 0, n/a, 3, C, Bookstore,  , OPEN
+
+  CampRec   1     TAEKWONDO
+	    
+
+85780, Act, 780, 0, VO, K., TuTh    7:30- 8:50p, ARC STUDIO,  , 25, 3, n/a, 3, C, Bookstore,  , OPEN
+
+  CampRec   1     WING CHUN
+	    
+
+85800, Act, 800, 0, IGNACIO, J., F    5:00- 6:20p, ARC ZONE,  , 30, 3, n/a, 4, C, Bookstore,  , OPEN
+
+  CampRec   1     KAYAKING-BEG
+	    
+
+85820, Act, 820, 0, STAFF, W    5:00- 7:20p, OFF CAMPUS,  , 20, 0, n/a, 0, C, Bookstore,  , OPEN
+85825, Act, 825, 0, STAFF, Su   10:00-11:50 , OFF CAMPUS,  , 20, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     STAND-UP PADDLE BRD
+	    
+
+85830, Act, 830, 0, STAFF, Sa   10:00-11:50 , OFF CAMPUS,  , 10, 0, n/a, 0, C, Bookstore,  , OPEN
+85832, Act, 832, 0, STAFF, Su   10:00-11:50 , OFF CAMPUS,  , 10, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     SAIL-BEG CAPRI 1
+	    
+
+85840, Act, 840, 0, STAFF, Tu    5:00- 7:20p, SAIL BASE,  , 30, 0, n/a, 1, C, Bookstore,  , OPEN
+85842, Act, 842, 0, STAFF, W   11:00- 1:20p, SAIL BASE,  , 30, 3, n/a, 3, C, Bookstore,  , OPEN
+85850, Act, 850, 0, STAFF, Tu    1:30- 4:20p, SAIL BASE,  , 30, 0, n/a, 0, C, Bookstore,  , OPEN
+85860, Act, 860, 0, STAFF, F   11:00- 1:20p, SAIL BASE,  , 30, 0, n/a, 1, C, Bookstore,  , OPEN
+85865, Act, 865, 0, STAFF, F    1:30- 3:50p, SAIL BASE,  , 30, 2, n/a, 3, C, Bookstore,  , OPEN
+85870, Act, 870, 0, STAFF, Sa   10:00-12:50p, SAIL BASE,  , 30, 5, n/a, 3, C, Bookstore,  , OPEN
+85875, Act, 875, 0, STAFF, Su   10:00-12:50p, SAIL BASE,  , 30, 3, n/a, 1, C, Bookstore,  , OPEN
+
+  CampRec   1     SAIL-INT CAPRI 2
+	    
+
+85880, Act, 880, 0, STAFF, Th    4:00- 6:20p, SAIL BASE,  , 30, 0, n/a, 0, C, Bookstore,  , OPEN
+85888, Act, 888, 0, STAFF, Sa    1:30- 4:20p, SAIL BASE,  , 30, 2, n/a, 2, C, Bookstore,  , OPEN
+
+  CampRec   1     SAIL-INT KEELBOAT 1
+	    
+
+85890, Act, 890, 0, STAFF, W    5:00- 7:50p, SAIL BASE,  , 25, 0, n/a, 0, C, Bookstore,  , OPEN
+85892, Act, 892, 0, STAFF, F   12:30- 3:20p, SAIL BASE,  , 25, 0, n/a, 0, C, Bookstore,  , OPEN
+85896, Act, 896, 0, STAFF, Sa   10:00-12:50p, SAIL BASE,  , 25, 0, n/a, 0, C, Bookstore,  , OPEN
+
+  CampRec   1     SAIL-ADV KEELBOAT 2
+	    
+
+85955, Act, 955, 0, STAFF, Sa    1:30- 4:20p, SAIL BASE,  , 25, 0, n/a, 0, C, Bookstore,  , OPEN
+85960, Act, 960, 0, STAFF, F   12:30- 3:20p, SAIL BASE,  , 25, 0, n/a, 0, C, Bookstore,  , OPEN
+

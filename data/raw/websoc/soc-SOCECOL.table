@@ -1,0 +1,778 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+School of Social Ecology
+Social Ecology
+  SocEcol   E8     ENVIRON ANALYS&DESN      (Prerequisites)
+	    
+
+50000, Lec, A, 4, WHITELEY, J., TuTh    3:30- 4:50p, SSLH 100, Tue, Jun 11, 4:00-6:00pm, 350, 284, n/a, 422, A and B, Bookstore, Web, OPEN
+50001, Dis, 1, 0, WHITELEY, J., Tu    5:00- 5:50p, SST 120,  , 35, 30, n/a, 33, A, Bookstore,  , OPEN
+50002, Dis, 2, 0, WHITELEY, J., Tu    5:00- 5:50p, SSL 105,  , 30, 27, n/a, 32, A, Bookstore,  , OPEN
+50003, Dis, 3, 0, WHITELEY, J., Tu    5:00- 5:50p, SSL 206,  , 30, 27, n/a, 33, A, Bookstore,  , OPEN
+50004, Dis, 4, 0, WHITELEY, J., Tu    6:00- 6:50p, SST 120,  , 35, 17, n/a, 32, A, Bookstore,  , OPEN
+50005, Dis, 5, 0, WHITELEY, J., Tu    6:00- 6:50p, SSL 105,  , 30, 16, n/a, 22, A, Bookstore,  , OPEN
+50007, Dis, 6, 0, WHITELEY, J., W    4:00- 4:50p, SSPA 1165,  , 35, 33, n/a, 33, A, Bookstore,  , OPEN
+50008, Dis, 7, 0, WHITELEY, J., Th    5:00- 5:50p, SSPA 1165,  , 35, 35, n/a, 36, A, Bookstore,  , FULL
+50009, Dis, 8, 0, WHITELEY, J., Th    5:00- 5:50p, SSL 119,  , 30, 26, n/a, 29, A, Bookstore,  , OPEN
+50010, Dis, 9, 0, WHITELEY, J., Th    5:00- 5:50p, SSL 105,  , 30, 26, n/a, 31, A, Bookstore,  , OPEN
+50012, Dis, 10, 0, WHITELEY, J., Th    6:00- 6:50p, SST 120,  , 35, 20, n/a, 24, A, Bookstore,  , OPEN
+50013, Dis, 11, 0, WHITELEY, J., W    4:00- 4:50p, SSL 155,  , 30, 27, n/a, 25, A, Bookstore,  , OPEN
+
+  SocEcol   10     RESEARCH DESIGN
+	    
+
+50020, Lec, A, 4, SILVER, R., TuTh    2:00- 3:20p, DBH 1100, Thu, Jun 13, 1:30-3:30pm, 200, 194, n/a, 309, X, Bookstore, Web, OPEN
+50021, Dis, 1, 0, SILVER, R., M    9:00- 9:50 , SE2 1306,  , 49, 48, n/a, 71,  , Bookstore,  , OPEN
+50022, Dis, 2, 0, SILVER, R., Th    5:00- 5:50p, SE2 1306,  , 49, 49, n/a, 76,  , Bookstore,  , FULL
+50023, Dis, 3, 0, SILVER, R., F   11:00-11:50 , SE2 1306,  , 49, 48, n/a, 60,  , Bookstore,  , OPEN
+
+  SocEcol   13     STAT ANALYSIS IN SE      (Prerequisites)
+	    
+
+50030, Lec, A, 4, CHEW, K., MW    9:30-10:50 , SSL 290, Wed, Jun 12, 8:00-10:00am, 100, 97, n/a, 225, A, Bookstore, Web, OPEN
+
+  SocEcol   H20A     HONORS: CRIT ISSUES
+	    
+
+50040, Lec, A, 6, RENDON, M., TuTh   12:30- 1:50p, SSPA 1100, Mon, Jun 10, 1:30-3:30pm, 191, 0 / 185, n/a, 5, A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 70020 Soc Sci H1E, Lec A)
+			
+		    , 
+			        (same as 70020 Soc Sci H1E, Lec A)
+			,  ,  
+
+			        (same as 70020 Soc Sci H1E, Lec A)
+			
+50041, Sem, A1, 0, RENDON, M., M    8:00- 9:50 , SSL 105,  , 30, 0 / 29, n/a, 0, A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 70021 Soc Sci H1E, Sem 1)
+			
+		    , 
+			        (same as 70021 Soc Sci H1E, Sem 1)
+			,  ,  
+
+			        (same as 70021 Soc Sci H1E, Sem 1)
+			
+50042, Sem, A2, 0, RENDON, M., W    2:00- 3:50p, HH 254,  , 30, 0 / 30, n/a, 1, A, Bookstore, Web, FULL
+ ,  , 
+		
+			        (same as 70022 Soc Sci H1E, Sem 2)
+			
+		    , 
+			        (same as 70022 Soc Sci H1E, Sem 2)
+			,  ,  
+
+			        (same as 70022 Soc Sci H1E, Sem 2)
+			
+50043, Sem, A3, 0, RENDON, M., Th    8:00- 9:50 , SSL 155,  , 30, 0 / 28, n/a, 0, A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 70023 Soc Sci H1E, Sem 3)
+			
+		    , 
+			        (same as 70023 Soc Sci H1E, Sem 3)
+			,  ,  
+
+			        (same as 70023 Soc Sci H1E, Sem 3)
+			
+50044, Sem, A4, 0, RENDON, M., Tu    2:00- 3:50p, SSTR 101,  , 31, 0 / 31, n/a, 1, A, Bookstore, Web, FULL
+ ,  , 
+		
+			        (same as 70024 Soc Sci H1E, Sem 4)
+			
+		    , 
+			        (same as 70024 Soc Sci H1E, Sem 4)
+			,  ,  
+
+			        (same as 70024 Soc Sci H1E, Sem 4)
+			
+50045, Sem, A5, 0, RENDON, M., F   11:00-12:50p, SSL 145,  , 35, 0 / 33, n/a, 0, A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 70025 Soc Sci H1E, Sem 5)
+			
+		    , 
+			        (same as 70025 Soc Sci H1E, Sem 5)
+			,  ,  
+
+			        (same as 70025 Soc Sci H1E, Sem 5)
+			
+50046, Sem, A6, 0, RENDON, M., F    2:00- 3:50p, SSPA 1165,  , 35, 0 / 34, n/a, 0, A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 70026 Soc Sci H1E, Sem 6)
+			
+		    , 
+			        (same as 70026 Soc Sci H1E, Sem 6)
+			,  ,  
+
+			        (same as 70026 Soc Sci H1E, Sem 6)
+			
+
+  SocEcol   74C     MORAL DEV/JUST COMM
+	    
+
+50060, Lec, A, 4, SCHONFELD, N., Tu    8:00-10:50p, TBA, Thu, Jun 13, 7:00-9:00pm, 50, 46, n/a, 43, B and D, Bookstore,  , OPEN
+
+  SocEcol   183A     INTL STUDIES FORUM
+	    
+
+50100, Lec, A, 2, LYNCH, C., Th    5:00- 6:50p, SSPA 1100,     TBA, 190, 2 / 183, n/a, 3,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 27660 Human 183A, Lec A;   64700 Intl St 183A, Lec A;   and 70550 Soc Sci 183A, Lec A)
+			
+		    , 
+			        (same as 27660 Human 183A, Lec A;   64700 Intl St 183A, Lec A;   and 70550 Soc Sci 183A, Lec A)
+			,  ,  
+
+			        (same as 27660 Human 183A, Lec A;   64700 Intl St 183A, Lec A;   and 70550 Soc Sci 183A, Lec A)
+			
+
+  SocEcol   186CW     GLOBAL SUSTAINABLTY
+	    
+
+50150, Sem, A, 4, BOWLER, P., Th   10:30- 1:20p, HSLH 200,     TBA, 40, 8 / 44, n/a, 45, B and J, Bookstore, Web/P, FULL
+ ,  , 
+		
+			        (same as 06075 Bio Sci 191CW, Sem A;   and 42180 EarthSS 190CW, Sem A)
+			
+		    , 
+			        (same as 06075 Bio Sci 191CW, Sem A;   and 42180 EarthSS 190CW, Sem A)
+			,  ,  
+
+			        (same as 06075 Bio Sci 191CW, Sem A;   and 42180 EarthSS 190CW, Sem A)
+			
+
+  SocEcol   H190W     HONORS RESEARCH
+	    
+
+50200, Sem, A, 4, FRATTAROLI, J., W   11:00-12:20p, SSPA 1165,     TBA, 30, 27, n/a, 29, B, Bookstore, Web, OPEN
+
+  SocEcol   194W     NAT FIELD RESEARCH      (Prerequisites)
+	    
+
+50250, Lec, A, 4, SUAREZ-VILLA, L., MW    3:00- 3:50p, DBH 1100, Mon, Jun 10, 4:00-6:00pm, 200, 188, n/a, 294, A and X, Bookstore,  , OPEN
+50251, Dis, 1, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 159,  , 20, 19, n/a, 27, A and X, Bookstore,  , OPEN
+50252, Dis, 2, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 152,  , 20, 21, n/a, 26, A and X, Bookstore, Web, FULL
+50253, Dis, 3, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 105,  , 20, 17, n/a, 22, A and X, Bookstore,  , OPEN
+50254, Dis, 4, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 155,  , 20, 18, n/a, 24, A and X, Bookstore,  , OPEN
+50255, Dis, 5, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 117,  , 20, 20, n/a, 23, A and X, Bookstore,  , FULL
+50256, Dis, 6, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 168,  , 20, 19, n/a, 26, A and X, Bookstore,  , OPEN
+50257, Dis, 7, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 162,  , 20, 17, n/a, 27, A and X, Bookstore, Web, OPEN
+50258, Dis, 8, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 171,  , 20, 18, n/a, 21, A and X, Bookstore,  , OPEN
+50259, Dis, 9, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 206,  , 20, 19, n/a, 24, A and X, Bookstore, Web, OPEN
+50260, Dis, 10, 0, SUAREZ-VILLA, L., F    3:00- 3:50p, SSL 129,  , 20, 20, n/a, 22, A and X, Bookstore, Web, FULL
+
+  SocEcol   195     FIELD STUDY
+	    
+
+50292, Fld, C1, 2-8, COUTIN, S., M   12:00-12:50p, SSL 152, Wed, Jun 12, 4:00-6:00pm, 20, 19, n/a, 34, D and N, Bookstore, Web, OPEN
+50294, Fld, C2, 2-8, SERON, C., Tu    3:00- 4:20p, SSL 171, Tue, Jun 11, 4:00-6:00pm, 20, 16, n/a, 25, D and N, Bookstore,  , OPEN
+50296, Fld, C3, 2-8, KUBRIN, C., W   10:00-10:50 , SSPA 1165,     TBA, 20, 20, n/a, 27, D and N, Bookstore, Web, FULL
+50298, Fld, C4, 2-8, MCCLEARY, R., Tu    9:00- 9:50 , SSL 152, Thu, Jun 13, 8:00-10:00am, 20, 22, n/a, 41, D and N, Bookstore, Web, FULL
+50300, Fld, C5, 2-8, TURNER, S., Th   11:00-11:50 , SSL 152,     TBA, 20, 22, n/a, 32, D and N, Bookstore, Web, FULL
+50302, Fld, C6, 2-8, WARD, G., W   11:00-11:50 , SSL 105,     TBA, 20, 17, n/a, 32, D and N, Bookstore, Web, OPEN
+50304, Fld, U1, 2-8, CHEW, K., Th   12:00-12:50p, SSL 152,     TBA, 20, 19, n/a, 27, D and N, Bookstore, Web, OPEN
+50306, Fld, U2, 2-8, GARDE, A., M   10:30-11:20 , SSL 152, Mon, Jun 10, 10:30-12:30pm, 20, 20, n/a, 28, D and N, Bookstore, Web, FULL
+50308, Fld, U3, 2-8, KIM, J., Th    2:00- 2:50p, SSL 152,     TBA, 20, 21, n/a, 28, D and N, Bookstore, Web, FULL
+50310, Fld, U4, 2-8, PIPKIN, S., Th    1:00- 1:50p, SSL 152,     TBA, 20, 15, n/a, 18, D and N, Bookstore,  , OPEN
+50312, Fld, U5, 2-8, SUAREZ-VILLA, L., M    5:00- 6:20p, SSL 152,     TBA, 20, 12, n/a, 26, D and X, Bookstore,  , OPEN
+50314, Fld, P1, 2-8, CHEN, C., Tu   10:00-10:50 , SSL 152,     TBA, 20, 19, n/a, 25, D and N, Bookstore, Web, OPEN
+50316, Fld, P2, 2-8, HECKHAUSEN, J., Tu    2:00- 3:20p, SE 200, Thu, Jun 13, 1:30-3:30pm, 20, 18, n/a, 24, D and N, Bookstore, Web, OPEN
+50318, Fld, P3, 2-8, JAMNER, L., Th   10:00-10:50 , SSL 152,     TBA, 20, 18, n/a, 35, D and N, Bookstore, Web, OPEN
+50320, Fld, P4, 2-8, LEVINE, L., W    1:00- 1:50p, SSPA 1165,     TBA, 20, 20, n/a, 35, D and N, Bookstore,  , FULL
+50322, Fld, P5, 2-8, LUKOWSKI, A., Tu   12:00- 1:20p, SSL 152, Mon, Jun 10, 1:30-3:30pm, 20, 18, n/a, 36, D and N, Bookstore, Web, OPEN
+50324, Fld, P6, 2-8, MADDI, S., W    2:00- 2:50p, SSPA 1165,     TBA, 20, 20, n/a, 42, D and N, Bookstore, Web, FULL
+50326, Fld, P7, 2-8, ROOK, K., M    2:00- 2:50p, SSL 152, Wed, Jun 12, 10:30-12:30pm, 20, 19, n/a, 28, D and N, Bookstore, Web, OPEN
+50328, Fld, P8, 2-8, SILVER, R., M   11:00-11:50 , SSL 129, Tue, Jun 11, 1:30-3:30pm, 20, 20, n/a, 31, D and B, Bookstore, Web, FULL
+50330, Fld, P9, 2-8, SKEEM, J., M   11:00-11:50 , SE2 1306, Tue, Jun 11, 1:30-3:30pm, 20, 12, n/a, 21, D and N, Bookstore, Web, OPEN
+
+  SocEcol   195C     ADV FIELD STUDY
+	    
+
+50340, Sem, A, 4, HOUSTON, J., M    2:00- 3:50p, SBSG 3240, Wed, Jun 12, 10:30-12:30pm, 11, 10, n/a, 12, B, Bookstore,  , OPEN
+
+  SocEcol   198     DIRECTED STUDIES
+	    
+
+50350, Act, 1, 1-4, BASOLO, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50352, Act, 2, 1-4, KIM, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50354, Act, 3, 1-4, BOLLENS, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50356, Act, 4, 1-4, BRUCKNER, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50358, Act, 5, 1-4, CALAVITA, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50360, Act, 6, 1-4, CAUFFMAN, E.,       TBA, TBA,     TBA, 15, 30, n/a, 27, B and D, Bookstore,  , FULL
+50362, Act, 7, 1-4, CHARLES, S.,       TBA, TBA,     TBA, 15, 3, n/a, 2, B and D, Bookstore,  , OPEN
+50364, Act, 8, 1-4, CHEN, C.,       TBA, TBA,     TBA, 15, 5, n/a, 4, B and D, Bookstore,  , OPEN
+50366, Act, 9, 1-4, CHEW, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50368, Act, 10, 1-4, CLARKE-STEWART, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50370, Act, 11, 1-4, CLECAK, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50372, Act, 12, 1-4, COLE, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50374, Act, 13, 1-4, CONNER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50376, Act, 14, 1-4, COUTIN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50378, Act, 15, 1-4, PIPKIN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50380, Act, 16, 1-4, CURRIE, E.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and D, Bookstore,  , OPEN
+50382, Act, 17, 1-4, DICKERSON, S.,       TBA, TBA,     TBA, 15, 6, n/a, 5, B and D, Bookstore,  , OPEN
+50384, Act, 18, 1-4, DITTO, P.,       TBA, TBA,     TBA, 15, 5, n/a, 4, B and D, Bookstore,  , OPEN
+50386, Act, 19, 1-4, DOMBRINK, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50388, Act, 20, 1-4, DOOLEY, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50390, Act, 21, 1-4, FELDMAN, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50392, Act, 22, 1-4, FELDMAN, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50394, Act, 23, 1-4, FRATTAROLI, J.,       TBA, TBA,     TBA, 15, 5, n/a, 4, B and D, Bookstore,  , OPEN
+50396, Act, 24, 1-4, GARDE, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50398, Act, 25, 1-4, GEIS, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50400, Act, 26, 1-4, GOLDBERG, W.,       TBA, TBA,     TBA, 15, 5, n/a, 6, B and D, Bookstore,  , OPEN
+50402, Act, 27, 1-4, GOTTFREDSON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50404, Act, 28, 1-4, GREENBERGER, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50406, Act, 29, 1-4, HAN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50408, Act, 30, 1-4, HECKHAUSEN, J.,       TBA, TBA,     TBA, 15, 8, n/a, 6, B and D, Bookstore,  , OPEN
+50410, Act, 31, 1-4, HIPP, J.,       TBA, TBA,     TBA, 15, 1, n/a, 2, B and D, Bookstore,  , OPEN
+50412, Act, 32, 1-4, HOUSTON, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50414, Act, 33, 1-4, HUFF, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50416, Act, 34, 1-4, INGRAM, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50418, Act, 35, 1-4, JAMNER, L.,       TBA, TBA,     TBA, 15, 1, n/a, 3, B and D, Bookstore,  , OPEN
+50420, Act, 36, 1-4, JENNESS, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50422, Act, 37, 1-4, JESILOW, P.,       TBA, TBA,     TBA, 40, 3, n/a, 3, B and D, Bookstore, Web, OPEN
+50424, Act, 38, 1-4, KNOWLES, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50426, Act, 39, 1-4, KUBRIN, C.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and D, Bookstore,  , OPEN
+50428, Act, 40, 1-4, LEJANO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50430, Act, 41, 1-4, LEVINE, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50432, Act, 42, 1-4, LOFTUS, E.,       TBA, TBA,     TBA, 15, 1, n/a, 2, B and D, Bookstore,  , OPEN
+50434, Act, 43, 1-4, LUKOWSKI, A.,       TBA, TBA,     TBA, 15, 5, n/a, 5, B and D, Bookstore,  , OPEN
+50436, Act, 44, 1-4, LYNCH, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50438, Act, 45, 1-4, MADDI, S.,       TBA, TBA,     TBA, 15, 1, n/a, 2, B and D, Bookstore,  , OPEN
+50440, Act, 46, 1-4, MATTHEW, R.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B and D, Bookstore,  , OPEN
+50442, Act, 47, 1-4, MAXSON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50444, Act, 48, 1-4, MAZUMDAR, S.,       TBA, TBA,     TBA, 15, 5, n/a, 2, B and D, Bookstore,  , OPEN
+50446, Act, 49, 1-4, MCCLEARY, R.,       TBA, TBA,     TBA, 15, 1, n/a, 3, B and D, Bookstore,  , OPEN
+50448, Act, 50, 1-4, MEEKER, J.,       TBA, TBA,     TBA, 15, 36, n/a, 25, B and D, Bookstore,  , FULL
+50450, Act, 51, 1-4, NOVACO, R.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B and D, Bookstore,  , OPEN
+50452, Act, 52, 1-4, ODGERS, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50454, Act, 53, 1-4, PETERSILIA, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50456, Act, 54, 1-4, PONTELL, H.,       TBA, TBA,     TBA, 15, 3, n/a, 3, B and D, Bookstore,  , OPEN
+50458, Act, 55, 1-4, PRAUSE, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50460, Act, 56, 1-4, QUAS, J.,       TBA, TBA,     TBA, 15, 8, n/a, 8, B and D, Bookstore,  , OPEN
+50462, Act, 57, 1-4, RENDON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and D, Bookstore,  , OPEN
+50464, Act, 58, 1-4, RICHLAND, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50466, Act, 59, 1-4, ROOK, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50468, Act, 60, 1-4, SCHUELE, D.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and D, Bookstore,  , OPEN
+50470, Act, 61, 1-4, SERON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50472, Act, 62, 1-4, SILVER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50474, Act, 63, 1-4, SKEEM, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50476, Act, 64, 1-4, STOKOLS, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50478, Act, 65, 1-4, SUAREZ-VILLA, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50480, Act, 66, 1-4, THOMPSON, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50482, Act, 67, 1-4, TITA, G.,       TBA, TBA,     TBA, 15, 9, n/a, 7, B and D, Bookstore,  , OPEN
+50484, Act, 68, 1-4, TORRES, R.,       TBA, TBA,     TBA, 15, 3, n/a, 2, B and D, Bookstore,  , OPEN
+50486, Act, 69, 1-4, TURNER, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50488, Act, 70, 1-4, SCHUCK, S.,       TBA, TBA,     TBA, 15, 15, n/a, 15, B and D, Bookstore,  , FULL
+50490, Act, 71, 1-4, VIGIL, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50492, Act, 72, 1-4, WAKEFIELD, S.,       TBA, TBA,     TBA, 15, 8, n/a, 6, B and D, Bookstore,  , OPEN
+50494, Act, 73, 1-4, WARD, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50496, Act, 74, 1-4, WIGAL, T.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and D, Bookstore,  , OPEN
+50498, Act, 75, 1-4, WHITELEY, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+50500, Act, 76, 1-4, YIM, I.,       TBA, TBA,     TBA, 15, 0, n/a, 2, B and D, Bookstore,  , OPEN
+50502, Act, 77, 1-4, FLOJO, J.,       TBA, TBA,     TBA, 15, 17, n/a, 4, B and D, Bookstore,  , FULL
+50504, Act, 78, 1-4, PARHAM, T., W    2:00- 4:50p, SSL 171,     TBA, 30, 15, n/a, 11, B and D, Bookstore,  , OPEN
+50532, Act, 79, 1-4, MANESE, J., W    2:30- 5:20p, SSL 117,     TBA, 30, 10, n/a, 8, B and D, Bookstore,  , OPEN
+50534, Act, 80, 1-4, SCHNEIDER, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and D, Bookstore,  , OPEN
+
+  SocEcol   199     SPECIAL STUDIES
+	    
+
+50650, Tut, 1, 1-4, BASOLO, M.,       TBA, TBA,     TBA, 15, 3, n/a, 2, B, Bookstore,  , OPEN
+50652, Tut, 2, 1-4, KIM, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B, Bookstore,  , OPEN
+50654, Tut, 3, 1-4, BOLLENS, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50656, Tut, 4, 1-4, BRUCKNER, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50658, Tut, 5, 1-4, CALAVITA, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50660, Tut, 6, 1-4, CAUFFMAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B, Bookstore,  , OPEN
+50662, Tut, 7, 1-4, CHARLES, S.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B, Bookstore,  , OPEN
+50664, Tut, 8, 1-4, CHEN, C.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B, Bookstore,  , OPEN
+50666, Tut, 9, 1-4, CHEW, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50668, Tut, 10, 1-4, CLARKE-STEWART, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50670, Tut, 11, 1-4, CLECAK, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50672, Tut, 12, 1-4, COLE, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50674, Tut, 13, 1-4, CONNER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50676, Tut, 14, 1-4, COUTIN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50678, Tut, 15, 1-4, PIPKIN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50680, Tut, 16, 1-4, CURRIE, E.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B, Bookstore,  , OPEN
+50682, Tut, 17, 1-4, DICKERSON, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50684, Tut, 18, 1-4, DITTO, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50686, Tut, 19, 1-4, DOMBRINK, J.,       TBA, TBA,     TBA, 60, 16, n/a, 15, B, Bookstore,  , OPEN
+50688, Tut, 20, 2-4, DOOLEY, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50690, Tut, 21, 1-4, FELDMAN, D.,       TBA, TBA,     TBA, 40, 1, n/a, 0, B, Bookstore,  , OPEN
+50692, Tut, 22, 1-4, FELDMAN, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50694, Tut, 23, 1-4, FRATTAROLI, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50696, Tut, 24, 1-4, GARDE, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50698, Tut, 25, 1-4, GEIS, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50700, Tut, 26, 1-4, GOLDBERG, W.,       TBA, TBA,     TBA, 15, 3, n/a, 4, B, Bookstore,  , OPEN
+50702, Tut, 27, 1-4, GOTTFREDSON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B, Bookstore,  , OPEN
+50704, Tut, 28, 1-4, GREENBERGER, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50706, Tut, 29, 1-4, HAN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50708, Tut, 30, 1-4, HECKHAUSEN, J.,       TBA, TBA,     TBA, 15, 11, n/a, 9, B, Bookstore,  , OPEN
+50710, Tut, 31, 1-4, HIPP, J.,       TBA, TBA,     TBA, 15, 3, n/a, 2, B, Bookstore,  , OPEN
+50712, Tut, 32, 1-4, HOUSTON, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50714, Tut, 33, 1-4, HUFF, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50716, Tut, 34, 1-4, INGRAM, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50718, Tut, 35, 1-4, JAMNER, L.,       TBA, TBA,     TBA, 15, 12, n/a, 12, B, Bookstore,  , OPEN
+50720, Tut, 36, 1-4, JENNESS, V.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B, Bookstore,  , OPEN
+50722, Tut, 37, 1-4, JESILOW, P.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B, Bookstore,  , OPEN
+50724, Tut, 38, 1-4, KNOWLES, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50726, Tut, 39, 1-4, KUBRIN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50728, Tut, 40, 1-4, LEJANO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50730, Tut, 41, 1-4, LEVINE, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50732, Tut, 42, 1-4, LOFTUS, E.,       TBA, TBA,     TBA, 15, 7, n/a, 7, B, Bookstore,  , OPEN
+50734, Tut, 43, 1-4, LUKOWSKI, A.,       TBA, TBA,     TBA, 15, 6, n/a, 7, B, Bookstore,  , OPEN
+50736, Tut, 44, 1-4, LYNCH, M.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B, Bookstore,  , OPEN
+50738, Tut, 45, 1-4, MADDI, S.,       TBA, TBA,     TBA, 15, 8, n/a, 9, B, Bookstore,  , OPEN
+50740, Tut, 46, 1-4, MATTHEW, R.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B, Bookstore,  , OPEN
+50742, Tut, 47, 1-4, MAXSON, C.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B, Bookstore,  , OPEN
+50744, Tut, 48, 1-4, MAZUMDAR, S.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B, Bookstore,  , OPEN
+50746, Tut, 49, 1-4, MCCLEARY, R.,       TBA, TBA,     TBA, 15, 17, n/a, 16, B, Bookstore, Web, FULL
+50748, Tut, 50, 1-4, MEEKER, J.,       TBA, TBA,     TBA, 15, 14, n/a, 11, B, Bookstore,  , OPEN
+50750, Tut, 51, 1-4, NOVACO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50752, Tut, 52, 1-4, ODGERS, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50754, Tut, 53, 1-4, FORTIER, M.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B, Bookstore,  , OPEN
+50756, Tut, 54, 1-4, PONTELL, H.,       TBA, TBA,     TBA, 15, 12, n/a, 11, B, Bookstore,  , OPEN
+50758, Tut, 55, 1-4, PRAUSE, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50760, Tut, 56, 1-4, QUAS, J.,       TBA, TBA,     TBA, 15, 5, n/a, 5, B, Bookstore,  , OPEN
+50762, Tut, 57, 1-4, RENDON, M.,       TBA, TBA,     TBA, 15, 3, n/a, 2, B, Bookstore,  , OPEN
+50764, Tut, 58, 1-4, RICHLAND, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50766, Tut, 59, 1-4, ROOK, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50768, Tut, 60, 1-4, SCHUELE, D.,       TBA, TBA,     TBA, 15, 2, n/a, 1, B, Bookstore,  , OPEN
+50770, Tut, 61, 1-4, SERON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50772, Tut, 62, 1-4, SILVER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50774, Tut, 63, 1-4, SKEEM, J.,       TBA, TBA,     TBA, 15, 11, n/a, 8, B, Bookstore,  , OPEN
+50776, Tut, 64, 1-4, STOKOLS, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50778, Tut, 65, 1-4, SUAREZ-VILLA, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50780, Tut, 66, 1-4, THOMPSON, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50782, Tut, 67, 1-4, TITA, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50784, Tut, 68, 1-4, TORRES, R.,       TBA, TBA,     TBA, 15, 3, n/a, 1, B, Bookstore,  , OPEN
+50786, Tut, 69, 1-4, TURNER, S.,       TBA, TBA,     TBA, 15, 6, n/a, 5, B, Bookstore,  , OPEN
+50788, Tut, 70, 1-4, SCHUCK, S.,       TBA, TBA,     TBA, 15, 2, n/a, 3, B, Bookstore,  , OPEN
+50790, Tut, 71, 1-4, VIGIL, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B, Bookstore,  , OPEN
+50792, Tut, 72, 1-4, WAKEFIELD, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50794, Tut, 73, 1-4, WARD, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50796, Tut, 74, 1-4, WHALEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B, Bookstore,  , OPEN
+50798, Tut, 75, 1-4, WHITELEY, J.,       TBA, TBA,     TBA, 15, 14, n/a, 12, B, Bookstore,  , OPEN
+50800, Tut, 76, 1-4, YIM, I.,       TBA, TBA,     TBA, 15, 9, n/a, 5, B, Bookstore,  , OPEN
+50802, Tut, 77, 1-4, SORKIN, D.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B, Bookstore,  , OPEN
+50804, Tut, 78, 1-4, SCHNEIDER, M.,       TBA, TBA,     TBA, 15, 4, n/a, 3, B, Bookstore,  , OPEN
+
+  SocEcol   275     CAPSTONE II
+	    
+
+50900, Sem, 1, 4, TITA, G., F   11:00- 1:50p, ET 201,     TBA, 25, 20, n/a, 21, B, Bookstore,  , OPEN
+
+  SocEcol   295     MA THESIS RES/WRT
+	    
+
+51000, Tut, 1, 4-8, BASOLO, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51002, Tut, 2, 4-8, BEARD, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51004, Tut, 3, 4-8, BOLLENS, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51006, Tut, 4, 4-8, BRUCKNER, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51008, Tut, 5, 4-8, CALAVITA, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51010, Tut, 6, 4-8, CAUFFMAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51012, Tut, 7, 4-8, CHARLES, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51014, Tut, 8, 4-8, CHEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51016, Tut, 9, 4-8, CHEW, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51018, Tut, 10, 4-8, CLARKE-STEWART, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51020, Tut, 11, 4-8, CLECAK, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51022, Tut, 12, 4-8, COLE, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51024, Tut, 13, 4-8, CONNER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51026, Tut, 14, 4-8, COUTIN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51028, Tut, 15, 4-8, CRAWFORD, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51030, Tut, 16, 4-8, CURRIE, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51032, Tut, 17, 4-8, DICKERSON, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51034, Tut, 18, 4-8, DITTO, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51036, Tut, 19, 4-8, DOMBRINK, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51038, Tut, 20, 4-8, DOOLEY, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51040, Tut, 21, 4-8, FELDMAN, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51042, Tut, 22, 4-8, FELDMAN, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51044, Tut, 23, 4-8, FRATTAROLI, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51046, Tut, 24, 4-8, GARDE, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51048, Tut, 25, 4-8, GEIS, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51050, Tut, 26, 4-8, GOLDBERG, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51052, Tut, 27, 4-8, GOTTFREDSON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51054, Tut, 28, 4-8, GREENBERGER, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51056, Tut, 29, 4-8, HAN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51058, Tut, 30, 4-8, HECKHAUSEN, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51060, Tut, 31, 4-8, HIPP, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51062, Tut, 32, 4-8, HOUSTON, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51064, Tut, 33, 4-8, HUFF, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51066, Tut, 34, 4-8, INGRAM, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51068, Tut, 35, 4-8, JAMNER, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51070, Tut, 36, 4-8, JENNESS, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51072, Tut, 37, 4-8, JESILOW, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51074, Tut, 38, 4-8, KNOWLES, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51076, Tut, 39, 4-8, KUBRIN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51078, Tut, 40, 4-8, LEJANO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51080, Tut, 41, 4-8, LEVINE, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51082, Tut, 42, 4-8, LOFTUS, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51084, Tut, 43, 4-8, LUKOWSKI, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51086, Tut, 44, 4-8, LYNCH, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51088, Tut, 45, 4-8, MADDI, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51090, Tut, 46, 4-8, MATTHEW, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51092, Tut, 47, 4-8, MAXSON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51094, Tut, 48, 4-8, MAZUMDAR, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51096, Tut, 49, 4-8, MCCLEARY, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51098, Tut, 50, 4-8, MEEKER, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51100, Tut, 51, 4-8, NOVACO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51102, Tut, 52, 4-8, ODGERS, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51104, Tut, 53, 4-8, PETERSILIA, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51106, Tut, 54, 4-8, PONTELL, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51108, Tut, 55, 4-8, PRAUSE, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51110, Tut, 56, 4-8, QUAS, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51112, Tut, 57, 4-8, RENDON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51114, Tut, 58, 4-8, RICHLAND, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51116, Tut, 59, 4-8, ROOK, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51118, Tut, 60, 4-8, STAFF,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51120, Tut, 61, 4-8, SERON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51122, Tut, 62, 4-8, SILVER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51124, Tut, 63, 4-8, VAUGHAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51126, Tut, 63, 4-8, SKEEM, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51128, Tut, 64, 4-8, SUAREZ-VILLA, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51130, Tut, 65, 4-8, TORRES, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51132, Tut, 66, 4-8, THOMPSON, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51134, Tut, 67, 4-8, TITA, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51136, Tut, 68, 4-8, STOKOLS, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51137, Tut, 69, 4-8, TURNER, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51138, Tut, 70, 4-8, VAUGHAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51139, Tut, 71, 4-8, VIGIL, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51140, Tut, 72, 4-8, WAKEFIELD, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51142, Tut, 73, 4-8, WARD, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51144, Tut, 74, 4-8, WHALEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51146, Tut, 75, 4-8, WHITELEY, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51148, Tut, 76, 4-8, YIM, I.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  SocEcol   296     DOCTORAL DISSERTATN
+	    
+
+51200, Tut, 1, 4-8, BASOLO, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51202, Tut, 2, 4-8, BEARD, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51204, Tut, 3, 4-8, BINDER, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51206, Tut, 4, 4-8, BOLLENS, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51208, Tut, 5, 4-8, BRUCKNER, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51210, Tut, 6, 4-8, CALAVITA, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51212, Tut, 7, 4-8, CAUFFMAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51214, Tut, 8, 4-8, CHARLES, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51216, Tut, 9, 4-8, CHEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51218, Tut, 10, 4-8, CHEW, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51220, Tut, 11, 4-8, CLARKE-STEWART, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51222, Tut, 12, 4-8, CLECAK, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51224, Tut, 13, 4-8, COLE, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51226, Tut, 14, 4-8, CONNER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51228, Tut, 15, 4-8, COUTIN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51230, Tut, 16, 4-8, CRAWFORD, T.,       TBA, TBA,     TBA, 15, 0, n/a, 1, K, Bookstore,  , OPEN
+51232, Tut, 17, 4-8, CURRIE, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51234, Tut, 18, 4-8, DICKERSON, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51236, Tut, 19, 4-8, DITTO, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51238, Tut, 20, 4-8, DOMBRINK, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51240, Tut, 21, 4-8, DOOLEY, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51242, Tut, 22, 4-8, FELDMAN, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51244, Tut, 23, 4-8, FELDMAN, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51246, Tut, 24, 4-8, FRATTAROLI, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51248, Tut, 25, 4-8, GARDE, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51250, Tut, 26, 4-8, GEIS, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51252, Tut, 27, 4-8, GOLDBERG, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51254, Tut, 28, 4-8, GOTTFREDSON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51256, Tut, 29, 4-8, GREENBERGER, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51258, Tut, 30, 4-8, HAN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51260, Tut, 31, 4-8, HECKHAUSEN, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+51262, Tut, 32, 4-8, HIPP, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51264, Tut, 33, 4-8, HOUSTON, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51266, Tut, 34, 4-8, HUFF, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51268, Tut, 35, 4-8, INGRAM, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51270, Tut, 36, 4-8, JAMNER, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51272, Tut, 37, 4-8, JENNESS, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51274, Tut, 38, 4-8, JESILOW, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51276, Tut, 39, 4-8, KNOWLES, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51278, Tut, 40, 4-8, KUBRIN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51280, Tut, 41, 4-8, LEJANO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51282, Tut, 42, 4-8, LEVINE, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51284, Tut, 43, 4-8, LOFTUS, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51286, Tut, 44, 4-8, LUKOWSKI, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51288, Tut, 45, 4-8, LYNCH, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51290, Tut, 46, 4-8, MADDI, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51292, Tut, 47, 4-8, MATTHEW, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51294, Tut, 48, 4-8, MAXSON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51296, Tut, 49, 4-8, MAZUMDAR, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51298, Tut, 50, 4-8, MCCLEARY, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51300, Tut, 51, 4-8, MEEKER, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51302, Tut, 52, 4-8, NOVACO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51304, Tut, 53, 4-8, ODGERS, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51306, Tut, 54, 4-8, PETERSILIA, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51308, Tut, 55, 4-8, PONTELL, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51310, Tut, 56, 4-8, PRAUSE, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51312, Tut, 57, 4-8, QUAS, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51314, Tut, 58, 4-8, RENDON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51316, Tut, 59, 4-8, RICHLAND, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51318, Tut, 60, 4-8, ROOK, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51320, Tut, 61, 4-8, SCHNEIDER, M.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+51322, Tut, 62, 4-8, SERON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51324, Tut, 63, 4-8, SILVER, R.,       TBA, TBA,     TBA, 15, 1, n/a, 1, K, Bookstore,  , OPEN
+51326, Tut, 64, 4-8, SKEEM, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51328, Tut, 65, 4-8, SUAREZ-VILLA, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51330, Tut, 66, 4-8, TORRES, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51332, Tut, 67, 4-8, THOMPSON, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51334, Tut, 68, 4-8, TITA, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51336, Tut, 69, 4-8, STOKOLS, D.,       TBA, TBA,     TBA, 15, 1, n/a, 2, K, Bookstore,  , OPEN
+51338, Tut, 70, 4-8, TURNER, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51340, Tut, 71, 4-8, VAUGHAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51342, Tut, 72, 4-8, VIGIL, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51344, Tut, 73, 4-8, WAKEFIELD, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51346, Tut, 74, 4-8, WARD, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51348, Tut, 75, 4-8, WHALEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51350, Tut, 76, 4-8, WHITELEY, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51352, Tut, 77, 4-8, YIM, I.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  SocEcol   297     GRAD FIELD SEMINAR
+	    
+
+51400, Fld, 1, 2-4, BASOLO, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51402, Fld, 2, 2-4, BEARD, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51404, Fld, 3, 2-4, BINDER, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51406, Fld, 4, 2-4, BOLLENS, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51408, Fld, 5, 2-4, BRUCKNER, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51410, Fld, 6, 2-4, CALAVITA, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51412, Fld, 7, 2-4, CAUFFMAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51414, Fld, 8, 2-4, CHARLES, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51416, Fld, 9, 2-4, CHEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51418, Fld, 10, 2-4, CHEW, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51420, Fld, 11, 2-4, CLARKE-STEWART, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51422, Fld, 12, 2-4, CLECAK, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51424, Fld, 13, 2-4, COLE, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51426, Fld, 14, 2-4, CONNER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51428, Fld, 15, 2-4, CURRIE, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51430, Fld, 16, 2-4, DICKERSON, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51432, Fld, 17, 2-4, DITTO, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51434, Fld, 18, 2-4, DOMBRINK, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51436, Fld, 19, 2-4, DOOLEY, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51438, Fld, 20, 2-4, FELDMAN, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51440, Fld, 21, 2-4, FELDMAN, M.,       TBA, TBA,     TBA, 15, 0, n/a, 1, K, Bookstore,  , OPEN
+51442, Fld, 22, 2-4, FRATTAROLI, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51444, Fld, 23, 2-4, GARDE, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51446, Fld, 24, 2-4, GEIS, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51448, Fld, 25, 2-4, GOLDBERG, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51450, Fld, 26, 2-4, GOTTFREDSON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51452, Fld, 27, 2-4, GREENBERGER, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51454, Fld, 28, 2-4, HAN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51456, Fld, 29, 2-4, HECKHAUSEN, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51458, Fld, 30, 2-4, HIPP, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51460, Fld, 31, 2-4, HOUSTON, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51462, Fld, 32, 2-4, HUFF, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51464, Fld, 33, 2-4, INGRAM, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51466, Fld, 34, 2-4, JAMNER, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51468, Fld, 35, 2-4, JENNESS, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51470, Fld, 36, 2-4, JESILOW, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51472, Fld, 37, 2-4, KNOWLES, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51474, Fld, 38, 2-4, KUBRIN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51476, Fld, 39, 2-4, LEJANO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51478, Fld, 40, 2-4, LEVINE, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51480, Fld, 41, 2-4, LOFTUS, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51482, Fld, 42, 2-4, LUKOWSKI, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51484, Fld, 43, 2-4, LYNCH, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51486, Fld, 44, 2-4, MADDI, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51488, Fld, 45, 2-4, MATTHEW, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51490, Fld, 46, 2-4, MAXSON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51492, Fld, 47, 2-4, MAZUMDAR, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51494, Fld, 48, 2-4, MCCLEARY, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51496, Fld, 49, 2-4, MEEKER, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51498, Fld, 50, 2-4, NOVACO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51500, Fld, 51, 2-4, ODGERS, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51502, Fld, 52, 2-4, PETERSILIA, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51504, Fld, 53, 2-4, PONTELL, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51506, Fld, 54, 2-4, PRAUSE, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51508, Fld, 55, 2-4, QUAS, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51510, Fld, 56, 2-4, RENDON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51512, Fld, 57, 2-4, RICHLAND, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51514, Fld, 58, 2-4, ROOK, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51516, Fld, 59, 2-4, STAFF,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51518, Fld, 60, 2-4, SERON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51520, Fld, 61, 2-4, SILVER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51522, Fld, 62, 2-4, SKEEM, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51524, Fld, 63, 2-4, SUAREZ-VILLA, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51526, Fld, 64, 2-4, TORRES, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51528, Fld, 65, 2-4, THOMPSON, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51530, Fld, 66, 2-4, TITA, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51532, Fld, 67, 2-4, STOKOLS, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51534, Fld, 68, 2-4, TURNER, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51536, Fld, 69, 2-4, VAUGHAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51538, Fld, 70, 2-4, VIGIL, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51540, Fld, 71, 2-4, WAKEFIELD, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51542, Fld, 72, 2-4, WARD, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51543, Fld, 73, 2-4, WHALEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51544, Fld, 74, 2-4, WHITELEY, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+51546, Fld, 75, 2-4, YIM, I.,       TBA, TBA,     TBA, 15, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  SocEcol   298     DIRECTED STUDIES
+	    
+
+51602, Tut, 1, 2-4, BASOLO, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51604, Tut, 2, 2-4, BEARD, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51606, Tut, 3, 2-4, BINDER, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51608, Tut, 4, 2-4, BOLLENS, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51610, Tut, 5, 2-4, BRUCKNER, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51612, Tut, 6, 2-4, CALAVITA, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51614, Tut, 7, 2-4, CAUFFMAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51616, Tut, 8, 2-4, CHARLES, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51618, Tut, 9, 2-4, CHEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51620, Tut, 10, 2-4, CHEW, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51622, Tut, 11, 2-4, CLARKE-STEWART, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51624, Tut, 12, 2-4, CLECAK, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51626, Tut, 13, 2-4, COLE, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51628, Tut, 14, 2-4, CONNER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51630, Tut, 15, 2-4, COUTIN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51632, Tut, 16, 2-4, CRAWFORD, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51634, Tut, 17, 2-4, CURRIE, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51636, Tut, 18, 2-4, DICKERSON, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51638, Tut, 19, 2-4, DITTO, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51640, Tut, 20, 2-4, DOMBRINK, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51642, Tut, 21, 2-4, DOOLEY, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51644, Tut, 22, 2-4, FELDMAN, D.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and K, Bookstore,  , OPEN
+51646, Tut, 23, 2-4, FELDMAN, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51648, Tut, 24, 2-4, FRATTAROLI, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51650, Tut, 25, 2-4, GARDE, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51652, Tut, 26, 2-4, GEIS, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51654, Tut, 27, 2-4, GOLDBERG, W.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51656, Tut, 28, 2-4, GOTTFREDSON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51658, Tut, 29, 2-4, GREENBERGER, E.,       TBA, TBA,     TBA, 20, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51660, Tut, 30, 2-4, HAN, S.,       TBA, TBA,     TBA, 20, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51662, Tut, 31, 2-4, HECKHAUSEN, J.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and K, Bookstore,  , OPEN
+51663, Tut, 32, 2-4, HIPP, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51664, Tut, 33, 2-4, HOUSTON, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51668, Tut, 34, 2-4, HUFF, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51670, Tut, 35, 2-4, INGRAM, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51672, Tut, 36, 2-4, JAMNER, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51674, Tut, 37, 2-4, JENNESS, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51676, Tut, 38, 2-4, JESILOW, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51678, Tut, 39, 2-4, KNOWLES, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51680, Tut, 40, 2-4, KUBRIN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51682, Tut, 41, 2-4, LEJANO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51684, Tut, 42, 2-4, LEVINE, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51686, Tut, 43, 2-4, LOFTUS, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51688, Tut, 44, 2-4, LUKOWSKI, A.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51690, Tut, 45, 2-4, LYNCH, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51692, Tut, 46, 2-4, MADDI, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51694, Tut, 47, 2-4, MATTHEW, R.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51696, Tut, 48, 2-4, MAXSON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51698, Tut, 49, 2-4, MAZUMDAR, S.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51699, Tut, 50, 2-4, MCCLEARY, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51700, Tut, 51, 2-4, MEEKER, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51702, Tut, 52, 2-4, NOVACO, R.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51704, Tut, 53, 2-4, ODGERS, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51706, Tut, 54, 2-4, PETERSILIA, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51708, Tut, 55, 2-4, PONTELL, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51710, Tut, 56, 2-4, PRAUSE, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51712, Tut, 57, 2-4, QUAS, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51714, Tut, 58, 2-4, RENDON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51716, Tut, 59, 2-4, RICHLAND, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51720, Tut, 60, 2-4, ROOK, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51722, Tut, 61, 2-4, STAFF,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51724, Tut, 62, 2-4, SERON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51728, Tut, 63, 2-4, SILVER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51730, Tut, 64, 2-4, SKEEM, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51732, Tut, 65, 2-4, SUAREZ-VILLA, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51734, Tut, 66, 2-4, TORRES, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51736, Tut, 67, 2-4, THOMPSON, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51738, Tut, 68, 2-4, TITA, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51740, Tut, 69, 2-4, STOKOLS, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51742, Tut, 70, 2-4, TURNER, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51744, Tut, 71, 2-4, VAUGHAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51746, Tut, 72, 2-4, VIGIL, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51748, Tut, 73, 2-4, WAKEFIELD, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51750, Tut, 74, 2-4, WARD, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51752, Tut, 75, 2-4, SORKIN, D.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51754, Tut, 76, 2-4, WHITELEY, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51756, Tut, 77, 2-4, YIM, I.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51758, Tut, 78, 2-4, SCHNEIDER, M.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and K, Bookstore,  , OPEN
+
+  SocEcol   299     INDEPENDENT STUDY
+	    
+
+51800, Tut, 1, 2-8, BASOLO, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51804, Tut, 2, 2-8, BEARD, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51805, Tut, 3, 2-8, BINDER, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51806, Tut, 4, 2-8, BOLLENS, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51808, Tut, 5, 2-8, BRUCKNER, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51810, Tut, 6, 2-8, CALAVITA, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51812, Tut, 7, 2-8, CAUFFMAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51814, Tut, 8, 2-8, CHARLES, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51816, Tut, 9, 2-8, CHEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51818, Tut, 10, 2-8, CHEW, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51820, Tut, 11, 2-8, CLARKE-STEWART, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51821, Tut, 12, 2-8, CLECAK, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51822, Tut, 13, 2-8, COLE, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51824, Tut, 14, 2-8, CONNER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51826, Tut, 15, 2-8, COUTIN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51828, Tut, 16, 2-8, CRAWFORD, T.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51829, Tut, 17, 2-8, CURRIE, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51830, Tut, 18, 2-8, DICKERSON, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51832, Tut, 19, 2-8, DITTO, P.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51834, Tut, 20, 2-8, DOMBRINK, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51836, Tut, 21, 2-8, DOOLEY, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51838, Tut, 22, 2-8, FELDMAN, D.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51840, Tut, 23, 2-8, FELDMAN, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51842, Tut, 24, 2-8, FRATTAROLI, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51843, Tut, 25, 2-8, GARDE, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51844, Tut, 26, 2-8, GEIS, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51846, Tut, 27, 2-8, GOLDBERG, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51848, Tut, 28, 2-8, GOTTFREDSON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51850, Tut, 29, 2-8, GREENBERGER, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51852, Tut, 30, 2-8, HAN, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51856, Tut, 31, 2-8, HECKHAUSEN, J.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and K, Bookstore,  , OPEN
+51858, Tut, 32, 2-8, HIPP, J.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B and K, Bookstore,  , OPEN
+51859, Tut, 33, 2-8, HOUSTON, J.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51860, Tut, 34, 2-8, HUFF, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51862, Tut, 35, 2-8, INGRAM, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51864, Tut, 36, 2-8, JAMNER, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51866, Tut, 37, 2-8, JENNESS, V.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51868, Tut, 38, 2-8, JESILOW, P.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and K, Bookstore,  , OPEN
+51869, Tut, 39, 2-8, KNOWLES, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51870, Tut, 40, 2-8, KUBRIN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51872, Tut, 41, 2-8, LEJANO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51874, Tut, 42, 2-8, LEVINE, L.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and K, Bookstore,  , OPEN
+51876, Tut, 43, 2-8, LOFTUS, E.,       TBA, TBA,     TBA, 15, 1, n/a, 1, B and K, Bookstore,  , OPEN
+51878, Tut, 44, 2-8, LUKOWSKI, A.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51880, Tut, 45, 2-8, LYNCH, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51884, Tut, 46, 2-8, MADDI, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51886, Tut, 47, 2-8, MATTHEW, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51887, Tut, 48, 2-8, MAXSON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51888, Tut, 49, 2-8, MAZUMDAR, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51889, Tut, 50, 2-8, MCCLEARY, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51890, Tut, 51, 2-8, MEEKER, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51892, Tut, 52, 2-8, NOVACO, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51894, Tut, 53, 2-8, ODGERS, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51896, Tut, 54, 2-8, PETERSILIA, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51897, Tut, 55, 2-8, PONTELL, H.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51898, Tut, 56, 2-8, PRAUSE, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51900, Tut, 57, 2-8, QUAS, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51902, Tut, 58, 2-8, RENDON, M.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51904, Tut, 59, 2-8, RICHLAND, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51905, Tut, 60, 2-8, ROOK, K.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51906, Tut, 61, 2-8, STAFF,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51912, Tut, 62, 2-8, SERON, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51914, Tut, 63, 2-8, SILVER, R.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51916, Tut, 64, 2-8, SKEEM, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51918, Tut, 65, 2-8, SUAREZ-VILLA, L.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51920, Tut, 66, 2-8, TORRES, R.,       TBA, TBA,     TBA, 15, 2, n/a, 2, B and K, Bookstore,  , OPEN
+51922, Tut, 67, 2-8, THOMPSON, W.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51924, Tut, 68, 2-8, TITA, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51926, Tut, 69, 2-8, STOKOLS, D.,       TBA, TBA,     TBA, 15, 2, n/a, 3, B and K, Bookstore,  , OPEN
+51928, Tut, 70, 2-8, TURNER, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51930, Tut, 71, 2-8, VAUGHAN, E.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51932, Tut, 72, 2-8, VIGIL, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51934, Tut, 73, 2-8, WAKEFIELD, S.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51936, Tut, 74, 2-8, WARD, G.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51938, Tut, 75, 2-8, WHALEN, C.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51940, Tut, 76, 2-8, WHITELEY, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51942, Tut, 77, 2-8, YIM, I.,       TBA, TBA,     TBA, 15, 0, n/a, 0, B and K, Bookstore,  , OPEN
+51944, Tut, 78, 2-8, SCHNEIDER, M.,       TBA, TBA,     TBA, 15, 0, n/a, 1, B and K, Bookstore,  , OPEN
+
+  SocEcol   399     UNIVERSITY TEACHING
+	    
+
+51990, Tut, A, 2-4, MEEKER, J.,       TBA, TBA,     TBA, 999, 67, n/a, 69, K and S, Bookstore,  , OPEN
+

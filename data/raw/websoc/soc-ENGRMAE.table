@@ -1,0 +1,534 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+Henry Samueli School of Engineering
+Engineering, Mechanical and Aerospace
+  EngrMAE   10     INTRO ENGR COMP      (Prerequisites)
+	    
+
+19000, Lec, A, 4, DABDUB, D.EBRAHIMI, S.HORNE, J., TuTh    3:30- 4:50p, PCB 1100, Tue, Jun 11, 4:00-6:00pm, 240, 235, n/a, 288, A, Bookstore, Web, OPEN
+19001, Dis, A1, 0, DABDUB, D.EBRAHIMI, S.HORNE, J., Th   11:00-11:50 , MSTB 224,  , 40, 40, n/a, 43,  , Bookstore,  , FULL
+19002, Dis, A2, 0, DABDUB, D.EBRAHIMI, S.HORNE, J., Th   12:00-12:50p, MSTB 224,  , 40, 40, n/a, 37,  , Bookstore,  , FULL
+19003, Dis, A3, 0, DABDUB, D.EBRAHIMI, S.HORNE, J., Th    1:00- 1:50p, MSTB 224,  , 40, 40, n/a, 39,  , Bookstore,  , FULL
+19004, Dis, A4, 0, DABDUB, D.EBRAHIMI, S.HORNE, J., Tu   11:00-11:50 , MSTB 224,  , 40, 39, n/a, 27,  , Bookstore,  , OPEN
+19005, Dis, A5, 0, DABDUB, D.EBRAHIMI, S.HORNE, J., Tu   12:00-12:50p, MSTB 224,  , 40, 39, n/a, 26,  , Bookstore,  , OPEN
+19006, Dis, A6, 0, DABDUB, D.EBRAHIMI, S.HORNE, J., Tu    1:00- 1:50p, MSTB 224,  , 40, 37, n/a, 39,  , Bookstore,  , OPEN
+
+  EngrMAE   52     COMPUTER AIDED DESN
+	    
+
+19010, Lec, A, 4, NOROOZI, Z.STAFFSTAFF, TuTh    6:30- 7:50p, ELH 100,     TBA, 250, 246, n/a, 332,  , Bookstore, Web, OPEN
+19011, Lab, 1A, 0, NOROOZI, Z.VAKIL ASADOLLA, E.STAFF, M    8:00- 9:50 , MSTB 224,  , 50, 50, n/a, 45,  , Bookstore, Web, FULL
+19012, Lab, 2A, 0, NOROOZI, Z.KOSTER, T.STAFF, Tu    3:30- 5:20p, MSTB 224,  , 50, 50, n/a, 56,  , Bookstore,  , FULL
+19013, Lab, 3A, 0, NOROOZI, Z.RIVERS, M.STAFF, W    8:00- 9:50 , MDE AUD,  , 50, 48, n/a, 40,  , Bookstore,  , OPEN
+19014, Lab, 4A, 0, NOROOZI, Z.STAFFSTAFF, Th    3:30- 5:20p, MSTB 224,  , 50, 50, n/a, 56,  , Bookstore,  , FULL
+19015, Lab, 5A, 0, NOROOZI, Z.STAFFSTAFF, F    8:00- 9:50 , MSTB 224,  , 50, 48, n/a, 44,  , Bookstore,  , OPEN
+
+  EngrMAE   57     MFG PROCS IN EGR LB
+	    
+
+19020, Lab, A, 2, EDISS, T., MW    8:00- 9:50 , ET 137,     TBA, 8, 8, n/a, 32, D, Bookstore,  , FULL
+19021, Lab, B, 2, EDISS, T., TuTh    8:00- 9:50 , ET 137, Tue, Jun 11, 8:00-10:00am, 8, 8, n/a, 24, D, Bookstore,  , FULL
+19022, Lab, C, 2, HECK, S., MW    4:00- 5:50p, ET 137,     TBA, 11, 10, n/a, 12, D and X, Bookstore,  , OPEN
+19023, Lab, D, 2, HECK, S., TuTh    4:00- 5:50p, ET 137,     TBA, 8, 8, n/a, 10, D and X, Bookstore,  , FULL
+
+  EngrMAE   80     DYNAMICS      (Prerequisites)
+	    
+
+19030, Lec, A, 4, BISHAY, P.GANJALI, D.FARDADI, M., MWF    9:00- 9:50 , EH 1200, Wed, Jun 12, 8:00-10:00am, 225, 100 / 151, n/a, 121, A, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 13005 Engr 80, Lec A;   and 17040 EngrCEE 80, Lec A)
+			
+		    , 
+			        (same as 13005 Engr 80, Lec A;   and 17040 EngrCEE 80, Lec A)
+			,  ,  
+
+			        (same as 13005 Engr 80, Lec A;   and 17040 EngrCEE 80, Lec A)
+			
+19031, Dis, A1, 0, BISHAY, P.GANJALI, D.FARDADI, M., M    3:00- 3:50p, ET 202,  , 45, 20 / 30, n/a, 21,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 13007 Engr 80, Dis A1;   and 17041 EngrCEE 80, Dis A1)
+			
+		    , 
+			        (same as 13007 Engr 80, Dis A1;   and 17041 EngrCEE 80, Dis A1)
+			,  ,  
+
+			        (same as 13007 Engr 80, Dis A1;   and 17041 EngrCEE 80, Dis A1)
+			
+19032, Dis, A2, 0, BISHAY, P.GANJALI, D.FARDADI, M., W    3:00- 3:50p, ET 202,  , 45, 3 / 3, n/a, 5,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 13008 Engr 80, Dis A2;   and 17042 EngrCEE 80, Dis A2)
+			
+		    , 
+			        (same as 13008 Engr 80, Dis A2;   and 17042 EngrCEE 80, Dis A2)
+			,  ,  
+
+			        (same as 13008 Engr 80, Dis A2;   and 17042 EngrCEE 80, Dis A2)
+			
+19033, Dis, A3, 0, BISHAY, P.GANJALI, D.FARDADI, M., M    2:00- 2:50p, DBH 1300,  , 45, 39 / 45, n/a, 33,  , Bookstore, Web, FULL
+ ,  , 
+		
+			        (same as 13009 Engr 80, Dis A3;   and 17043 EngrCEE 80, Dis A3)
+			
+		    , 
+			        (same as 13009 Engr 80, Dis A3;   and 17043 EngrCEE 80, Dis A3)
+			,  ,  
+
+			        (same as 13009 Engr 80, Dis A3;   and 17043 EngrCEE 80, Dis A3)
+			
+19034, Dis, A4, 0, BISHAY, P.GANJALI, D.FARDADI, M., Th   12:00-12:50p, SSTR 100,  , 45, 25 / 45, n/a, 24,  , Bookstore, Web, FULL
+ ,  , 
+		
+			        (same as 13010 Engr 80, Dis A4;   and 17046 EngrCEE 80, Dis A4)
+			
+		    , 
+			        (same as 13010 Engr 80, Dis A4;   and 17046 EngrCEE 80, Dis A4)
+			,  ,  
+
+			        (same as 13010 Engr 80, Dis A4;   and 17046 EngrCEE 80, Dis A4)
+			
+19035, Dis, A5, 0, BISHAY, P.GANJALI, D.FARDADI, M., F    8:00- 8:50 , DBH 1200,  , 45, 13 / 28, n/a, 15,  , Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 13011 Engr 80, Dis A5;   and 17047 EngrCEE 80, Dis A5)
+			
+		    , 
+			        (same as 13011 Engr 80, Dis A5;   and 17047 EngrCEE 80, Dis A5)
+			,  ,  
+
+			        (same as 13011 Engr 80, Dis A5;   and 17047 EngrCEE 80, Dis A5)
+			
+
+  EngrMAE   91     INTRO THERMODYNAMIC      (Prerequisites)
+	    
+
+19040, Lec, A, 4, RANGEL, R.JARRAHBASHI, D.HERNANDEZ GAIT, F., TuTh    2:00- 3:20p, EH 1200, Thu, Jun 13, 1:30-3:30pm, 250, 248, n/a, 291, A, Bookstore, Web, OPEN
+19041, Dis, A1, 0, JARRAHBASHI, D.HERNANDEZ GAIT, F.RANGEL, R., F    2:00- 2:50p, DBH 1500,  , 62, 62, n/a, 73,  , Bookstore,  , FULL
+19042, Dis, A2, 0, JARRAHBASHI, D.HERNANDEZ GAIT, F.RANGEL, R., F    3:00- 3:50p, DBH 1500,  , 62, 62, n/a, 75,  , Bookstore,  , FULL
+19043, Dis, A3, 0, JARRAHBASHI, D.HERNANDEZ GAIT, F.RANGEL, R., F    4:00- 4:50p, DBH 1500,  , 62, 62, n/a, 68,  , Bookstore,  , FULL
+19044, Dis, A4, 0, JARRAHBASHI, D.HERNANDEZ GAIT, F.RANGEL, R., F    5:00- 5:50p, DBH 1500,  , 62, 62, n/a, 68,  , Bookstore,  , FULL
+
+  EngrMAE   106     MECH SYSTEMS LAB      (Prerequisites)
+	    
+
+19060, Lec, A, 4, REINKENSMEYER, D., MWF    3:00- 3:50p, PCB 1100, Mon, Jun 10, 4:00-6:00pm, 225, 225, n/a, 249, A, Bookstore, Web, FULL
+19061, Lab, 1A, 0, SMITH, B.STAFFREINKENSMEYER, D., M    8:00-10:50 , EG E2102,  , 25, 25, n/a, 26,  , Bookstore,  , FULL
+19062, Lab, 2A, 0, ZONDERVAN, D.STAFFREINKENSMEYER, D., M    5:00- 7:50p, EG E2102,  , 25, 25, n/a, 25,  , Bookstore,  , FULL
+19063, Lab, 3A, 0, DUARTE, J.STAFFREINKENSMEYER, D., Tu    8:00-10:50 , EG E2102,  , 25, 25, n/a, 24,  , Bookstore,  , FULL
+19064, Lab, 4A, 0, DAVENPORT, M.STAFFREINKENSMEYER, D., Tu    5:00- 7:50p, EG E2102,  , 25, 25, n/a, 27,  , Bookstore,  , FULL
+19065, Lab, 5A, 0, STAFFSTAFFREINKENSMEYER, D., W    8:00-10:50 , EG E2102,  , 25, 25, n/a, 24,  , Bookstore,  , FULL
+19066, Lab, 6A, 0, STAFFSTAFFREINKENSMEYER, D., W    5:00- 7:50p, EG E2102,  , 25, 25, n/a, 25,  , Bookstore,  , FULL
+19067, Lab, 7A, 0, STAFFSTAFFREINKENSMEYER, D., Th    8:00-10:50 , EG E2102,  , 25, 25, n/a, 26,  , Bookstore,  , FULL
+19068, Lab, 8A, 0, STAFFSTAFFREINKENSMEYER, D., Th    5:00- 7:50p, EG E2102,  , 25, 25, n/a, 25,  , Bookstore,  , FULL
+19069, Lab, 9A, 0, STAFFREINKENSMEYER, D., F    8:00-10:50 , EG E2102,  , 25, 23, n/a, 24,  , Bookstore,  , OPEN
+19070, Lab, 10A, 0, STAFFREINKENSMEYER, D., F    5:00- 7:50p, EG E2102,  , 0, 1, n/a, 5,  , Bookstore,  , FULL
+
+  EngrMAE   118     SUSTAINABLE ENERGY      (Prerequisites)
+	    
+
+19100, Lec, A, 4, MUZIO, L.ZHANG, L., TuTh    6:00- 7:20p, ET 202,     TBA, 23, 21, n/a, 41, A, Bookstore, Web, OPEN
+19101, Dis, A1, 0, MUZIO, L.ZHANG, L., Th    7:30- 8:20p, ET 202,  , 23, 21, n/a, 32,  , Bookstore,  , OPEN
+
+  EngrMAE   120     HEAT & MASS TRANSFR      (Prerequisites)
+	    
+
+19110, Lec, A, 4, KEBRIA, M.CHEN, Q.ABDELLAH-EL-HA, A., MWF   12:00-12:50p, DBH 1100, Wed, Jun 12, 4:00-6:00pm, 190, 186, n/a, 198, A, Bookstore, Web, OPEN
+19111, Dis, A1, 0, CHEN, Q.ABDELLAH-EL-HA, A.KEBRIA, M., Th    2:00- 2:50p, MSTB 120,  , 50, 50, n/a, 52,  , Bookstore, Web, FULL
+19112, Dis, A2, 0, CHEN, Q.ABDELLAH-EL-HA, A.KEBRIA, M., W    2:00- 2:50p, MSTB 120,  , 50, 50, n/a, 53,  , Bookstore,  , FULL
+19113, Dis, A3, 0, CHEN, Q.ABDELLAH-EL-HA, A.KEBRIA, M., Th    1:00- 1:50p, MSTB 120,  , 50, 42, n/a, 39,  , Bookstore,  , OPEN
+19114, Dis, A4, 0, CHEN, Q.ABDELLAH-EL-HA, A.KEBRIA, M., Tu    1:00- 1:50p, ET 204,  , 50, 49, n/a, 48,  , Bookstore,  , OPEN
+
+  EngrMAE   135     COMPRESSIBLE FLOW      (Prerequisites)
+	    
+
+19120, Lec, A, 4, PAPAMOSCHOU, D.TAGHAVI NEZHAD, S., TuTh    3:30- 4:50p, DBH 1600, Tue, Jun 11, 4:00-6:00pm, 100, 94, n/a, 117, A, Bookstore, Web, OPEN
+19121, Dis, A1, 0, PAPAMOSCHOU, D.TAGHAVI NEZHAD, S., W   11:00-11:50 , SH 128,  , 50, 68, n/a, 74,  , Bookstore,  , FULL
+19122, Dis, A2, 0, PAPAMOSCHOU, D.TAGHAVI NEZHAD, S., Th   11:00-11:50 , RH 114,  , 45, 26, n/a, 27,  , Bookstore,  , OPEN
+
+  EngrMAE   145     THEORY OF MACHINES      (Prerequisites)
+	    
+
+19130, Lec, A, 4, MCCARTHY, J.SONAWALE, K.PLECNIK, M., MWF    1:00- 1:50p, EH 1200, Wed, Jun 12, 1:30-3:30pm, 200, 143, n/a, 168, A, Bookstore,  , OPEN
+19131, Dis, A1, 0, SONAWALE, K.PLECNIK, M.MCCARTHY, J., F   12:00-12:50p, MSTB 224,  , 65, 28, n/a, 31,  , Bookstore,  , OPEN
+19132, Dis, A2, 0, SONAWALE, K.PLECNIK, M.MCCARTHY, J., F    3:00- 3:50p, MSTB 224,  , 25, 6, n/a, 4,  , Bookstore,  , OPEN
+19133, Dis, A3, 0, SONAWALE, K.PLECNIK, M.MCCARTHY, J., F    2:00- 2:50p, MSTB 224,  , 65, 64, n/a, 65,  , Bookstore,  , OPEN
+19134, Dis, A4, 0, SONAWALE, K.PLECNIK, M.MCCARTHY, J., F    4:00- 4:50p, MSTB 224,  , 45, 45, n/a, 44,  , Bookstore,  , FULL
+
+  EngrMAE   155     COMP MAT STRUCTURES      (Prerequisites)
+	    
+
+19140, Lec, A, 4, VALDEVIT, L., TuTh    8:00- 9:20 , DBH 1200, Tue, Jun 11, 8:00-10:00am, 32, 26, n/a, 52, A, Bookstore, Web, OPEN
+19141, Dis, A1, 0, VALDEVIT, L., Tu    1:00- 1:50p, MSTB 120,  , 32, 26, n/a, 36,  , Bookstore,  , OPEN
+
+  EngrMAE   159     AIRCRAFT DESIGN      (Prerequisites)
+	    
+
+19150, Lec, A, 4, LIEBECK, R.PHONG, V., MW    5:00- 6:50p, ET 204,     TBA, 60, 41, n/a, 60, A and L, Bookstore, Web, OPEN
+19151, Dis, A1, 0, PHONG, V.LIEBECK, R., Th    4:30- 5:20p, ET 204,  , 60, 41, n/a, 43,  , Bookstore,  , OPEN
+
+  EngrMAE   165     ADV MANUFACTURING      (Prerequisites)
+	    
+
+19160, Lec, A, 4, MADOU, M.SHARMA, S., TuTh    3:30- 4:50p, MDE AUD, Tue, Jun 11, 4:00-6:00pm, 40, 39, n/a, 59, A, Bookstore,  , OPEN
+19161, Dis, A1, 0, MADOU, M.SHARMA, S., M    1:00- 1:50p, MDE AUD,  , 40, 39, n/a, 45,  , Bookstore,  , OPEN
+
+  EngrMAE   175     DYN/CNTL AERO VEHCL
+	    
+
+19170, Lec, A, 4, MEASE, K.SLEDGE, C., TuTh   12:30- 1:50p, SH 174, Mon, Jun 10, 1:30-3:30pm, 63, 57, n/a, 83, A, Bookstore, Web, OPEN
+19171, Dis, A1, 0, SLEDGE, C.MEASE, K., M    4:00- 4:50p, SH 174,  , 63, 57, n/a, 79,  , Bookstore,  , OPEN
+
+  EngrMAE   188     EGR DESIGN INDUSTRY
+	    
+
+19180, Lec, A, 4, GARMAN, J., MWF   10:00-10:50 , ICS 259, Mon, Jun 10, 10:30-12:30pm, 30, 16, n/a, 55, I, Bookstore, Web, OPEN
+
+  EngrMAE   189     AIAA DBF III
+	    
+
+19210, Tut, A, 1-4, LIEBECK, R.GAMERO CASTANO, M., W    7:00- 9:50p, TBA, Wed, Jun 12, 7:00-9:00pm, 30, 0, n/a, 4, B, Bookstore, Web, OPEN
+
+  EngrMAE   189     AIAA HPA III
+	    
+
+19215, Tut, B, 1-4, LIEBECK, R.MEASE, K., W    3:00- 3:50p, TBA,     TBA, 30, 8, n/a, 10, B, Bookstore, Web, OPEN
+
+  EngrMAE   189     UCI SAT III
+	    
+
+19220, Tut, C, 1-4, VILLAC, B., W    7:00- 9:50p, ET 201, Wed, Jun 12, 7:00-9:00pm, 30, 11, n/a, 7, B, Bookstore, Web, OPEN
+
+  EngrMAE   189     ROCKET PROJ III
+	    
+
+19225, Tut, D, 1-4, MEASE, K.,       TBA, TBA,     TBA, 10, 7, n/a, 8, I and B, Bookstore, Web, OPEN
+
+  EngrMAE   189     HYDROGEN ENERGY III
+	    
+
+19230, Tut, E, 1-4, WANG, Y., Th    5:30- 6:20p, EG E2123,     TBA, 10, 0, n/a, 0, I, Bookstore, Web, OPEN
+
+  EngrMAE   189     WIND ENERGY III
+	    
+
+19235, Tut, F, 1-4, WANG, Y., Th    5:30- 6:20p, EG E2123,     TBA, 20, 9, n/a, 11, I, Bookstore, Web, OPEN
+
+  EngrMAE   189     CARGO PLANE III
+	    
+
+19238, Tut, G, 1-4, LARUE, J., M    7:00- 7:50 , TBA,     TBA, 20, 0, n/a, 0, I and X, Bookstore, Web, OPEN
+
+  EngrMAE   189     REHABROBOT:ARM III
+	    
+
+19245, Tut, H, 2, REINKENSMEYER, D.,       TBA, TBA,     TBA, 4, 0, n/a, 1, B, Bookstore, Web, OPEN
+
+  EngrMAE   189     REHABROBOT:BAL III
+	    
+
+19250, Tut, I, 2-4, REINKENSMEYER, D.,       TBA, TBA,     TBA, 4, 6, n/a, 5, B, Bookstore, Web, FULL
+
+  EngrMAE   189     CD FLUIDICS III
+	    
+
+19255, Tut, K, 2, KULINSKY, L.MADOU, M.,       TBA, TBA,     TBA, 2, 1, n/a, 1, I, Bookstore, Web, OPEN
+
+  EngrMAE   189     STIRLING ENG III
+	    
+
+19258, Tut, L, 1-4, LARUE, J., Th    7:00- 7:50 , TBA,     TBA, 20, 1, n/a, 1, I and X, Bookstore, Web, OPEN
+
+  EngrMAE   189     RACECAR ENGR III
+	    
+
+19265, Tut, M, 1-4, MCCARTHY, J., MW    3:00- 4:50p, MSTB 224, Mon, Jun 10, 4:00-6:00pm, 50, 41, n/a, 42, I and X, Bookstore, Web, OPEN
+19266, Dis, M1, 0, MCCARTHY, J., M   10:00-11:50 , ET 141,  , 20, 7, n/a, 8,  , Bookstore,  , OPEN
+19267, Dis, M2, 0, MCCARTHY, J., Tu   10:00-11:50 , ET 141,  , 20, 15, n/a, 10,  , Bookstore,  , OPEN
+19268, Dis, M3, 0, MCCARTHY, J., W   10:00-11:50 , ET 141,  , 20, 8, n/a, 3,  , Bookstore,  , OPEN
+19269, Dis, M4, 0, MCCARTHY, J., Th   10:00-11:50 , ET 141,  , 20, 10, n/a, 8,  , Bookstore,  , OPEN
+
+  EngrMAE   189     RACECAR ELEC III
+	    
+
+19270, Tut, N, 2-4, MCCARTHY, J.DUNN-RANKIN, D., MW    3:00- 4:50p, TBA, Mon, Jun 10, 4:00-6:00pm, 12, 1, n/a, 6, I and X, Bookstore, Web, OPEN
+19271, Dis, N1, 0, MCCARTHY, J.DUNN-RANKIN, D., M   10:00-11:50 , TBA,  , 20, 1, n/a, 2,  , Bookstore,  , OPEN
+
+  EngrMAE   189     GAS TURB/CHILLR III
+	    
+
+19278, Tut, O, 1-4, MC DONELL, V.,       TBA, TBA,     TBA, 20, 3, n/a, 3, I, Bookstore, Web, OPEN
+
+  EngrMAE   189     SOLAR STOVE III
+	    
+
+19280, Tut, P, 1-3, GARMAN, J., M   11:00-11:50 , DBH 1431, Tue, Jun 11, 1:30-3:30pm, 20, 4, n/a, 5, I, Bookstore, Web, OPEN
+
+  EngrMAE   189     ROBOTIC RESCUE III
+	    
+
+19284, Tut, Q, 1-4, BOBROW, J.,       TBA, TBA,     TBA, 15, 3, n/a, 2, X, Bookstore, Web, OPEN
+
+  EngrMAE   189     ADV COMB TECH III
+	    
+
+19286, Tut, R, 1-4, DUNN-RANKIN, D.,       TBA, TBA,     TBA, 8, 0, n/a, 1, I and X, Bookstore, Web, OPEN
+
+  EngrMAE   189     RENEWABLE ENRGY III
+	    
+
+19292, Tut, S, 1-4, SAMUELSEN, S.,       TBA, TBA,     TBA, 6, 2, n/a, 3, X, Bookstore, Web, OPEN
+
+  EngrMAE   189     GAS TURBINE TUN III
+	    
+
+19295, Tut, T, 2, MUZIO, L.DUNN-RANKIN, D.,       TBA, TBA,     TBA, 8, 0, n/a, 0, I, Bookstore, Web, OPEN
+
+  EngrMAE   195     ENGR PROJ DEV III
+	    
+
+19300, Lec, A, 1-4, MCCARTHY, J., MW    3:00- 4:50p, MSTB 224, Mon, Jun 10, 4:00-6:00pm, 9, 3, n/a, 4, H and X, Bookstore,  , OPEN
+19301, Dis, A1, 0, MCCARTHY, J., M   10:00-11:50 , ET 141,  , 3, 3, n/a, 3, H, Bookstore,  , FULL
+19302, Dis, A2, 0, MCCARTHY, J., Tu   10:00-11:50 , ET 141,  , 3, 0, n/a, 0, H, Bookstore,  , OPEN
+19303, Dis, A3, 0, MCCARTHY, J., W   10:00-11:50 , ET 141,  , 3, 0, n/a, 0, H, Bookstore,  , OPEN
+19304, Dis, A4, 0, MCCARTHY, J., Th   10:00-11:50 , ET 141,  , 3, 0, n/a, 0, H, Bookstore,  , OPEN
+19310, Lec, B, 1-4, VILLAC, B., W    7:00- 9:50p, TBA, Wed, Jun 12, 7:00-9:00pm, 30, 0, n/a, 0, B, Bookstore,  , OPEN
+19315, Lec, C, 1-4, MEASE, K.,       TBA, TBA,     TBA, 10, 6, n/a, 6, I and B, Bookstore,  , OPEN
+19320, Lec, D, 1-4, BOBROW, J.,       TBA, TBA,     TBA, 15, 0, n/a, 0, X, Bookstore,  , OPEN
+
+  EngrMAE   198     GROUP STUDY
+	    
+
+19390, Lec, A, 1-4, MCCARTHY, J., Th    3:30- 4:50p, ET 141,     TBA, 20, 0, n/a, 1,  , Bookstore,  , OPEN
+19395, Lec, A, 1-2, MEASE, K.,       TBA, TBA,     TBA, 10, 0, n/a, 0,  , Bookstore,  , OPEN
+
+  EngrMAE   199     INDIVIDUAL STUDY
+	    
+
+19400, Tut, A, 1-4, ATLURI, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19402, Tut, B, 1-4, BOBROW, J.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19404, Tut, C, 1-4, BROUWER, J.,       TBA, TBA,     TBA, 10, 3, n/a, 2, N, Bookstore,  , OPEN
+19406, Tut, D, 1-4, DABDUB, D., Th    7:00- 7:50p, DBH 1422,     TBA, 10, 3, n/a, 3, N, Bookstore,  , OPEN
+19408, Tut, E, 1-4, DUNN-RANKIN, D.,       TBA, TBA,     TBA, 10, 5, n/a, 6, N, Bookstore,  , OPEN
+19410, Tut, F, 1-4, ELGHOBASHI, S.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19412, Tut, G, 1-4, GAMERO CASTANO, M.,       TBA, TBA,     TBA, 10, 2, n/a, 1, N, Bookstore,  , OPEN
+19414, Tut, H, 1-4, JABBARI, F.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19416, Tut, I, 1-4, LARUE, J.,       TBA, TBA,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+19418, Tut, J, 1-4, LIEBECK, R.,       TBA, TBA,     TBA, 20, 0, n/a, 1, N, Bookstore,  , OPEN
+19420, Tut, K, 1-4, LIU, F.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19422, Tut, L, 1-4, MADOU, M.,       TBA, TBA,     TBA, 10, 1, n/a, 2, N, Bookstore,  , OPEN
+19424, Tut, M, 1-4, MCCARTHY, J.,       TBA, TBA,     TBA, 10, 8, n/a, 6, N, Bookstore,  , OPEN
+19426, Tut, N, 1-4, MEASE, K.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19428, Tut, O, 1-4, PAPAMOSCHOU, D.,       TBA, TBA,     TBA, 10, 4, n/a, 5, N, Bookstore,  , OPEN
+19430, Tut, P, 1-4, RANGEL, R.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19432, Tut, Q, 1-4, REINKENSMEYER, D.,       TBA, TBA,     TBA, 10, 3, n/a, 2, N, Bookstore,  , OPEN
+19434, Tut, R, 1-4, SAMUELSEN, S.,       TBA, TBA,     TBA, 10, 2, n/a, 1, N, Bookstore,  , OPEN
+19436, Tut, S, 1-4, SHKEL, A.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19438, Tut, T, 1-4, SIDERIS, A.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19440, Tut, U, 1-4, SIRIGNANO, W.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19442, Tut, V, 1-4, VALDEVIT, L.,       TBA, TBA,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+19444, Tut, W, 1-4, VILLAC, B.,       TBA, TBA,     TBA, 10, 1, n/a, 1, N, Bookstore,  , OPEN
+19446, Tut, X, 1-4, WANG, Y.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19448, Tut, Y, 1-4, RUPERT, T.,       TBA, TBA,     TBA, 10, 0, n/a, 0, N, Bookstore,  , OPEN
+19449, Tut, Z, 1-4, WASHINGTON, G.,       TBA, TBA,     TBA, 10, 2, n/a, 2, N, Bookstore,  , OPEN
+
+  EngrMAE   207     COMPUTATIONAL MTHDS
+	    
+
+19500, Lec, A, 4, ATLURI, S., TuTh   12:30- 1:50p, DBH 1431, Mon, Jun 10, 1:30-3:30pm, 15, 16, n/a, 29, K, Bookstore,  , FULL
+
+  EngrMAE   210     ADV FUNDS COMBSTN
+	    
+
+19505, Lec, A, 4, SIRIGNANO, W., MW    2:00- 3:50p, RH 190, Wed, Jun 12, 10:30-12:30pm, 30, 9, n/a, 10, A and K, Bookstore, Web, OPEN
+
+  EngrMAE   214     FUEL CELL FUND&TECH
+	    
+
+19510, Lec, A, 4, BROUWER, J., TuTh    2:00- 3:20p, DBH 1420, Thu, Jun 13, 1:30-3:30pm, 30, 13, n/a, 28, A and K, Bookstore, Web, OPEN
+
+  EngrMAE   216     STATISTICAL THERMO
+	    
+
+19520, Lec, A, 4, DUNN-RANKIN, D., MW   10:00-11:20 , ICS 253, Mon, Jun 10, 10:30-12:30pm, 30, 13, n/a, 21, A and K, Bookstore, Web, OPEN
+
+  EngrMAE   218     SUSTAINABLE ENERGY
+	    
+
+19525, Lec, A, 4, MUZIO, L., TuTh    6:00- 7:20p, ET 202,     TBA, 17, 20, n/a, 35, A and K, Bookstore, Web, FULL
+19526, Dis, A1, 0, MUZIO, L., Th    7:30- 8:20p, ET 202,  , 17, 19, n/a, 29,  , Bookstore, Web, FULL
+
+  EngrMAE   221     CONV HEAT/MASS TRAN
+	    
+
+19530, Lec, A, 4, WANG, Y., TuTh   11:00-12:20p, DBH 1425, Tue, Jun 11, 10:30-12:30pm, 30, 13, n/a, 23, K, Bookstore, Web, OPEN
+
+  EngrMAE   230C     COMP FLUID DYNAMICS
+	    
+
+19540, Lec, A, 4, XIONG, J., MWF   12:00-12:50p, ICS 259, Wed, Jun 12, 4:00-6:00pm, 30, 12, n/a, 15, A and K, Bookstore, Web, OPEN
+19541, Dis, A1, 0, XIONG, J., F    1:00- 1:50p, ICS 259,  , 30, 12, n/a, 15,  , Bookstore, Web, OPEN
+
+  EngrMAE   255     COMP MAT STRUCTURES
+	    
+
+19570, Lec, A, 4, VALDEVIT, L., TuTh    8:00- 9:20 , DBH 1200, Tue, Jun 11, 8:00-10:00am, 20, 8, n/a, 13, A and K, Bookstore, Web, OPEN
+19571, Dis, A1, 0, VALDEVIT, L., Tu    1:00- 1:50p, MSTB 120,  , 20, 7, n/a, 14,  , Bookstore,  , OPEN
+
+  EngrMAE   260     ISSUES ATMOS CHEM
+	    
+
+19580, Lec, A, 4, SAMUELSEN, S.STAFF, M    2:00- 5:20p, TBA, Wed, Jun 12, 10:30-12:30pm, 30, 14 / 28, n/a, 18, A and K, Bookstore, Web, OPEN
+ ,  , 
+		
+			        (same as 41485 Chem 241, Lec A)
+			
+		    , 
+			        (same as 41485 Chem 241, Lec A)
+			,  ,  
+
+			        (same as 41485 Chem 241, Lec A)
+			
+
+  EngrMAE   265     ADV MANUFACTURING
+	    
+
+19585, Lec, A, 4, MADOU, M.SHARMA, S., TuTh    3:30- 4:50p, MDE AUD, Tue, Jun 11, 4:00-6:00pm, 25, 25, n/a, 41, A and K, Bookstore,  , FULL
+
+  EngrMAE   294     M.S. PROJECT
+	    
+
+19650, Res, A, 4, ATLURI, S., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19652, Res, B, 4, BOBROW, J., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19654, Res, C, 4, BROUWER, J., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 1, K, Bookstore,  , OPEN
+19656, Res, D, 4, DABDUB, D., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19658, Res, E, 4, DUNN-RANKIN, D., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19660, Res, F, 4, ELGHOBASHI, S., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19662, Res, G, 4, GAMERO CASTANO, M., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19664, Res, H, 4, JABBARI, F., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19666, Res, I, 4, LARUE, J., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19668, Res, J, 4, LIEBECK, R., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19670, Res, K, 4, LIU, F., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 1, K, Bookstore,  , OPEN
+19672, Res, L, 4, MADOU, M., Sa    9:00-11:50 , EG S3231,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+19674, Res, M, 4, MCCARTHY, J., Sa    9:00-11:50 , TBA,     TBA, 30, 4, n/a, 4, K, Bookstore,  , OPEN
+19676, Res, N, 4, MEASE, K., Sa    9:00-11:50 , TBA,     TBA, 30, 2, n/a, 2, K, Bookstore,  , OPEN
+19678, Res, O, 4, PAPAMOSCHOU, D., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19680, Res, P, 4, RANGEL, R., Sa   10:30-12:20p, TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19682, Res, Q, 4, REINKENSMEYER, D., Sa    9:00-11:50 , EG S3225,     TBA, 10, 0, n/a, 2, K, Bookstore,  , OPEN
+19684, Res, R, 4, SAMUELSEN, S., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19686, Res, S, 4, SHKEL, A., Sa    9:00-11:50 , EG S4208,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+19688, Res, T, 4, SIDERIS, A., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19690, Res, U, 4, SIRIGNANO, W., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19692, Res, V, 4, VALDEVIT, L., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19694, Res, W, 4, VILLAC, B., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19696, Res, X, 4, WANG, Y., Sa    9:00-11:50 , TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19697, Res, Y, 4, RUPERT, T., Sa    9:00-11:50 , TBA,     TBA, 30, 2, n/a, 3, K, Bookstore,  , OPEN
+
+  EngrMAE   295     MICROMECH OF SOLIDS
+	    
+
+19720, Lec, A, 4, RUPERT, T., TuTh    9:30-10:50 , DBH 1422, Thu, Jun 13, 8:00-10:00am, 20, 13, n/a, 23, K, Bookstore, Web, OPEN
+
+  EngrMAE   295     CONVEX OPT & APPL
+	    
+
+19730, Lec, A, 4, JABBARI, F., TuTh    5:00- 6:20p, DBH 1423, Thu, Jun 13, 4:00-6:00pm, 10, 7, n/a, 16, K and B, Bookstore,  , OPEN
+
+  EngrMAE   296     MS THESIS RESEARCH
+	    
+
+19750, Res, A, 1-16, ATLURI, S.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19752, Res, B, 1-16, BOBROW, J.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+19754, Res, C, 1-16, BROUWER, J.,       TBA, TBA,     TBA, 999, 12, n/a, 12, K, Bookstore,  , OPEN
+19756, Res, D, 1-16, DABDUB, D.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19758, Res, E, 1-16, DUNN-RANKIN, D.,       TBA, TBA,     TBA, 999, 3, n/a, 4, K, Bookstore,  , OPEN
+19760, Res, F, 1-16, ELGHOBASHI, S.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19762, Res, G, 1-16, GAMERO CASTANO, M.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19764, Res, H, 1-16, JABBARI, F.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19766, Res, I, 1-16, LARUE, J.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19768, Res, J, 1-16, LIEBECK, R.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19770, Res, K, 1-16, LIU, F.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19772, Res, L, 1-16, MADOU, M.,       TBA, TBA,     TBA, 10, 0, n/a, 1, K, Bookstore,  , OPEN
+19774, Res, M, 1-16, MCCARTHY, J., W    7:00-10:20p, TBA, Wed, Jun 12, 7:00-9:00pm, 30, 1, n/a, 2, K, Bookstore,  , OPEN
+19776, Res, N, 1-16, MEASE, K.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19778, Res, O, 1-16, PAPAMOSCHOU, D.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19780, Res, P, 1-16, RANGEL, R.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19782, Res, Q, 1-16, REINKENSMEYER, D.,       TBA, TBA,     TBA, 999, 4, n/a, 4, K, Bookstore,  , OPEN
+19784, Res, R, 1-16, SAMUELSEN, S.,       TBA, TBA,     TBA, 999, 11, n/a, 11, K, Bookstore,  , OPEN
+19786, Res, S, 1-16, SHKEL, A.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19788, Res, T, 1-16, SIDERIS, A.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19790, Res, U, 1-16, SIRIGNANO, W.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+19792, Res, V, 1-16, VALDEVIT, L.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19794, Res, W, 1-16, VILLAC, B., F    6:00- 6:50p, TBA,     TBA, 999, 4, n/a, 4, K, Bookstore,  , OPEN
+19796, Res, X, 1-16, WANG, Y.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19798, Res, Y, 1-16, RUPERT, T.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19799, Res, Z, 1-16, WASHINGTON, G.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  EngrMAE   297     PHD DISSERTATN RSCH
+	    
+
+19800, Res, A, 1-16, ATLURI, S.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+19802, Res, B, 1-16, BOBROW, J.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19804, Res, C, 1-16, BROUWER, J.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19806, Res, D, 1-16, DABDUB, D.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19808, Res, E, 1-16, DUNN-RANKIN, D.,       TBA, TBA,     TBA, 999, 4, n/a, 4, K, Bookstore,  , OPEN
+19810, Res, F, 1-16, ELGHOBASHI, S.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19812, Res, G, 1-16, GAMERO CASTANO, M.,       TBA, TBA,     TBA, 999, 4, n/a, 4, K, Bookstore,  , OPEN
+19814, Res, H, 1-16, JABBARI, F.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19815, Res, HH, 1-16, KHERADVAR, A.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19816, Res, I, 1-16, LARUE, J.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+19818, Res, J, 1-16, LIEBECK, R.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19820, Res, K, 1-16, LIU, F.,       TBA, TBA,     TBA, 999, 3, n/a, 4, K, Bookstore,  , OPEN
+19822, Res, L, 1-16, MADOU, M.,       TBA, TBA,     TBA, 999, 1, n/a, 3, K, Bookstore,  , OPEN
+19824, Res, M, 1-16, MCCARTHY, J.,       TBA, TBA,     TBA, 30, 5, n/a, 5, K, Bookstore,  , OPEN
+19826, Res, N, 1-16, MEASE, K.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+19828, Res, O, 1-16, PAPAMOSCHOU, D.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19830, Res, P, 1-16, RANGEL, R.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+19832, Res, Q, 1-16, REINKENSMEYER, D.,       TBA, TBA,     TBA, 999, 3, n/a, 3, K, Bookstore,  , OPEN
+19834, Res, R, 1-16, SAMUELSEN, S.,       TBA, TBA,     TBA, 999, 9, n/a, 9, K, Bookstore,  , OPEN
+19836, Res, S, 1-16, SHKEL, A.,       TBA, TBA,     TBA, 10, 4, n/a, 4, K, Bookstore,  , OPEN
+19838, Res, T, 1-16, SIDERIS, A.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19840, Res, U, 1-16, SIRIGNANO, W.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19842, Res, V, 1-16, VALDEVIT, L.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19844, Res, W, 1-16, VILLAC, B.,       TBA, TBA,     TBA, 999, 2, n/a, 2, K, Bookstore,  , OPEN
+19846, Res, X, 1-16, WANG, Y.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19848, Res, Y, 1-16, RUPERT, T.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19849, Res, Z, 1-16, WASHINGTON, G.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  EngrMAE   298     SEMINARS IN MAE
+	    
+
+19850, Sem, A, 1, RUPERT, T., F   10:30-11:50 , MDE AUD,     TBA, 100, 44, n/a, 53, K, Bookstore,  , OPEN
+
+  EngrMAE   299     INDIVIDUAL RESEARCH
+	    
+
+19900, Res, A, 1-16, ATLURI, S.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19902, Res, B, 1-16, BOBROW, J.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19904, Res, C, 1-16, BROUWER, J.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+19906, Res, D, 1-16, DABDUB, D.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+19908, Res, E, 1-16, DUNN-RANKIN, D.,       TBA, TBA,     TBA, 999, 3, n/a, 4, K, Bookstore,  , OPEN
+19910, Res, F, 1-16, ELGHOBASHI, S.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19912, Res, G, 1-16, GAMERO CASTANO, M.,       TBA, TBA,     TBA, 999, 0, n/a, 1, K, Bookstore,  , OPEN
+19914, Res, H, 1-16, JABBARI, F.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19916, Res, I, 1-16, LARUE, J.,       TBA, TBA,     TBA, 999, 2, n/a, 1, K, Bookstore,  , OPEN
+19918, Res, J, 1-16, LIEBECK, R.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19920, Res, K, 1-16, LIU, F.,       TBA, TBA,     TBA, 999, 0, n/a, 1, K, Bookstore,  , OPEN
+19922, Res, L, 1-16, MADOU, M.,       TBA, TBA,     TBA, 10, 3, n/a, 3, K, Bookstore,  , OPEN
+19924, Res, M, 1-16, MCCARTHY, J., F    7:00- 7:50p, TBA,     TBA, 30, 0, n/a, 0, K, Bookstore,  , OPEN
+19926, Res, N, 1-16, MEASE, K.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19928, Res, O, 1-16, PAPAMOSCHOU, D.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19930, Res, P, 1-16, RANGEL, R.,       TBA, TBA,     TBA, 999, 1, n/a, 2, K, Bookstore,  , OPEN
+19932, Res, Q, 1-16, REINKENSMEYER, D.,       TBA, TBA,     TBA, 10, 0, n/a, 0, K, Bookstore,  , OPEN
+19934, Res, R, 1-16, SAMUELSEN, S.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19936, Res, S, 1-16, SHKEL, A.,       TBA, TBA,     TBA, 10, 2, n/a, 2, K, Bookstore,  , OPEN
+19938, Res, T, 1-16, SIDERIS, A.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19940, Res, U, 1-16, SIRIGNANO, W.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+19942, Res, V, 1-16, VALDEVIT, L.,       TBA, TBA,     TBA, 999, 1, n/a, 2, K, Bookstore,  , OPEN
+19944, Res, W, 1-16, VILLAC, B.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19946, Res, X, 1-16, WANG, Y.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19948, Res, Y, 1-16, RUPERT, T.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19949, Res, Z, 1-16, WASHINGTON, G.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19950, Res, AA, 1-16, KEYAK, J.,       TBA, TBA,     TBA, 999, 0, n/a, 0, K, Bookstore,  , OPEN
+19951, Res, BB, 1-16, KULINSKY, L.,       TBA, TBA,     TBA, 999, 1, n/a, 1, K, Bookstore,  , OPEN
+

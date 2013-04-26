@@ -1,0 +1,231 @@
+UCI Home, :, Schedule of Classes, :, WebReg, :, StudentAccess, :, WebAdmin
+School of Medicine
+Pathology and Laboratory Medicine
+  Path   200C     OXIDATIVE STRESS
+	    
+
+93010, Res, 1, 2-12, CHAN, J.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Path   200C     RES EXP PATHOLOGY
+	    
+
+93012, Res, 2, 2-12, CHANDY, G.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93013, Res, 3, 2-12, CHEN, D.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Path   200C     CHLAMYDIA VACCINES
+	    
+
+93014, Res, 4, 2-12, DE LA MAZA, L.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     G-PROTEINS AND IBD
+	    
+
+93016, Res, 5, 2-12, EDWARDS, R.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     RES EXP PATHOLOGY
+	    
+
+93017, Res, 6, 2-12, FISHER, M.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     MOSQUITOES/PATHOGEN
+	    
+
+93022, Res, 8, 2-12, JAMES, A.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     NEURODEGENERATION
+	    
+
+93026, Res, 10, 2-12, MARSH, J.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     RES EXP PATHOLOGY
+	    
+
+93028, Res, 11, 2-12, MERCOLA, D.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     CEREBRAL CORTEX DEV
+	    
+
+93030, Res, 12, 2-12, MONUKI, E.,       TBA, TBA,     TBA, 40, 3, n/a, 3, K, Bookstore,  , OPEN
+
+  Path   200C     CHLAMYDIA PATHOGEN
+	    
+
+93034, Res, 13, 2-12, PETERSON, E.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     HIV PATHOGENESIS
+	    
+
+93036, Res, 14, 2-12, ROBINSON, W.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     RES EXP PATHOLOGY
+	    
+
+93040, Res, 15, 2-12, SZABO, S.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   200C     COMPLEMENT IN AD
+	    
+
+93042, Res, 16, 2-12, TENNER, A.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K, Bookstore,  , OPEN
+
+  Path   200C     ENDOCRINE ACTIONS
+	    
+
+93044, Res, 17, 2-12, WANG, P.,       TBA, TBA,     TBA, 40, 2, n/a, 2, K, Bookstore,  , OPEN
+
+  Path   200R     FIRST YEAR RESEARCH
+	    
+
+93110, Lab, 1, 2-12, CHAN, J.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93112, Lab, 2, 2-12, CHANDY, G.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93113, Lab, 3, 2-12, CHEN, D.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93114, Lab, 4, 2-12, DE LA MAZA, L.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93116, Lab, 5, 2-12, EDWARDS, R.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93117, Lab, 6, 2-12, FISHER, M.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93122, Lab, 8, 2-12, JAMES, A.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93126, Lab, 10, 2-12, MARSH, J.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93128, Lab, 11, 2-12, MERCOLA, D.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93130, Lab, 12, 2-12, MONUKI, E.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93134, Lab, 13, 2-12, PETERSON, E.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93136, Lab, 14, 2-12, ROBINSON, W.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93138, Lab, 15, 2-12, SZABO, S.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93140, Lab, 16, 2-12, TENNER, A.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93142, Lab, 17, 2-12, WANG, P.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K and S, Bookstore,  , OPEN
+
+  Path   203C     ADV STUDY EXP PATH
+	    
+
+93150, Tut, A, 1, CHAN, J.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K, Bookstore,  , OPEN
+93152, Tut, B, 1, CHANDY, G.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93153, Tut, C, 1, CHEN, D.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K, Bookstore,  , OPEN
+93154, Tut, D, 1, DE LA MAZA, L.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93156, Tut, E, 1, EDWARDS, R.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93157, Tut, F, 1, FISHER, M.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93162, Tut, H, 1, JAMES, A.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93166, Tut, J, 1, MARSH, J.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93168, Tut, K, 1, MERCOLA, D.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93170, Tut, L, 1, MONUKI, E.,       TBA, TBA,     TBA, 40, 2, n/a, 2, K, Bookstore,  , OPEN
+93174, Tut, M, 1, PETERSON, E.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93176, Tut, N, 1, ROBINSON, W.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93178, Tut, O, 1, SZABO, S.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+93180, Tut, P, 1, TENNER, A.,       TBA, TBA,     TBA, 40, 1, n/a, 1, K, Bookstore,  , OPEN
+93182, Tut, Q, 1, WANG, P.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K, Bookstore,  , OPEN
+
+  Path   204C     EXP PATH SEMINAR
+	    
+
+93200, Sem, A, 1, MONUKI, E., F    9:00- 9:50 , TBA,     TBA, 40, 5, n/a, 5, K and S, Bookstore,  , OPEN
+
+  Path   292C     SCIENTIFIC COMMUNCN
+	    
+
+93400, Sem, A, 2, CHEN, D.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93402, Sem, B, 2, MERCOLA, D.,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93404, Sem, C, 2, STAFF,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93406, Sem, D, 2, STAFF,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+93408, Sem, E, 2, STAFF,       TBA, TBA,     TBA, 40, 0, n/a, 0, K and S, Bookstore,  , OPEN
+
+  Path   508A     GEN & SYS PATHOLOGY
+	    
+
+97445, Lec, A, 10.1, KIM, R.,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   508B     GEN & SYS PATHOLOGY
+	    
+
+97446, Lec, A, 6.3, KIM, R.,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   509A     CLINICAL PATHOLOGY
+	    
+
+97450, Lec, A, 5.1, NEWMAN, R.,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655A     AUTOPSY PATHOLOGY
+	    
+
+97460, Lec, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655B     BLOOD BANKING
+	    
+
+97461, Lec, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 1, n/a, 1, L and R, Bookstore,  , OPEN
+
+  Path   655C     CLINICAL CHEMISTRY
+	    
+
+97462, Sem, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655D     CLIN MICROBIO PATH
+	    
+
+97463, Fld, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655E     HEMATOLOGY
+	    
+
+97464, Sem, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655F     COAGULOPATHIES
+	    
+
+97465, Fld, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655G     CYTOLOGY PATHOLOGY
+	    
+
+97466, Fld, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655I     ELECTRON MICROSCOPY
+	    
+
+97468, Fld, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655J     FORENSIC PATHOLOGY
+	    
+
+97469, Fld, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 1, n/a, 1, L and R, Bookstore,  , OPEN
+
+  Path   655K     HEME/IMMUNO
+	    
+
+97470, Fld, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655L     HEMATOPATHOLOGY
+	    
+
+97471, Lec, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 1, n/a, 1, L and R, Bookstore,  , OPEN
+
+  Path   655M     SURGICAL PATHOLOGY
+	    
+
+97472, Lec, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   655N     NEUROPATHOLOGY
+	    
+
+97473, Lec, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 1, n/a, 1, L and R, Bookstore,  , OPEN
+
+  Path   655P     OB/GYN PATHOLOGY
+	    
+
+97475, Fld, A, 8-16, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   692T     PATH FELLOWSHIP
+	    
+
+97484, Res, A, 0-22, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   693T     EXTRAMURAL/PATH
+	    
+
+97485, Fld, A, 0-30, STAFF,       TBA, TBA,     TBA, 999, 1, n/a, 1, L and R, Bookstore,  , OPEN
+
+  Path   699T2     RESEARCH/CLIN PATH
+	    
+
+97489, Res, A, 0-30, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
+  Path   699T3     RESEARCH/EXPER PATH
+	    
+
+97490, Res, A, 0-30, STAFF,       TBA, TBA,     TBA, 999, 0, n/a, 0, L and R, Bookstore,  , OPEN
+
