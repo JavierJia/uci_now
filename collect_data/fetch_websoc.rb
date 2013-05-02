@@ -33,18 +33,30 @@ def parse_html(file)
     items=[]
     colums= ['code','type','sec','unit','instructor','time','place','final','max','enr']
     page = Nokogiri::HTML(open(file))
-    hash={}
-    hash['college'] = page.css('tr[class="college-title"]').text
-    hash['dept'] = page.css('tr[class="dept-title"]').text
     trs = page.css('div.course-list').css('tr')
+
+    college = page.css('tr[class="college-title"]').text.strip
+    dept    = page.css('tr[class="dept-title"]').text.strip
     trs.each do |tr|
         if tr['bgcolor']=='#fff0ff' and tr['valign']=='top'
             course = tr.css('td').css('font').css('b').text 
-            hash['course'] = course
         end
         if tr['bgcolor']=='#FFFFCC' and tr['valign']=='top'
+            hash={ 'college' => college, 'dept' => dept , 'course' => course}
             for id in 0..colums.length-1
-                hash[colums[id]] = tr.css('td')[id].text
+                if colums[id] == 'time'
+                    weektime = tr.css('td')[id].text.strip.split
+                    hash['weekday'] = weektime[0].strip
+                    timestr = ''
+                    weektime[1..-1].each {|part| timestr +=part.strip if part =~ /\d/}
+                    hash['timestr'] = timestr.strip
+                    if timestr.split('-').length == 2
+                        hash['start'] = timestr.split('-')[0].strip
+                        hash['stop'] = timestr.split('-')[1].strip
+                    end
+                else
+                    hash[colums[id]] = tr.css('td')[id].text.strip
+                end
             end
             items << encode(hash)
             #puts encode(hash)
