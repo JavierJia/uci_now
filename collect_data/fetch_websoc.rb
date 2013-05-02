@@ -35,7 +35,7 @@ def encode(hash)
         if key == 'max'
             message += value
         elsif key == 'start' or key == 'stop'
-            message += 'time:("' + value + '")'
+            message += 'time("' + value + '")'
         else
             message += '"' + value + '"'
         end
@@ -105,14 +105,14 @@ def fetch_websoc()
     depts.each { |dept| puts dept['value']; reqest_by_dept(dept['value']) }
 end
 
-def convert_json()
+def convert_adm()
     Dir.glob(LOCAL_DIR + '/*.html') do |html|
         puts html
-        File.open("#{html}.json", 'w'){|f|  
+        File.open("#{html}.adm", 'w'){|f|  
             msgs = parse_html html
             msgs.each {|msg| f.puts msg }
         }
     end
 end
 
-convert_json
+convert_adm
