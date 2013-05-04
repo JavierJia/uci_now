@@ -6,28 +6,25 @@ create type WebSocType as open {
     college: string,
     dept: string,
     course: string,
-    code: string,
+    code: int32,
     ctype: string,
     sec: string,
     unit:string,
     instructor:string,
     weekday:string,
     timestr:string,
+    timestop:time?,
+    timestart:time?,
     place:string,
     final:string,
-    max:int16,
-    enr:string,
-    start:time?,
-    stop:time?
+    max:int32,
+    enr:string
 }
 
-create dataset WebSoc(WebSocType);
-primary key code;
+create dataset WebSoc(WebSocType) primary key code;
 
 create index deptIdx on WebSoc(dept);
 create index courseIdx on WebSoc(course);
 create index placeIdx on WebSoc(place);
-create index startIdx on WebSoc(start);
-
-for $ds in dataset Metadata.Dataset return $ds;
-for $ix in dataset Metadata.Index return $ix;
+create index startIdx on WebSoc(timestart);
+create index stopIdx on WebSoc(timestart);

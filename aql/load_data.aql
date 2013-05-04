@@ -1,5 +1,5 @@
 use dataverse UCINow;
 
 load dataset WebSoc using localfs
-(("path"="127.0.0.1":///home/jianfeng/workspace/code/cs212/uci_now/data/raw/websoc /*.json"),("format"="adm"));
+(("path"="127.0.0.1:///home/jianfeng/workspace/code/cs212/uci_now/data/adm/websoc/soc-BSEMD.html.adm"),("format"="adm"));
 

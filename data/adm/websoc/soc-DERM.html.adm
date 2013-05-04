@@ -1,0 +1,5 @@
+{ "college":"School of Medicine","dept":"Dermatology","course":"INTRO TO DERM","code":97153,"ctype":"Fld","sec":"A","unit":"8","instructor":"STAFF","weekday":" ","timestr":"","place":"TBA","final":"    TBA","max":999,"enr":"3" }
+{ "college":"School of Medicine","dept":"Dermatology","course":"DERMTOLOGY ELECTIVE","code":97154,"ctype":"Fld","sec":"A","unit":"16","instructor":"STAFF","weekday":" ","timestr":"","place":"TBA","final":"    TBA","max":999,"enr":"0" }
+{ "college":"School of Medicine","dept":"Dermatology","course":"DERM/PATHOLOGY ELEC","code":97156,"ctype":"Fld","sec":"A","unit":"8-16","instructor":"STAFF","weekday":" ","timestr":"","place":"TBA","final":"    TBA","max":999,"enr":"0" }
+{ "college":"School of Medicine","dept":"Dermatology","course":"EXTRAMURAL/DERM","code":97158,"ctype":"Fld","sec":"A","unit":"8-50","instructor":"STAFF","weekday":" ","timestr":"","place":"TBA","final":"    TBA","max":999,"enr":"4" }
+{ "college":"School of Medicine","dept":"Dermatology","course":"RESEARCH/DERM","code":97159,"ctype":"Res","sec":"A","unit":"8-50","instructor":"STAFF","weekday":" ","timestr":"","place":"TBA","final":"    TBA","max":999,"enr":"0" }
