@@ -49,7 +49,7 @@ def creat_ddl ()
 end
 
 def load_ddl_websoc ()
-    Dir.glob( ADM_DIR + 'websoc/*.adm') do |adm|
+    Dir.glob( ADM_DIR + 'websoc/merge.adm') do |adm|
         Logger.info 'load ' + adm
         request_to_database(UPDATE_POINT, form_param(load_script_format('WebSoc', File.absolute_path(adm)))) \
             if File.size(adm) > 0
