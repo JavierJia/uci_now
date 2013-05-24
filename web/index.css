@@ -1,0 +1,156 @@
+body {
+	margin:0;
+	padding:0;
+    font-size: 12pt;
+    background-color: white;
+    font-family: Arial,Sans-serif;
+}
+
+#top {
+	background-color: #086ca2;
+	height: 100px;
+    width: 100%;
+}
+
+#left {
+    height: 85%; width: 25%; top: 3px; left: 2px;
+	background-color: #A9F5F2;	
+}
+
+#center {
+    position: absolute;
+    height: 85%; width: 75%; 
+    top: 100px; left: 25%;
+}
+
+#inputBoxes{
+	margin-left:25px;
+	margin-right:20px;
+}
+
+#logoImg{
+	margin-top:2px;
+	margin-left:5px;
+	margin-right:20px;
+}
+
+#map-canvas { 
+    width: 100%; 
+    height: 100%; 
+    position: relative; 
+    overflow: scroll; 
+/*    -webkit-transform: translateZ(0);
+ */
+}
+
+#searchText
+{
+	font-size: 20px;
+	color: #086ca2;
+	height: 25px;
+	width: 300px;
+	margin-top:15px;
+	
+	padding: 4px 0px 4px 4px;
+	
+	border: solid 3px #ffba00;
+	
+	outline: none;
+	
+	-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;
+}
+
+
+#info {
+	color:white;
+	font-weight:bold;
+	position:absolute;
+	right:10px;
+	top:8px;
+}
+
+.result-list-map-icon {
+	height: 20px;
+	/*overflow: hidden;*/
+}
+.result-list-secondary-details{
+	margin-left: 5px;	
+}
+
+.result-list-primary-title{
+	margin-left: 5px;
+	font-size: 15pt;		
+}
+
+  
+.distance{
+	color:#086ca2;
+	font-weight:bold;
+	font-style:italic;
+	font-size:10pt;
+	float:right;
+	padding-top: 5px;
+}
+
+.infoWindowTitle{
+	margin:0 0 7px 0;
+	font-size: 15pt;
+	font-weight:bold;
+	color: #086ca2;
+}
+
+.priorityIcon {
+	margin: 0 2px 3px 3px;
+}
+
+.pac-container
+{
+	text-align:left;
+}
+
+tbody
+{
+    text-align: center;
+}
+
+td
+{
+    text-align: left;
+    padding: 3px;
+}
+
+.highlight
+{
+    font-weight: bold;
+    color: #034569;
+}
+
+.entry
+{
+	color: #086ca2;
+    cursor: pointer;
+    background-color: white;
+    font-size: 10pt;
+   /* border: 1px solid #a5d0e8;*/
+    padding: 3px;
+}
+
+.entry:hover
+{
+    background-color: #a5d0e8;
+}
+
+.entry2
+{
+    cursor: pointer;
+    background-color: white;
+    font-size: 10pt;
+    /*border: 1px solid #a5d0e8;
+    padding: 3px; */
+}
+
+.entry2:hover
+{
+    background-color: #a5d0e8;
+}
+

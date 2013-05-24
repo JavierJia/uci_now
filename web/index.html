@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="index.css"> 
+<script type="text/javascript"
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAro7nL7uI5ShTXZ4MKJNruNMt8I67EXv4&sensor=true">
+</script>
+<script type="text/javascript">
+function initialize() {
+    var mapOptions = {
+        center: new google.maps.LatLng(33.643465, -117.841996),
+        zoom: 16,
+        mapTypeId: google.maps.MapTypeId.HYBRID
+    };
+    var map = new google.maps.Map(document.getElementById("map-canvas"),
+        mapOptions);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+<body>
+<div id="layout">
+    <div id="top">
+        <div id="inputBox">
+            <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img id="logoImg" src="ic_launcher.png">
+                    </td>
+                    <td>
+                        <input id="searchText" value="multimedia">
+                    </td>
+                </tr>
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="left">
+        <div id="listView">
+            <div id="resultContainer"  style='overflow: auto;'>
+            </div>
+        </div>
+    </div>
+    <div id="center">
+        <div id="map-canvas">
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
