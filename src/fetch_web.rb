@@ -116,4 +116,18 @@ def convert_adm()
     end
 end
 
-convert_adm
+def fetch_roomfinder(url)
+    page = Nokogiri::HTML(open(url))
+    trs = page.css('table.data').css('tr.odd')
+    trs += page.css('table.data').css('tr.even')
+    trs.each do |tr|
+        oneline = ''
+        for id in 0..3
+            oneline += tr.css('td')[id].text.strip + "\t"
+        end
+        puts oneline.strip
+    end
+end
+
+#convert_adm
+fetch_roomfinder 'https://eee.uci.edu/toolbox/roomfinder/index.php'
