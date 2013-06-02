@@ -33,7 +33,7 @@ def encode(hash)
     message = '{ '
     hash.each do |key, value|
         message += '"' + key + '":' 
-        if key == 'max' or key == 'code'
+        if key == 'max' or key == 'code' or key == 'buildid'
             message += value
         elsif key == 'timestart' or key == 'timestop'
             message += 'time("' + value + '")'
@@ -117,17 +117,19 @@ def convert_adm()
 end
 
 def fetch_roomfinder(url)
+    keys=["buildid","fullname","abbr","ucimap"]
     page = Nokogiri::HTML(open(url))
     trs = page.css('table.data').css('tr.odd')
     trs += page.css('table.data').css('tr.even')
     trs.each do |tr|
-        oneline = ''
+        hash={}
         for id in 0..3
-            oneline += tr.css('td')[id].text.strip + "\t"
+            hash[keys[id]]= tr.css('td')[id].text.strip;
         end
-        puts oneline.strip
+        puts encode(hash)
     end
 end
 
 #convert_adm
 fetch_roomfinder 'https://eee.uci.edu/toolbox/roomfinder/index.php'
+

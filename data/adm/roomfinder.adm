@@ -1,0 +1,203 @@
+{ "buildid":423,"fullname":"Administrative Computing Services","abbr":"","ucimap":"G5" }
+{ "buildid":94,"fullname":"Air Pollution Labs","abbr":"APL","ucimap":"B2" }
+{ "buildid":233,"fullname":"Alumni House","abbr":"AH","ucimap":"D7" }
+{ "buildid":21,"fullname":"American Heart Association","abbr":"","ucimap":"B9" }
+{ "buildid":653,"fullname":"Anteater Instruction & Research Building","abbr":"AIRB","ucimap":"E7" }
+{ "buildid":911,"fullname":"Anteater Stadium","abbr":"","ucimap":"E2" }
+{ "buildid":727,"fullname":"Art Culture & Technology","abbr":"ACT","ucimap":"D4" }
+{ "buildid":522,"fullname":"Arts Computation Engineering Trailers","abbr":"ACE","ucimap":"E4" }
+{ "buildid":58,"fullname":"Arts Student Affairs","abbr":"","ucimap":"D3" }
+{ "buildid":712,"fullname":"Beall Center for Art & Technology","abbr":"","ucimap":"D4" }
+{ "buildid":817,"fullname":"Beckman Laser Institute","abbr":"BLI","ucimap":"G3" }
+{ "buildid":9,"fullname":"Bike Shop","abbr":"","ucimap":"C4" }
+{ "buildid":519,"fullname":"Biological Sciences III","abbr":"BS3","ucimap":"F4" }
+{ "buildid":901,"fullname":"Bren Events Center","abbr":"","ucimap":"D3" }
+{ "buildid":314,"fullname":"Bren Hall","abbr":"DBH","ucimap":"F6" }
+{ "buildid":800,"fullname":"Cafe Med","abbr":"","ucimap":"F3" }
+{ "buildid":6,"fullname":"Campus Information","abbr":"","ucimap":"D8" }
+{ "buildid":502,"fullname":"Cancer Research Institute","abbr":"","ucimap":"E4" }
+{ "buildid":0,"fullname":"Center for Research on Info. Tech. & Org.","abbr":"","ucimap":"I4" }
+{ "buildid":516,"fullname":"Center for the Neurobiology of Learning & Memory","abbr":"CNLM","ucimap":"E4" }
+{ "buildid":825,"fullname":"Cheney Hall","abbr":"","ucimap":"F3" }
+{ "buildid":653,"fullname":"Children's Center","abbr":"","ucimap":"D9" }
+{ "buildid":711,"fullname":"Claire Trevor Theatre","abbr":"CTT","ucimap":"D4" }
+{ "buildid":419,"fullname":"Corporate Development","abbr":"","ucimap":"B6" }
+{ "buildid":105,"fullname":"Counseling Center","abbr":"","ucimap":"D5" }
+{ "buildid":919,"fullname":"Crawford Clubhouse","abbr":"","ucimap":"E3" }
+{ "buildid":903,"fullname":"Crawford Hall","abbr":"CH","ucimap":"E3" }
+{ "buildid":103,"fullname":"Cross-Cultural Center","abbr":"CRCC","ucimap":"D5" }
+{ "buildid":712,"fullname":"CyberA Cafe","abbr":"","ucimap":"D4" }
+{ "buildid":313,"fullname":"Disability Services Center","abbr":"","ucimap":"E6" }
+{ "buildid":603,"fullname":"Drama Design Laboratory","abbr":"","ucimap":"E5" }
+{ "buildid":3,"fullname":"Education","abbr":"EDUC","ucimap":"D7" }
+{ "buildid":317,"fullname":"Engineering & Computing Trailer","abbr":"ECT","ucimap":"E6" }
+{ "buildid":308,"fullname":"Engineering Hall","abbr":"EH","ucimap":"F6" }
+{ "buildid":305,"fullname":"Engineering Lecture Hall","abbr":"ELH","ucimap":"E6" }
+{ "buildid":41,"fullname":"Env. Health & Safety Services Facility","abbr":"","ucimap":"H4" }
+{ "buildid":97,"fullname":"Facilities Management Shops","abbr":"","ucimap":"C2" }
+{ "buildid":31,"fullname":"Faculty/Staff Housing Office","abbr":"","ucimap":"G6" }
+{ "buildid":684,"fullname":"Field Building","abbr":"","ucimap":"D11" }
+{ "buildid":101,"fullname":"Gateway Study Center","abbr":"GC","ucimap":"D5" }
+{ "buildid":820,"fullname":"Gottschalk Medical Plaza","abbr":"","ucimap":"F2" }
+{ "buildid":845,"fullname":"Gross Hall","abbr":"","ucimap":"G3" }
+{ "buildid":0,"fullname":"Health Policy Research","abbr":"","ucimap":"F1" }
+{ "buildid":512,"fullname":"Herklotz Research Facility","abbr":"","ucimap":"E4" }
+{ "buildid":843,"fullname":"Hewitt Research Hall","abbr":"HRH","ucimap":"G3" }
+{ "buildid":611,"fullname":"Humanities Gateway","abbr":"HG","ucimap":"D4" }
+{ "buildid":610,"fullname":"Humanities Instructional Building","abbr":"HIB","ucimap":"D4" }
+{ "buildid":533,"fullname":"Infant/Toddler Center","abbr":"","ucimap":"C9" }
+{ "buildid":304,"fullname":"Information & Computer Science II","abbr":"ICS2","ucimap":"F6" }
+{ "buildid":201,"fullname":"Institute of Transportation Studies","abbr":"","ucimap":"D6" }
+{ "buildid":319,"fullname":"Interfaith","abbr":"","ucimap":"E6" }
+{ "buildid":92,"fullname":"Interim Office Building","abbr":"","ucimap":"B2" }
+{ "buildid":1,"fullname":"Irvine Barclay Theatre","abbr":"","ucimap":"D5" }
+{ "buildid":600,"fullname":"Krieger Hall","abbr":"KH","ucimap":"D5" }
+{ "buildid":102,"fullname":"Langson Library","abbr":"LLIB","ucimap":"D5" }
+{ "buildid":4,"fullname":"Law / Berkeley Place","abbr":"LAW","ucimap":"D7" }
+{ "buildid":601,"fullname":"Little Theatre","abbr":"","ucimap":"E4" }
+{ "buildid":311,"fullname":"McDonnell Douglas Eng. Auditorium","abbr":"MDE","ucimap":"F6" }
+{ "buildid":836,"fullname":"Medical Education Building","abbr":"","ucimap":"G2" }
+{ "buildid":815,"fullname":"Medical Sciences A Administration","abbr":"","ucimap":"F3" }
+{ "buildid":811,"fullname":"Medical Sciences B","abbr":"MS-B","ucimap":"F3" }
+{ "buildid":833,"fullname":"Medical Sciences Classroom Facility","abbr":"","ucimap":"G2" }
+{ "buildid":810,"fullname":"Medical Surge I","abbr":"MS1","ucimap":"F3" }
+{ "buildid":221,"fullname":"Merage School of Business","abbr":"SB","ucimap":"D6" }
+{ "buildid":0,"fullname":"Mesa Court Housing","abbr":"MESA","ucimap":"C3" }
+{ "buildid":0,"fullname":"Middle Earth Housing","abbr":"ME","ucimap":"E7" }
+{ "buildid":832,"fullname":"MRI 4T Trailer","abbr":"","ucimap":"G2" }
+{ "buildid":415,"fullname":"Multipurpose Science & Technology Bldg.","abbr":"MSTB","ucimap":"G5" }
+{ "buildid":323,"fullname":"National Fuel Cell Research Center","abbr":"","ucimap":"E6" }
+{ "buildid":402,"fullname":"Natural Sciences II","abbr":"NS2","ucimap":"F5" }
+{ "buildid":720,"fullname":"Nixon Theatre","abbr":"","ucimap":"D4" }
+{ "buildid":9998,"fullname":"Online","abbr":"ON","ucimap":"0" }
+{ "buildid":403,"fullname":"Parkview Classroom Building","abbr":"PCB","ucimap":"F5" }
+{ "buildid":204,"fullname":"Phoenix Grille","abbr":"","ucimap":"E6" }
+{ "buildid":404,"fullname":"Physical Sciences High Bay","abbr":"","ucimap":"F5" }
+{ "buildid":829,"fullname":"Plumwood House (Hitachi)","abbr":"PH","ucimap":"G3" }
+{ "buildid":7,"fullname":"Public Services","abbr":"PSB","ucimap":"D7" }
+{ "buildid":91,"fullname":"Receiving","abbr":"","ucimap":"C2" }
+{ "buildid":401,"fullname":"Reines Hall","abbr":"FRH","ucimap":"F5" }
+{ "buildid":400,"fullname":"Rowland Hall","abbr":"RH","ucimap":"F5" }
+{ "buildid":821,"fullname":"School of Medicine Admissions","abbr":"","ucimap":"F3" }
+{ "buildid":520,"fullname":"Science Library","abbr":"SLIB","ucimap":"F4" }
+{ "buildid":214,"fullname":"Social & Behavioral Sciences","abbr":"SBS","ucimap":"D6" }
+{ "buildid":210,"fullname":"Social Ecology I","abbr":"SE","ucimap":"D6" }
+{ "buildid":200,"fullname":"Social Science Hall","abbr":"SSH","ucimap":"E6" }
+{ "buildid":212,"fullname":"Social Science Lecture Hall","abbr":"SSLH","ucimap":"D6" }
+{ "buildid":213,"fullname":"Social Science Plaza B","abbr":"SSPB","ucimap":"D6" }
+{ "buildid":203,"fullname":"Social Science Trailer","abbr":"SSTR","ucimap":"D6" }
+{ "buildid":502,"fullname":"Steinhaus Hall","abbr":"SH","ucimap":"E4" }
+{ "buildid":5,"fullname":"Student Health Center","abbr":"SHC","ucimap":"D7" }
+{ "buildid":105,"fullname":"Student Services II","abbr":"SS2","ucimap":"D5" }
+{ "buildid":725,"fullname":"Studio Four","abbr":"STU4","ucimap":"D3" }
+{ "buildid":831,"fullname":"Tamkin Student Lecture Building","abbr":"","ucimap":"F2" }
+{ "buildid":3,"fullname":"Teacher Education","abbr":"","ucimap":"D7" }
+{ "buildid":113,"fullname":"The Hill (UCI Bookstore)","abbr":"","ucimap":"D5" }
+{ "buildid":900,"fullname":"Thermal Energy Storage Tank","abbr":"","ucimap":"E4" }
+{ "buildid":907,"fullname":"Track & Field House","abbr":"","ucimap":"E2" }
+{ "buildid":801,"fullname":"University Club","abbr":"UNCLB","ucimap":"F6" }
+{ "buildid":230,"fullname":"University Extension B","abbr":"UNEX","ucimap":"D7" }
+{ "buildid":234,"fullname":"University Extension D","abbr":"UNEX","ucimap":"D7" }
+{ "buildid":236,"fullname":"University Extension H","abbr":"UNEX","ucimap":"D7" }
+{ "buildid":4199,"fullname":"University Tower","abbr":"UT","ucimap":"B6" }
+{ "buildid":423,"fullname":"Administrative Modular","abbr":"","ucimap":"G5" }
+{ "buildid":111,"fullname":"Aldrich Hall","abbr":"AH","ucimap":"D5" }
+{ "buildid":0,"fullname":"American Academy of Arts & Sciences","abbr":"","ucimap":"F1" }
+{ "buildid":917,"fullname":"Anteater Ballpark","abbr":"","ucimap":"D3" }
+{ "buildid":680,"fullname":"Anteater Recreation Center","abbr":"ARC","ucimap":"D10" }
+{ "buildid":96,"fullname":"Arboretum","abbr":"ARBO","ucimap":"B2" }
+{ "buildid":722,"fullname":"Art Studio","abbr":"ART","ucimap":"D4" }
+{ "buildid":714,"fullname":"Arts Instruction & Technology Resource Center","abbr":"AITR","ucimap":"D4" }
+{ "buildid":500,"fullname":"B.C.'s Cavern on the Green","abbr":"","ucimap":"E5" }
+{ "buildid":80,"fullname":"Beckman Center of the National Academies of Sciences & Engineering","abbr":"","ucimap":"E1" }
+{ "buildid":802,"fullname":"Berk Hall","abbr":"BH","ucimap":"F3" }
+{ "buildid":515,"fullname":"Biological Sciences Administration","abbr":"BSA","ucimap":"F4" }
+{ "buildid":512,"fullname":"Bonney Research Laboratory","abbr":"BRL","ucimap":"E4" }
+{ "buildid":901,"fullname":"Bren Events Center","abbr":"","ucimap":"D3" }
+{ "buildid":899,"fullname":"Building Services Bldg.","abbr":"","ucimap":"G4" }
+{ "buildid":325,"fullname":"California Institute for Telecommunications and Information Technology (CalIT2)","abbr":"","ucimap":"F6" }
+{ "buildid":112,"fullname":"Campus Information","abbr":"","ucimap":"D5" }
+{ "buildid":105,"fullname":"Career Center","abbr":"","ucimap":"D5" }
+{ "buildid":113,"fullname":"Center for Service in Action","abbr":"","ucimap":"D5" }
+{ "buildid":902,"fullname":"Central Plant","abbr":"CP","ucimap":"E4" }
+{ "buildid":90,"fullname":"Child Development Center","abbr":"CD","ucimap":"C1" }
+{ "buildid":718,"fullname":"Choral Studio","abbr":"","ucimap":"D4" }
+{ "buildid":721,"fullname":"Contemporary Arts Center","abbr":"CAC","ucimap":"D4" }
+{ "buildid":713,"fullname":"Costume Shop","abbr":"","ucimap":"D4" }
+{ "buildid":682,"fullname":"Court Building","abbr":"","ucimap":"D10" }
+{ "buildid":909,"fullname":"Crawford Field","abbr":"","ucimap":"E2" }
+{ "buildid":905,"fullname":"Crawford Pool","abbr":"","ucimap":"E3" }
+{ "buildid":417,"fullname":"Croul Hall","abbr":"CRH","ucimap":"F5" }
+{ "buildid":713,"fullname":"Dance Studios","abbr":"DS","ucimap":"D4" }
+{ "buildid":715,"fullname":"Drama Building","abbr":"DRA","ucimap":"D4" }
+{ "buildid":23,"fullname":"Early Childhood Education Center","abbr":"","ucimap":"B9" }
+{ "buildid":40,"fullname":"Electrical Substation","abbr":"","ucimap":"H4" }
+{ "buildid":321,"fullname":"Engineering Gateway","abbr":"EG","ucimap":"F6" }
+{ "buildid":323,"fullname":"Engineering Laboratory Facility","abbr":"ELF","ucimap":"E6" }
+{ "buildid":303,"fullname":"Engineering Tower","abbr":"ET","ucimap":"E6" }
+{ "buildid":653,"fullname":"Extended Day Center","abbr":"","ucimap":"D9" }
+{ "buildid":95,"fullname":"Faculty Research Facility","abbr":"FRF","ucimap":"B2" }
+{ "buildid":626,"fullname":"Farm School/Red Barn","abbr":"","ucimap":"E10" }
+{ "buildid":560,"fullname":"Founders' Court","abbr":"","ucimap":"E4" }
+{ "buildid":837,"fullname":"Gillespie Neuroscience Research Facility","abbr":"GNRF","ucimap":"G3" }
+{ "buildid":514,"fullname":"Greenhouse","abbr":"","ucimap":"E4" }
+{ "buildid":897,"fullname":"Grounds Maintenance Facility","abbr":"","ucimap":"G4" }
+{ "buildid":506,"fullname":"Herklotz Research Facility","abbr":"","ucimap":"E4" }
+{ "buildid":516,"fullname":"Herklotz Research Facility: Annex","abbr":"CNLMA","ucimap":"E4" }
+{ "buildid":0,"fullname":"Human Resources","abbr":"","ucimap":"H2" }
+{ "buildid":601,"fullname":"Humanities Hall","abbr":"HH","ucimap":"E4" }
+{ "buildid":523,"fullname":"Humanities Interim Classroom Facility","abbr":"HICF","ucimap":"E4" }
+{ "buildid":302,"fullname":"Information & Computer Science","abbr":"ICS","ucimap":"E6" }
+{ "buildid":401,"fullname":"Institute for Surface & Interface Sci.","abbr":"","ucimap":"F5" }
+{ "buildid":625,"fullname":"Intercollegiate Athletics Building (IAB)","abbr":"IAB","ucimap":"E4" }
+{ "buildid":315,"fullname":"Interim Classroom Facility","abbr":"ICF","ucimap":"E6" }
+{ "buildid":423,"fullname":"Internal Audit","abbr":"","ucimap":"G5" }
+{ "buildid":835,"fullname":"Irvine Hall","abbr":"IH","ucimap":"G2" }
+{ "buildid":521,"fullname":"KUCI Radio Station","abbr":"","ucimap":"E4" }
+{ "buildid":4,"fullname":"Law / Berkeley Place","abbr":"BP","ucimap":"D7" }
+{ "buildid":400,"fullname":"Learning & Academic Resource Center","abbr":"","ucimap":"F5" }
+{ "buildid":93,"fullname":"Mailroom","abbr":"","ucimap":"B2" }
+{ "buildid":503,"fullname":"McGaugh Hall","abbr":"MH","ucimap":"F5" }
+{ "buildid":813,"fullname":"Medical Sciences A","abbr":"MS-A","ucimap":"F3" }
+{ "buildid":819,"fullname":"Medical Sciences A Annex","abbr":"","ucimap":"F3" }
+{ "buildid":821,"fullname":"Medical Sciences C","abbr":"MS-C","ucimap":"F3" }
+{ "buildid":827,"fullname":"Medical Sciences E","abbr":"MS-E","ucimap":"F3" }
+{ "buildid":812,"fullname":"Medical Surge II","abbr":"MS2","ucimap":"F3" }
+{ "buildid":58,"fullname":"Mesa Arts Building","abbr":"MAB","ucimap":"D3" }
+{ "buildid":59,"fullname":"Mesa Office Building","abbr":"MOB","ucimap":"D3" }
+{ "buildid":841,"fullname":"MRI 3T Trailer","abbr":"","ucimap":"G2" }
+{ "buildid":2,"fullname":"Multipurpose Academic & Administrative Bldg.","abbr":"MPAA","ucimap":"D7" }
+{ "buildid":726,"fullname":"Music & Media Building","abbr":"MM","ucimap":"D4" }
+{ "buildid":517,"fullname":"Natural Sciences I","abbr":"NS1","ucimap":"F4" }
+{ "buildid":721,"fullname":"New Media Arts Center","abbr":"","ucimap":"D4" }
+{ "buildid":4199,"fullname":"Office of Technology Alliances","abbr":"","ucimap":"B6" }
+{ "buildid":722,"fullname":"Painting Studios","abbr":"","ucimap":"D4" }
+{ "buildid":728,"fullname":"Performance Studios","abbr":"PSTU","ucimap":"D3" }
+{ "buildid":413,"fullname":"Physical Sciences Classroom Building","abbr":"PSCB","ucimap":"F5" }
+{ "buildid":411,"fullname":"Physical Sciences Lecture Hall","abbr":"PSLH","ucimap":"F5" }
+{ "buildid":723,"fullname":"Production Studio","abbr":"","ucimap":"D4" }
+{ "buildid":506,"fullname":"Qureshey Research Laboratory","abbr":"QRL","ucimap":"E4" }
+{ "buildid":98,"fullname":"Recycling Center","abbr":"","ucimap":"C2" }
+{ "buildid":311,"fullname":"Rockwell Engineering Center","abbr":"REC","ucimap":"F6" }
+{ "buildid":501,"fullname":"Schneiderman Lecture Hall","abbr":"HSLH","ucimap":"E5" }
+{ "buildid":827,"fullname":"School of Medicine Registrar","abbr":"","ucimap":"F3" }
+{ "buildid":720,"fullname":"Sculpture & Ceramic Studios","abbr":"SCS","ucimap":"D4" }
+{ "buildid":214,"fullname":"Social & Behavioral Sciences Gateway","abbr":"SBSG","ucimap":"D6" }
+{ "buildid":215,"fullname":"Social Ecology II","abbr":"SE2","ucimap":"D6" }
+{ "buildid":202,"fullname":"Social Science Laboratory","abbr":"SSL","ucimap":"E6" }
+{ "buildid":211,"fullname":"Social Science Plaza A","abbr":"SSPA","ucimap":"D6" }
+{ "buildid":201,"fullname":"Social Science Tower","abbr":"SST","ucimap":"D6" }
+{ "buildid":839,"fullname":"Sprague Hall","abbr":"SPH","ucimap":"G3" }
+{ "buildid":113,"fullname":"Student Center","abbr":"SC","ucimap":"D5" }
+{ "buildid":105,"fullname":"Student Services I","abbr":"SS1","ucimap":"D5" }
+{ "buildid":523,"fullname":"Studio Art Trailer","abbr":"","ucimap":"E4" }
+{ "buildid":713,"fullname":"Studio Theatre","abbr":"","ucimap":"D4" }
+{ "buildid":9999,"fullname":"TBA - Contact instructor for info","abbr":"TBA","ucimap":"" }
+{ "buildid":913,"fullname":"Tennis Courts","abbr":"","ucimap":"D3" }
+{ "buildid":470,"fullname":"The Nest","abbr":"","ucimap":"C9" }
+{ "buildid":4199,"fullname":"Thesaurus Linguae Graecae","abbr":"","ucimap":"B6" }
+{ "buildid":712,"fullname":"University Art Gallery","abbr":"","ucimap":"D4" }
+{ "buildid":231,"fullname":"University Extension A","abbr":"UNEX","ucimap":"D7" }
+{ "buildid":232,"fullname":"University Extension C","abbr":"UNEX","ucimap":"D7" }
+{ "buildid":238,"fullname":"University Extension ESL Offices","abbr":"","ucimap":"D7" }
+{ "buildid":30,"fullname":"University Montessori School","abbr":"","ucimap":"F8" }
