@@ -1,0 +1,17 @@
+use dataverse UCINow;
+drop dataset UCILocation if exists;
+drop type UCILocationType if exists;
+create type UCILocationType as open{
+    buildid: int32,
+    fullname: string,
+    abbr: string,
+    ucimap: string,
+    gps: point?
+}
+
+create dataset UCILocation(UCILocationType) primary key buildid;
+
+create index idIdx on UCILocation(buildid);
+create index fullnameIdx on UCILocation(fullname);
+create index abbrIdx on UCILocation(abbr);
+create index gpsIdx on UCILocation(gps) type rtree;

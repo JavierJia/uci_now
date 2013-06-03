@@ -8,7 +8,7 @@ DDL_POINT = ASTERIX_SERVER + "/ddl?ddl="
 UPDATE_POINT = ASTERIX_SERVER + "/update?statements="
 QUERY_POINT = ASTERIX_SERVER + "/query?query="
 
-CREATE_AQL = '../aql/creat_database.aql'
+CREATE_ALL_AQL = '../aql/creat_database.aql'
 ADM_DIR = '../data/adm/'
 
 Logger = Logger.new
@@ -43,18 +43,20 @@ def request_to_database(entrypoint, params)
     }
 end
 
-def creat_ddl ()
+def creat_ddl (aqlfile)
     Logger.info 'create ddl'
-    request_to_database(DDL_POINT, form_param(File.open(CREATE_AQL).read)) 
+    request_to_database(DDL_POINT, form_param(File.open(aqlfile).read)) 
 end
 
-def load_ddl_websoc ()
-    Dir.glob( ADM_DIR + 'websoc/merge.adm') do |adm|
+def load_ddl_websoc (dbname, filepatten)
+    Dir.glob( filepatten ) do |adm|
         Logger.info 'load ' + adm
-        request_to_database(UPDATE_POINT, form_param(load_script_format('WebSoc', File.absolute_path(adm)))) \
-            if File.size(adm) > 0
+        request_to_database(UPDATE_POINT, form_param(load_script_format(dbname, File.absolute_path(adm)))) if File.size(adm) > 0
     end
 end
 
-creat_ddl
-load_ddl_websoc
+#creat_ddl CREATE_ALL_AQL
+#load_ddl_websoc ('WebSoc', ADM_DIR + 'websoc/merge.adm')
+
+creat_ddl  '../aql/create_location_db.aql'
+load_ddl_websoc 'UCILocation', '../data/adm/roomfinder.adm'
