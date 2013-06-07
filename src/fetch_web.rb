@@ -39,10 +39,12 @@ def encode(hash)
             message += value
         elsif key == 'gps'
             message += 'point("' + value.strip()[1..-2] + '")'
-        elsif key == 'timestart' or key == 'timestop'
+        elsif key == 'timestart' or key == 'timestop' or key == 'startTime' or key == 'endTime'
             message += 'time("' + value + '")'
+        elsif key == 'date'
+            message += 'date("' + value + '")'
         else
-            message += '"' + value + '"'
+            message += '"' + value.gsub('"','&quot') + '"'
         end
         message += ','
     end
@@ -136,6 +138,20 @@ def fetch_roomfinder(url)
     end
 end
 
+def convert_ics_calendar(*files)
+    files.each do |file|
+        doc = Nokogiri::XML(open(file))
+        keys=['title','date','startTime','endTime','contact','location','description']
+        events = doc.xpath('//event')
+        events.each do |e| 
+            hash={}
+            keys.each { |k| hash[k]= e.xpath(k).text }
+            puts encode(hash)
+        end
+    end
+end
+
 #convert_adm
-fetch_roomfinder 'https://eee.uci.edu/toolbox/roomfinder/index.php'
+#fetch_roomfinder 'https://eee.uci.edu/toolbox/roomfinder/index.php'
+convert_ics_calendar '../data/xml/icscalendar/Jun.xml','../data/xml/icscalendar/May.xml'
 

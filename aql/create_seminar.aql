@@ -1,0 +1,21 @@
+use dataverse UCINow;
+drop dataset UCISeminar if exists;
+drop type UCISeminarType if exists;
+create type UCISeminarType as open{
+    title: string,
+    date: date,
+    startTime: time?,
+    endTime: time?,
+    contact: string?,
+    location: string,
+    description: string?
+}
+
+create dataset UCISeminar(UCISeminarType) primary key title;
+
+create index titleIdx on UCISeminar(title);
+create index dateIdx on UCISeminar(date);
+create index startIdx on UCISeminar(startTime);
+create index endIdx on UCISeminar(endTime);
+create index locationIdx on UCISeminar(location);
+

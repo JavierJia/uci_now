@@ -48,7 +48,7 @@ def creat_ddl (aqlfile)
     request_to_database(DDL_POINT, form_param(File.open(aqlfile).read)) 
 end
 
-def load_ddl_websoc (dbname, filepatten)
+def load_ddl (dbname, filepatten)
     Dir.glob( filepatten ) do |adm|
         Logger.info 'load ' + adm
         request_to_database(UPDATE_POINT, form_param(load_script_format(dbname, File.absolute_path(adm)))) if File.size(adm) > 0
@@ -56,7 +56,12 @@ def load_ddl_websoc (dbname, filepatten)
 end
 
 #creat_ddl CREATE_ALL_AQL
-#load_ddl_websoc ('WebSoc', ADM_DIR + 'websoc/merge.adm')
+#load_ddl ('WebSoc', ADM_DIR + 'websoc/merge.adm')
 
-creat_ddl  '../aql/create_location_db.aql'
-load_ddl_websoc 'UCILocation', '../data/adm/roomfinder.adm'
+#creat_ddl  '../aql/create_location_db.aql'
+#load_ddl 'UCILocation', '../data/adm/roomfinder.adm'
+
+
+creat_ddl '../aql/create_seminar.aql'
+load_ddl 'UCISeminar', '../data/adm/icscalendar.adm'
+

@@ -59,7 +59,6 @@ function loadBuildingList(){
     //    alert(evt.data);
     // };   
     $.ajax({
-            //url: "http://localhost:19101/query?query=use%20dataverse%20UCINow;%0Afor%20$l%20in%20dataset(%22UCILocation%22)%20return%20$l;",
             url: "http://tomato.ics.uci.edu:3000",
             type:"GET",
             dataType:"json",
@@ -80,7 +79,7 @@ function loadBuildingList(){
                     $tr.find(".buildid").html(x.buildid);
                     $tr.find(".fullname").html(x.fullname);
                     $tr.find(".abbr").html(x.abbr);
-                    // $tr.find(".gps").html(String(x.gps));
+                    $tr.find(".gps").html(String(x.gps));
                     $template.append($tr);
                 }
 

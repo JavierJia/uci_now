@@ -4,8 +4,7 @@ import tornado.httpclient
 import tornado.gen
 import logging
 
-
-logger = logging.getLogger('simple')
+logger = logging.getLogger('MessageUpdatesHandler:')
 logger.setLevel(logging.DEBUG)
 
 class MessageUpdatesHandler(tornado.web.RequestHandler):
