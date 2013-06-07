@@ -8,6 +8,8 @@ REQUEST_URL= "http://websoc.reg.uci.edu/perl/WebSoc"
 HTML_DIR = "../data/html/websoc"
 ADM_DIR = "../data/adm/websoc"
 
+GPS_PATH = "../data/gps.txt"
+
 time_mark = ['timestart','timestop']
 
 def reqest_by_dept(dept)
@@ -35,6 +37,8 @@ def encode(hash)
         message += '"' + key + '":' 
         if key == 'max' or key == 'code' or key == 'buildid'
             message += value
+        elsif key == 'gps'
+            message += 'point("' + value.strip()[1..-2] + '")'
         elsif key == 'timestart' or key == 'timestop'
             message += 'time("' + value + '")'
         else
@@ -117,6 +121,7 @@ def convert_adm()
 end
 
 def fetch_roomfinder(url)
+    gpshash = Hash[File.read(GPS_PATH).split("\n").map{|i| i.split("\t")}]
     keys=["buildid","fullname","abbr","ucimap"]
     page = Nokogiri::HTML(open(url))
     trs = page.css('table.data').css('tr.odd')
@@ -126,6 +131,7 @@ def fetch_roomfinder(url)
         for id in 0..3
             hash[keys[id]]= tr.css('td')[id].text.strip;
         end
+        hash['gps'] = gpshash[hash['fullname']] if gpshash[hash['fullname']] != nil
         puts encode(hash)
     end
 end

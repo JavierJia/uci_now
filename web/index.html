@@ -4,9 +4,9 @@
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" type="text/css" href="index.css"> 
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
-<script type="text/javascript"
-src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAro7nL7uI5ShTXZ4MKJNruNMt8I67EXv4&sensor=true">
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAro7nL7uI5ShTXZ4MKJNruNMt8I67EXv4&sensor=true">
 </script>
+<script src="http://api.mygeoposition.com/api/geopicker/api.js" type="text/javascript"></script>
 <script type="text/javascript">
 function initialize() {
     var mapOptions = {
@@ -41,19 +41,7 @@ function initialize() {
       content: contentString
     });
 
-    var geocoder = new google.maps.Geocoder();
-    function codeAddress(address) {
-        geocoder.geocode( { 'address': address}, function(results, status) {
-            if (status == google.maps.GeocoderStatus.OK) {
-                console.log( results[0].geometry.location);
-            } else {
-                alert('Geocode was not successful for the following reason: ' + status);
-            }
-        });
-        
-    }
-
-    codeAddress('Donald Bren Hall');
+    
 
     google.maps.event.addListener(marker, 'click', function() {
     infowindow.open(map,marker);
@@ -84,24 +72,67 @@ function loadBuildingList(){
                                 
                 //jquery dom model processing
                 var items = json.results[0];
-                console.log(items[0])
-                console.log(eval('('+items[0]+')').fullname)
                 var $template = $("#template");
-                for(var i = 0;i<items.length;i++){
+                for(var i = 1;i<items.length;i++){
                     var $tr = $template.find("tr[id='tempRow']").clone();
                     $tr.get(0).id="t" + i;
                     var x = eval('(' + items[i] + ')');
                     $tr.find(".buildid").html(x.buildid);
                     $tr.find(".fullname").html(x.fullname);
                     $tr.find(".abbr").html(x.abbr);
+                    // $tr.find(".gps").html(String(x.gps));
                     $template.append($tr);
                 }
+
                 $template.show();
             }
         })
 }
+
+function pausecomp(millis)
+{
+  var date = new Date();
+  var curDate = null;
+  do { curDate = new Date(); }
+  while(curDate-date < millis);
+}
+
+var geocoder = new google.maps.Geocoder();
+
+function codeAddress(address) {
+    geocoder.geocode( { 'address': address+ ',University California,Irvine','region': 'us'}, function(results, status) {
+        if (status == google.maps.GeocoderStatus.OK) {
+            console.log('address:'+address + results[0].geometry.location);
+                // + results[0].geometry.location.Qa);
+        } else {
+            console.warn('warn:Geocode was not successful for the following reason: ' + status);
+            return true;
+        }
+    });
+}
+
+function current_location(){
+    if(navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(function(position) {
+            var pos = new google.maps.LatLng(position.coords.latitude,
+                                           position.coords.longitude);
+
+            var infowindow = new google.maps.InfoWindow({
+                map: map,
+                position: pos,
+                    content: 'Location found using HTML5.'
+                });
+
+            map.setCenter(pos);
+            
+        })
+    }
+
+}
+
 google.maps.event.addDomListener(window, 'load', initialize);
-loadBuildingList()
+loadBuildingList();
+
 </script>
 </head>
 <body>
@@ -130,7 +161,7 @@ loadBuildingList()
                         <td class="buildid"></td>
                         <td class="fullname"></td>
                         <td class="abbr"></td>
-                        <td class="ucimap"></td>
+                        <td class="gps"></td>
                     </tr>
                 </table>
             </div>
