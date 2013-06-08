@@ -6,6 +6,13 @@ body {
     font-family: Arial,Sans-serif;
 }
 
+#date{
+	color:#ffba00;
+	margin:2px;
+	font-size: 18pt;
+	font-family: Arial,Sans-serif;
+}
+
 #top {
 	background-color: #086ca2;
 	height: 100px;
@@ -14,7 +21,7 @@ body {
 
 #left {
     height: 85%; width: 25%; top: 3px; left: 2px;
-	background-color: #A9F5F2;	
+	background-color: #F7F8E0;	
 }
 
 #center {
@@ -29,7 +36,7 @@ body {
 }
 
 #logoImg{
-	margin-top:2px;
+	margin-top:1px;
 	margin-left:5px;
 	margin-right:20px;
 }
@@ -49,6 +56,23 @@ body {
 	color: #086ca2;
 	height: 25px;
 	width: 300px;
+	margin-top:15px;
+	
+	padding: 4px 0px 4px 4px;
+	
+	border: solid 3px #ffba00;
+	
+	outline: none;
+	
+	-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;
+}
+
+#datepicker
+{
+	font-size: 20px;
+	color: #086ca2;
+	height: 25px;
+	width: 140px;
 	margin-top:15px;
 	
 	padding: 4px 0px 4px 4px;

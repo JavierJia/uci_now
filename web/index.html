@@ -3,11 +3,18 @@
 <head>
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" type="text/css" href="index.css"> 
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAro7nL7uI5ShTXZ4MKJNruNMt8I67EXv4&sensor=true">
 </script>
 <script src="http://api.mygeoposition.com/api/geopicker/api.js" type="text/javascript"></script>
+ <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 <script type="text/javascript">
+
+$(function() {
+    $("#datepicker").datepicker();
+  });
+
 function initialize() {
     var mapOptions = {
         center: new google.maps.LatLng(33.648192,-117.842339),
@@ -41,8 +48,6 @@ function initialize() {
       content: contentString
     });
 
-    
-
     google.maps.event.addListener(marker, 'click', function() {
     infowindow.open(map,marker);
     });
@@ -72,14 +77,13 @@ function loadBuildingList(){
                 //jquery dom model processing
                 var items = json.results[0];
                 var $template = $("#template");
-                for(var i = 1;i<items.length;i++){
+                for(var i = 1;i<items.length && i < 25;i++){
                     var $tr = $template.find("tr[id='tempRow']").clone();
                     $tr.get(0).id="t" + i;
                     var x = eval('(' + items[i] + ')');
                     $tr.find(".buildid").html(x.buildid);
                     $tr.find(".fullname").html(x.fullname);
                     $tr.find(".abbr").html(x.abbr);
-                    $tr.find(".gps").html(String(x.gps));
                     $template.append($tr);
                 }
 
@@ -102,7 +106,6 @@ function codeAddress(address) {
     geocoder.geocode( { 'address': address+ ',University California,Irvine','region': 'us'}, function(results, status) {
         if (status == google.maps.GeocoderStatus.OK) {
             console.log('address:'+address + results[0].geometry.location);
-                // + results[0].geometry.location.Qa);
         } else {
             console.warn('warn:Geocode was not successful for the following reason: ' + status);
             return true;
@@ -131,7 +134,6 @@ function current_location(){
 
 google.maps.event.addDomListener(window, 'load', initialize);
 loadBuildingList();
-
 </script>
 </head>
 <body>
@@ -147,6 +149,9 @@ loadBuildingList();
                     <td>
                         <input id="searchText" value="multimedia">
                     </td>
+                    <td>
+                        <p id='date'>DATE: <input type="text" id="datepicker" value='select a day'></p>
+                    </td>
                 </tr>
             </tbody>
             </table>
@@ -160,7 +165,6 @@ loadBuildingList();
                         <td class="buildid"></td>
                         <td class="fullname"></td>
                         <td class="abbr"></td>
-                        <td class="gps"></td>
                     </tr>
                 </table>
             </div>
