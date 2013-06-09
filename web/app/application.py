@@ -6,26 +6,27 @@ import tornado.httpclient
 import tornado.gen
 import logging
 import urllib
+import datetime
 
 logger = logging.getLogger('MapMessage:')
 logger.setLevel(logging.DEBUG)
 
 def url(query):
-    return urllib.quote(query)
+    return tornado.escape.url_escape(query)
 
-QUERY_PREFIX='http://tomato.ics.uci.edu:19101/query?query='
+QUERY_PREFIX='http://tomato.ics.uci.edu:19002/query?query='
 def query(aql):
     return QUERY_PREFIX + url(aql)
 
 location_list_query = '''
-    use dataverse UCINow;
-    for $l in dataset UCILocation
-    return {
-    "buildid":$l.buildid,
-    "fullname":$l.fullname,
-    "abbr":$l.abbr
-    };
-    '''
+use dataverse UCINow;
+for $l in dataset UCILocation
+return {
+"buildid":$l.buildid,
+"fullname":$l.fullname,
+"abbr":$l.abbr
+};
+'''
 query_websoc_byclassname = '''
 use dataverse UCINow;
 
@@ -41,7 +42,7 @@ query_location_bygps = '''
 use dataverse UCINow;
 
 for $l in dataset('UCILocation')
-where spatial-distance($l.gps, create-point(33.64337,-117.841974)) < 0.001
+where spatial-distance($l.gps, create-point(%f,%f)) < 0.001
 return $l;
 '''
 
@@ -50,7 +51,9 @@ use dataverse UCINow;
 
 for $l in dataset('UCILocation')
 for $class in dataset('WebSoc')
-where spatial-distance($l.gps, create-point(33.64337,-117.841974)) < 0.001 and matches ($class.place, $l.abbr) and matches($class.weekday, 'W' )
+where spatial-distance($l.gps, create-point(%f,%f)) < 0.001 
+    and matches ($class.place, $l.abbr) 
+    and matches ($class.weekday, '%s' )
 return  {
 "college":$class.college,
 "dept": $class.dept,
@@ -67,16 +70,22 @@ return  {
 query_seminar_join_location_bygps = '''
 use dataverse UCINow;
 
+set simfunction "jaccard";
+set simthreshold "0.3f";
+
 for $l in dataset('UCILocation')
 for $class in dataset('UCISeminar')
-where spatial-distance($l.gps, create-point(33.64337,-117.841974)) < 0.001 and matches ($class.location, $l.abbr) 
+where spatial-distance($l.gps, create-point(%f,%f)) < 0.001 
+    and (matches ($class.location, $l.abbr) or word-tokens($l.fullname) ~= word-tokens($class.location))
+    and $l.date = date('%s')
 return  {
 'title': $class.title,
 'date':$class.date,
 'location':$class.location,
-'starttime': $class.startTime,
 'contact':$class.contact,
-'description':$class.description
+'description':$class.description,
+'lat':get-x($l.gps),
+'lng':get-y($l.gps)
 }
 '''
 
@@ -104,16 +113,46 @@ class MapHandler(tornado.websocket.WebSocketHandler):
     def on_message(self, message):
         logger.info("got message %r", message)
         parsed = tornado.escape.json_decode(message)
-        logger.info("position:(%f,%f) on date:%s" % (parsed['lat'], parsed['lng'], parsed['date']))
-        self.write_message(parsed)
-        # click = {
-        #     "lat": parsed["lat"],
-        #     "lon": parsed["lon"],
-        #     "date": parsed["date"],
-        #     "raidius": parsed["raidius"],
-        # }
-        # chat["html"] = tornado.escape.to_basestring(
-        #     self.render_string("message.html", message=chat))
+        # logger.info("position:(%f,%f) on date:%s" % (parsed['lat'], parsed['lng'], parsed['date']))
+
+        http = tornado.httpclient.HTTPClient()
+        
+        logger.info('fetch websoc:\n\t' + query(query_websoc_join_location_bygps 
+            %(parsed['lat'],parsed['lng'],
+                ['Su','M','Tu','W','Th','F','Sa'][
+                    datetime.date(*(int(x) for x in (parsed['date'].split('-')))).weekday()]
+        )))
+        response = http.fetch(query(query_websoc_join_location_bygps 
+            %(parsed['lat'],parsed['lng'],
+                ['Su','M','Tu','W','Th','F','Sa'][
+                    datetime.date(*(int(x) for x in (parsed['date'].split('-')))).weekday()]
+        )))
+
+        json = {}
+        if (len(response.body) > 0):
+            try:
+                json['websoc'] = tornado.escape.json_decode(response.body)['results']
+                logger.debug(json)
+            except Exception,e:
+                logger.debug(str(e))
+                pass
+            
+        logger.info('fetch seminar:\n\t'+query(query_seminar_join_location_bygps 
+            %(parsed['lat'],parsed['lng'],parsed['date'])))
+        response = http.fetch(query(query_seminar_join_location_bygps 
+            %(parsed['lat'],parsed['lng'],parsed['date'])))
+
+        logger.debug('seminar body' + response.body)
+        if(len(response.body)>0):
+            try:
+                json['seminar'] = tornado.escape.json_decode(response.body)['results']
+                logger.debug(json)
+            except Exception, e:
+                logger.debug(str(e))
+                pass
+            
+
+        self.write_message(json)
 
 class SearchHandler(tornado.web.RequestHandler):
     def get(self):
