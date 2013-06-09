@@ -73,19 +73,21 @@ use dataverse UCINow;
 set simfunction "jaccard";
 set simthreshold "0.3f";
 
-for $l in dataset('UCILocation')
+let $p := create-point(%f,%f)
+
 for $class in dataset('UCISeminar')
-where spatial-distance($l.gps, create-point(%f,%f)) < 0.001 
-    and (matches ($class.location, $l.abbr) or word-tokens($l.fullname) ~= word-tokens($class.location))
-    and $l.date = date('%s')
+where $class.date = date('%s')
 return  {
 'title': $class.title,
-'date':$class.date,
+'starthour':hour($class.startTime),
+'startmin':minute($class.startTime),
+'endhour':hour($class.endTime),
+'endmin':minute($class.endTime),
 'location':$class.location,
 'contact':$class.contact,
 'description':$class.description,
-'lat':get-x($l.gps),
-'lng':get-y($l.gps)
+'lat':33.64337,
+'lng':-117.841974
 }
 '''
 
@@ -119,12 +121,12 @@ class MapHandler(tornado.websocket.WebSocketHandler):
         
         logger.info('fetch websoc:\n\t' + query(query_websoc_join_location_bygps 
             %(parsed['lat'],parsed['lng'],
-                ['Su','M','Tu','W','Th','F','Sa'][
+                ['M','Tu','W','Th','F','Sa','Su'][
                     datetime.date(*(int(x) for x in (parsed['date'].split('-')))).weekday()]
         )))
         response = http.fetch(query(query_websoc_join_location_bygps 
             %(parsed['lat'],parsed['lng'],
-                ['Su','M','Tu','W','Th','F','Sa'][
+                ['M','Tu','W','Th','F','Sa','Su'][
                     datetime.date(*(int(x) for x in (parsed['date'].split('-')))).weekday()]
         )))
 
