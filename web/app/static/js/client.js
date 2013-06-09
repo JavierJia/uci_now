@@ -11,6 +11,13 @@ Client = (function(){
         var _this = this;         
         $(window).on('beforeunload', function() { _this.close() });    
         this.connection.onmessage = function(evt) { _this.receive(evt) }
+
+        $('#searchbox').submit(function(){
+            var date = $('#datepicker').val();
+            var text = $('#searchbox:searchtext').val();
+            console.log('[client.js] send search on text:' + text + ' @' + date);
+            _this.send({ action: 'search', date: date, text: text});
+        });
     }
 
     Client.prototype.receive = function(evt) {

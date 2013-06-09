@@ -7,6 +7,7 @@ import tornado.gen
 import logging
 import urllib
 import datetime
+from queryformat import *
 
 logger = logging.getLogger('MapMessage:')
 logger.setLevel(logging.DEBUG)
@@ -18,78 +19,6 @@ QUERY_PREFIX='http://tomato.ics.uci.edu:19002/query?query='
 def query(aql):
     return QUERY_PREFIX + url(aql)
 
-location_list_query = '''
-use dataverse UCINow;
-for $l in dataset UCILocation
-return {
-"buildid":$l.buildid,
-"fullname":$l.fullname,
-"abbr":$l.abbr
-};
-'''
-query_websoc_byclassname = '''
-use dataverse UCINow;
-
-for $class in dataset('WebSoc')
-where like ( $class.course, "%MULTILMED%")
-return {
-'dept' :$class.dept,
-'weekday':$class.weekday
-}
-'''
-
-query_location_bygps = '''
-use dataverse UCINow;
-
-for $l in dataset('UCILocation')
-where spatial-distance($l.gps, create-point(%f,%f)) < 0.001
-return $l;
-'''
-
-query_websoc_join_location_bygps = '''
-use dataverse UCINow;
-
-for $l in dataset('UCILocation')
-for $class in dataset('WebSoc')
-where spatial-distance($l.gps, create-point(%f,%f)) < 0.001 
-    and matches ($class.place, $l.abbr) 
-    and matches ($class.weekday, '%s' )
-return  {
-"college":$class.college,
-"dept": $class.dept,
-"name":$class.course,
-"instructor":$class.instructor,
-"loop":$class.weekday,
-"time":$class.timestr,
-"location":$class.place,
-'lat':get-x($l.gps),
-'lng':get-y($l.gps)
-}
-'''
-
-query_seminar_join_location_bygps = '''
-use dataverse UCINow;
-
-set simfunction "jaccard";
-set simthreshold "0.3f";
-
-let $p := create-point(%f,%f)
-
-for $class in dataset('UCISeminar')
-where $class.date = date('%s')
-return  {
-'title': $class.title,
-'starthour':hour($class.startTime),
-'startmin':minute($class.startTime),
-'endhour':hour($class.endTime),
-'endmin':minute($class.endTime),
-'location':$class.location,
-'contact':$class.contact,
-'description':$class.description,
-'lat':33.64337,
-'lng':-117.841974
-}
-'''
 
 class MessageUpdatesHandler(tornado.web.RequestHandler):
     def set_default_headers(self):
@@ -115,46 +44,62 @@ class MapHandler(tornado.websocket.WebSocketHandler):
     def on_message(self, message):
         logger.info("got message %r", message)
         parsed = tornado.escape.json_decode(message)
-        # logger.info("position:(%f,%f) on date:%s" % (parsed['lat'], parsed['lng'], parsed['date']))
+        if (parsed['action']== 'click'):
+            self.on_click(parsed)
+        elif(parsed['action']=='search'):
+            self.on_search(parsed)
+        else:
+            logger.error('MapHandler: Invalid request:' + message)
 
+    def on_search(self,parsed):
+        logger.info("MapHandler: on_search: text: %s , @date: %s" %(parsed['text'], parsed['date']))
         http = tornado.httpclient.HTTPClient()
-        
-        logger.info('fetch websoc:\n\t' + query(query_websoc_join_location_bygps 
-            %(parsed['lat'],parsed['lng'],
-                ['M','Tu','W','Th','F','Sa','Su'][
-                    datetime.date(*(int(x) for x in (parsed['date'].split('-')))).weekday()]
-        )))
-        response = http.fetch(query(query_websoc_join_location_bygps 
-            %(parsed['lat'],parsed['lng'],
-                ['M','Tu','W','Th','F','Sa','Su'][
-                    datetime.date(*(int(x) for x in (parsed['date'].split('-')))).weekday()]
-        )))
-
+        logger.info('MapHandler: on_search: query_bysearch_websoc')
         json = {}
-        if (len(response.body) > 0):
-            try:
-                json['websoc'] = tornado.escape.json_decode(response.body)['results']
-                logger.debug(json)
-            except Exception,e:
-                logger.debug(str(e))
-                pass
-            
-        logger.info('fetch seminar:\n\t'+query(query_seminar_join_location_bygps 
-            %(parsed['lat'],parsed['lng'],parsed['date'])))
-        response = http.fetch(query(query_seminar_join_location_bygps 
-            %(parsed['lat'],parsed['lng'],parsed['date'])))
+        jsoncache = self.asterix_query(http, query_bysearch_websoc %(parsed['text'],parsed['date']))
+        if jsoncache is not None:
+            json['websoc'] = jsoncache['results']
+            logger.info('MapHandler: on_search: request return %d' % len(jsoncache))
 
-        logger.debug('seminar body' + response.body)
+        logger.info('MapHandler: on_search: query_bysearch_seminar')
+        jsoncache = self.asterix_query(http, query_bysearch_seminar %(parsed['text'], parsed['date']))
+        if jsoncache is not None:
+            json['seminar'] = jsoncache['results']
+            logger.info('MapHandler: on_search: request return %d' % len(jsoncache))
+        if len(json) > 0:
+            self.write_message(json)
+
+    def asterix_query(self, http, querystr):
+        response = http.fetch(query(querystr))
         if(len(response.body)>0):
             try:
-                json['seminar'] = tornado.escape.json_decode(response.body)['results']
-                logger.debug(json)
+                json = tornado.escape.json_decode(response.body)
+                return json
             except Exception, e:
-                logger.debug(str(e))
-                pass
-            
+                return None
+        return None
 
-        self.write_message(json)
+    def on_click(self, parsed):
+        logger.info("MapHandler: on_click: position:(%f,%f) on date:%s" % (parsed['lat'], parsed['lng'], parsed['date']))
+        http = tornado.httpclient.HTTPClient()
+        json = {}
+        logger.info('MapHandler: on_click: query_websoc_join_location_bygps')
+        jsoncache = self.asterix_query(http, query_websoc_join_location_bygps 
+            %(parsed['lat'],parsed['lng'],
+                ['M','Tu','W','Th','F','Sa','Su'][
+                    datetime.date(*(int(x) for x in (parsed['date'].split('-')))).weekday()])
+            )
+        if jsoncache is not None:
+            json['websoc'] = jsoncache['results']
+            logger.info('MapHandler: on_click: request return %d' % len(jsoncache))
+
+        logger.info('MapHandler: on_click: query_seminar_join_location_bygps')
+        jsoncache = self.asterix_query(http, query_seminar_join_location_bygps%(parsed['lat'],parsed['lng'],parsed['date']))
+        if jsoncache is not None:
+            json['seminar'] = jsoncache['results']
+            logger.info('MapHandler: on_click: request return %d' % len(jsoncache))
+        if len(json) > 0:
+            self.write_message(json)
 
 class SearchHandler(tornado.web.RequestHandler):
     def get(self):

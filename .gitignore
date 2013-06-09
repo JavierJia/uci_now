@@ -17,6 +17,7 @@ out/
 local.properties
 
 .*
+*.pyc
 .project
 .classpath
 .settings
