@@ -1,11 +1,3 @@
-
-$(function() {
-    $("#datepicker").datepicker({ 
-    dateFormat: 'yy-mm-dd',
-    });
-    $("#datepicker").val($.datepicker.formatDate("yy-mm-dd", new Date()));
-});
-
 Client = (function(){
     function Client(){
         console.log("[client.js] init");

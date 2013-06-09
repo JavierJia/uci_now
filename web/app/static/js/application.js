@@ -17,4 +17,11 @@ components.forEach(loadExternalJS);
 
 document.addEventListener('DOMContentLoaded',function(){
 	client = new Client();
+
+	$(function() {
+	    $("#datepicker").datepicker({ 
+	    	dateFormat: 'yy-mm-dd',
+	    });
+	    $("#datepicker").val($.datepicker.formatDate("yy-mm-dd", new Date()));
+	});
 });
