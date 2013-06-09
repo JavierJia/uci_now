@@ -7,7 +7,7 @@ import tornado.gen
 import logging
 import urllib
 
-logger = logging.getLogger('MessageUpdatesHandler:')
+logger = logging.getLogger('MapMessage:')
 logger.setLevel(logging.DEBUG)
 
 def url(query):
@@ -45,6 +45,41 @@ where spatial-distance($l.gps, create-point(33.64337,-117.841974)) < 0.001
 return $l;
 '''
 
+query_websoc_join_location_bygps = '''
+use dataverse UCINow;
+
+for $l in dataset('UCILocation')
+for $class in dataset('WebSoc')
+where spatial-distance($l.gps, create-point(33.64337,-117.841974)) < 0.001 and matches ($class.place, $l.abbr) and matches($class.weekday, 'W' )
+return  {
+"college":$class.college,
+"dept": $class.dept,
+"name":$class.course,
+"instructor":$class.instructor,
+"loop":$class.weekday,
+"time":$class.timestr,
+"location":$class.place,
+'lat':get-x($l.gps),
+'lng':get-y($l.gps)
+}
+'''
+
+query_seminar_join_location_bygps = '''
+use dataverse UCINow;
+
+for $l in dataset('UCILocation')
+for $class in dataset('UCISeminar')
+where spatial-distance($l.gps, create-point(33.64337,-117.841974)) < 0.001 and matches ($class.location, $l.abbr) 
+return  {
+'title': $class.title,
+'date':$class.date,
+'location':$class.location,
+'starttime': $class.startTime,
+'contact':$class.contact,
+'description':$class.description
+}
+'''
+
 class MessageUpdatesHandler(tornado.web.RequestHandler):
     def set_default_headers(self):
         self.set_header("Access-Control-Allow-Origin", "*")
@@ -67,9 +102,10 @@ class HomeHandle(tornado.web.RequestHandler):
 
 class MapHandler(tornado.websocket.WebSocketHandler):
     def on_message(self, message):
-        logging.info("got message %r", message)
+        logger.info("got message %r", message)
         parsed = tornado.escape.json_decode(message)
-        write_message(parsed['latLng'])
+        logger.info("position:(%f,%f) on date:%s" % (parsed['lat'], parsed['lng'], parsed['date']))
+        self.write_message(parsed)
         # click = {
         #     "lat": parsed["lat"],
         #     "lon": parsed["lon"],

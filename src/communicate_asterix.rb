@@ -3,13 +3,10 @@ require 'yajl'
 require 'restclient'
 require './logger.rb'
 
-ASTERIX_SERVER = "http://127.0.0.1:19101"
+ASTERIX_SERVER = "http://127.0.0.1:19002"
 DDL_POINT = ASTERIX_SERVER + "/ddl?ddl="
 UPDATE_POINT = ASTERIX_SERVER + "/update?statements="
 QUERY_POINT = ASTERIX_SERVER + "/query?query="
-
-CREATE_ALL_AQL = '../aql/creat_database.aql'
-ADM_DIR = '../data/adm/'
 
 Logger = Logger.new
 
@@ -55,12 +52,11 @@ def load_ddl (dbname, filepatten)
     end
 end
 
-#creat_ddl CREATE_ALL_AQL
-#load_ddl ('WebSoc', ADM_DIR + 'websoc/merge.adm')
+creat_ddl '../aql/create_database.aql'
+load_ddl 'WebSoc', '../data/adm/websoc/merge.adm'
 
-#creat_ddl  '../aql/create_location_db.aql'
-#load_ddl 'UCILocation', '../data/adm/roomfinder.adm'
-
+creat_ddl  '../aql/create_location_db.aql'
+load_ddl 'UCILocation', '../data/adm/roomfinder.adm'
 
 creat_ddl '../aql/create_seminar.aql'
 load_ddl 'UCISeminar', '../data/adm/icscalendar.adm'

@@ -23,7 +23,7 @@ Client = (function(){
 
     Client.prototype.receive = function(evt) {
         console.log("[client.js] receive: ", evt.data);
-        var obj = $.evalJSON(evt.data);
+        var obj = $.parseJSON(evt.data);
         if (typeof(obj) != 'object') 
             { return }
         this.map.receive_msg(obj);
