@@ -56,7 +56,12 @@ class MapHandler(tornado.websocket.WebSocketHandler):
         http = tornado.httpclient.HTTPClient()
         logger.info('MapHandler: on_search: query_bysearch_websoc')
         json = {}
-        jsoncache = self.asterix_query(http, query_bysearch_websoc %(parsed['text'],parsed['date']))
+        (course,teacher,dept) = [parsed['text'].upper()]*3
+        jsoncache = self.asterix_query(http, query_bysearch_websoc 
+            %(course,teacher,dept,
+                ['M','Tu','W','Th','F','Sa','Su'][
+                    datetime.date(*(int(x) for x in (parsed['date'].split('-')))).weekday()]
+            ))
         if jsoncache is not None:
             json['websoc'] = jsoncache['results']
             logger.info('MapHandler: on_search: request return %d' % len(jsoncache))

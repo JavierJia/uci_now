@@ -80,10 +80,14 @@
 
 							
 						<!-- Search and Choose Date -->
-							<section class="is-search">
-							<form id='searchbox'>
-									<input type="text" class="text" name="searchtext" placeholder="Search Events" />
+							<!-- <section class="is-search">
+							<form id='searchbox' action="get" method="get">
+								<input type="text" id="searchtext" /> <br />
+							</form> -->
+								<form id='searchbox' method="post" action="#">
+									<input type="text" class="text" id="searchtext" name="search" placeholder="Search Events" />
 								</form>
+
 								<br />
 								<form>
 									<input type="text" id="datepicker" placeholder="Select Date">

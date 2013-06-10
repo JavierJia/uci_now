@@ -33,7 +33,7 @@ use dataverse UCINow;
 for $l in dataset('UCILocation')
 for $class in dataset('WebSoc')
 where spatial-distance($l.gps, create-point(%f,%f)) < 0.001 
-    and matches ($class.place, $l.abbr) 
+    and $l.abbr != '' and substring-before($class.place,' ')= $l.abbr
     and matches ($class.weekday, '%s' )
 return  {
 "college":$class.college,
@@ -72,6 +72,35 @@ return  {
 }
 '''
 
-query_bysearch = '''
+query_bysearch_websoc = '''
+use dataverse UCINow;
 
+for $class in dataset WebSoc
+for $l in dataset UCILocation
+where (matches ($class.course ,'%s')
+	or matches ($class.instructor ,'%s')
+	or matches ($class.dept, '%s')
+)
+and $l.abbr !="" and substring-before($class.place,' ')= $l.abbr 
+and matches ($class.weekday, '%s' )
+return{
+"college":$class.college,
+"dept": $class.dept,
+"name":$class.course,
+"instructor":$class.instructor,
+"loop":$class.weekday,
+"time":$class.timestr,
+"location":$class.place,
+'lat':get-x($l.gps),
+'lng':get-y($l.gps)
+}
+'''
+
+query_bysearch_seminar = '''
+use dataverse UCINow;
+
+for $class in dataset UCISeminar
+where matches($class.title,'%s') 
+and $class.date = date('%s')
+return $class
 '''

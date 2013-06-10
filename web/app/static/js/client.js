@@ -13,10 +13,13 @@ Client = (function(){
         this.connection.onmessage = function(evt) { _this.receive(evt) }
 
         $('#searchbox').submit(function(){
+            event.preventDefault();
+            console.log('[client.js] search box submit');
             var date = $('#datepicker').val();
-            var text = $('#searchbox:searchtext').val();
+            var text = $('#searchtext').val();
             console.log('[client.js] send search on text:' + text + ' @' + date);
             _this.send({ action: 'search', date: date, text: text});
+            _this.map.map.setZoom(17);
         });
     }
 

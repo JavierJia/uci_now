@@ -39,6 +39,7 @@ Map = (function() {
         _this.clickedmarker = _this.create_marker(e.latLng,"U",'U R HERE<br>@' + e.latLng);
       }
       _this.map.setCenter(_this.clickedmarker.position);
+      _this.map.setZoom(18);
       _this.send_click_query(e.latLng);
     });
   };
